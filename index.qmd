@@ -1,7 +1,20 @@
 # Selamat Datang {.unnumbered}
 ## **SILABUS MATA KULIAH**
 
-**Nama Mata Kuliah:** Komunikasi Interpersonal dan Publik **Kode Mata Kuliah:** II2100 **SKS:** 2 **Penyelenggara:** Sistem dan Teknologi Informasi / STEI **Semester:** Ganjil 2025/2026 **Dosen Pengampu:** Armein Z. R. Langi
+**Nama Mata Kuliah:** Komunikasi Interpersonal dan Publik 
+**Kode Mata Kuliah:** II2100 
+**SKS:** 2 
+**Penyelenggara:** Sistem dan Teknologi Informasi / STEI 
+**Semester:** Ganjil 2025/2026 **Dosen Pengampu:** Armein Z. R. Langi
+
+Kuliah ONLINE Gabungan K01 dan K03 Selasa,  15:00-17:00
+https://meet.google.com/afj-qgdo-wxr
+
+II-2100 Komunikasi Interpersonal dan Publik
+Tuesday,  3:00 – 5:00pm
+Time zone: Asia/Jakarta
+Google Meet joining info
+Video call link: https://meet.google.com/afj-qgdo-wxr 
 
 **Deskripsi Singkat Mata Kuliah:** Mata kuliah ini memperkenalkan mahasiswa pada konsep-konsep dasar komunikasi interpersonal dan publik, meliputi komunikasi diri, proses mendengar, penggunaan bahasa verbal dan nonverbal, serta strategi pengelolaan konflik. Selain itu, mata kuliah ini juga membekali mahasiswa dengan kemampuan untuk mendemonstrasikan keterampilan komunikasi interpersonal yang efektif, menjelaskan konsep dan mendemonstrasikan keterampilan berbicara di depan umum, serta memahami peran teknologi dalam komunikasi.
 
@@ -55,4 +68,3 @@ Ada empat tahap perjalanan
 - P2: Presentasi: Penyajian pengetahuan cara mencapai tujuan: Jalan dan Kendaraan
 - P3: Praktek: latihan berkendaraan serta merencana membangun rute perjalanan (itenerary) hingga tiba di tujuan
 - P4: Perform. Setelah menetapkan rute yang hendak ditempuh beserta kendaraannya, itenerary ini dijalankan
-
