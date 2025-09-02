@@ -1,11 +1,10 @@
 project:
   type: book
-  output_dir: docs
+  output-dir: docs
 
 book:
-  title: "II-2100 Komunikasi Interpersonal dan Publik"
-  author: "Armein Z. R. Langi
-  "
+  title: "Selamat Datang di II-2100 Komunikasi Inter Personal dan Publik"
+  author: "Armein Z. R. Langi"
   date: "9/2/2025"
   chapters:
     - index.qmd
