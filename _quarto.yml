@@ -9,6 +9,19 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - kuliah/K-1.qmd
+    - kuliah/K-2.qmd
+    - kuliah/K-3.qmd
+    - kuliah/K-4.qmd
+    - kuliah/K-5.qmd
+    - kuliah/K-6.qmd
+    - kuliah/K-7.qmd
+    - kuliah/K-8.qmd
+    - kuliah/K-9.qmd
+    - kuliah/K-10.qmd
+    - kuliah/K-11.qmd
+    - kuliah/K-12.qmd
+    - kuliah/K-13.qmd
     - summary.qmd
     - references.qmd
 

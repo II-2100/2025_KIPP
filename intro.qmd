@@ -1,5 +1,129 @@
-# Introduction
+# RENCANA PEMBELAJARAN SEMESTER (RPS)
 
-This is a book created from markdown and executable code.
+**Minggu 1: Fondasi Komunikasi Interpersonal**
 
-See @knuth84 for additional discussion of literate programming.
+• **Bahan Kajian:** Konsep komunikasi interpersonal.
+
+• **Penjelasan:** Definisi komunikasi sebagai proses yang kompleks dan fundamental. Model komunikasi (linear, interaksional, transaksional), termasuk komponen-komponennya seperti partisipan, konteks, dan tujuan. Pengenalan terhadap kompetensi komunikasi dan pentingnya pemahaman bersama atas makna.
+
+• **Metode:** Ceramah, diskusi kelompok tentang pengalaman komunikasi.
+
+• **Tugas:** Refleksi diri awal mengenai kompetensi komunikasi.
+
+**Minggu 2: Komunikasi Diri dan Persepsi**
+
+• **Bahan Kajian:** Konsep komunikasi diri.
+
+• **Penjelasan:** **Komunikasi intrapersonal (self-talk)** sebagai dasar perencanaan, evaluasi, dan visualisasi. **Konsep diri (self-concept)**, bagaimana ia berkembang, karakteristiknya, dan pengaruh **self-fulfilling prophecy** terhadap komunikasi. Pembentukan skema mental untuk memproses informasi. Peran persepsi, termasuk pengaruh otak kanan dan kiri dalam mendengarkan dan belajar.
+
+• **Metode:** Ceramah, latihan self-talk, diskusi tentang bias persepsi.
+
+• **Tugas:** Jurnal self-talk dan analisis diri.
+
+**Minggu 3-4: Bahasa Verbal: Makna dan Pengaruh**
+
+• **Bahan Kajian:** Bahasa lisan.
+
+• **Penjelasan:** Bahasa bersifat simbolis, diatur oleh aturan (fonologi, sintaksis, semantik, pragmatik), dan subjektif. **Hipotesis Sapir-Whorf** yang menyatakan bahasa membentuk pandangan dunia kita. Pengaruh bahasa terhadap identitas, afiliasi, kekuasaan, kesopanan, seksisme, rasisme, presisi, dan tanggung jawab. Variasi bahasa seperti dialek dan contohnya seperti Spanglish. Pentingnya memilih kata yang tepat untuk menghindari kesalahpahaman.
+
+• **Metode:** Ceramah, analisis studi kasus penggunaan bahasa, latihan penulisan yang presisi.
+
+• **Tugas:** Analisis penggunaan bahasa dalam media atau percakapan sehari-hari.
+
+**Minggu 5-6: Komunikasi Nonverbal: Pesan Tanpa Kata**
+
+• **Bahan Kajian:** Komunikasi nonverbal.
+
+• **Penjelasan:** Definisi dan karakteristik komunikasi nonverbal. Dasar komunikasi nonverbal (program neurologis, pengaruh budaya). Hubungan antara isyarat verbal dan nonverbal (mengganti, melengkapi). Bentuk-bentuk komunikasi nonverbal seperti **chronemics (penggunaan waktu)**, termasuk budaya monokronik dan polikronik. Isyarat nonverbal lain seperti sentuhan, bau, estetika, dan rasa. Perilaku nonverbal immediacy.
+
+• **Metode:** Ceramah, demonstrasi perilaku nonverbal, analisis video.
+
+• **Tugas:** Observasi dan analisis komunikasi nonverbal dalam berbagai konteks.
+
+**Minggu 7: Mendengarkan Aktif dan Empati**
+
+• **Bahan Kajian:** Mendengar.
+
+• **Penjelasan:** Mendengarkan sebagai keterampilan yang dipelajari dan komponen penting dari komunikasi. Gaya mendengarkan yang berbeda (people-oriented, action-oriented, relational, analytical, task, critical). Proses mendengarkan yang sadar (mindful listening) dan berbagai respons mendengarkan (stonewalling, backchanneling, paraphrasing, empathizing, supporting, analyzing, advising).
+
+• **Metode:** Ceramah, latihan mendengarkan aktif (paraphrasing), role-playing.
+
+• **Tugas:** Latihan mendengarkan dalam interaksi sehari-hari dan menulis refleksi.
+
+**Minggu 8: UJIAN TENGAH SEMESTER (UTS)**
+
+• **Cakupan Materi:** Minggu 1-7.
+
+**Minggu 9: Dinamika Hubungan Interpersonal**
+
+• **Bahan Kajian:** Hubungan—Defined.
+
+• **Penjelasan:** Definisi hubungan dan mengapa kita membentuknya. Model tahap perkembangan hubungan (Knapp's models: coming together, coming apart, maintenance). **Dialektika relasional** (misalnya, otonomi vs. koneksi) sebagai ketegangan alami dalam hubungan. Peran ekspektasi dan kepuasan dalam hubungan.
+
+• **Metode:** Ceramah, diskusi kelompok tentang dinamika hubungan.
+
+• **Tugas:** Studi kasus dinamika hubungan.
+
+**Minggu 10: Komunikasi dalam Hubungan Dekat (Keluarga dan Pertemanan)**
+
+• **Bahan Kajian:** Definisi keluarga.
+
+• **Penjelasan:** Komunikasi dalam pertemanan (jenis pertemanan, perbedaan gender, media sosial dalam pertemanan). Komunikasi dalam keluarga (definisi keluarga, menciptakan keluarga melalui komunikasi, pola komunikasi keluarga seperti orientasi percakapan dan konformitas). Ekspresi cinta melalui "love languages". Hubungan romantis dan peran komunikasi digital.
+
+• **Metode:** Ceramah, berbagi pengalaman, diskusi kelompok tentang pola komunikasi keluarga.
+
+• **Tugas:** Analisis pola komunikasi dalam hubungan dekat.
+
+**Minggu 11: Mengelola Konflik dalam Komunikasi**
+
+• **Bahan Kajian:** Mengelola konflik.
+
+• **Penjelasan:** Konsep dan jenis resolusi konflik (win-lose, lose-lose, win-win). Strategi komunikasi asertif. **Iklim komunikasi (communication climate)** dan perannya dalam konflik. Mengembangkan iklim yang suportif vs. defensif, termasuk faktor-faktor penyebabnya. Pola demand/withdraw dalam konflik.
+
+• **Metode:** Ceramah, simulasi konflik dan resolusi, latihan membangun iklim komunikasi suportif.
+
+• **Tugas:** Perencanaan strategi resolusi konflik untuk skenario tertentu.
+
+**Minggu 12: Fondasi Berbicara di Depan Umum**
+
+• **Bahan Kajian:** Presentasi untuk khalayak umum atau luas.
+
+• **Penjelasan:** Sejarah bidang komunikasi yang berfokus pada berbicara di depan umum. Mengembangkan keberanian dan rasa percaya diri dalam berbicara di depan umum melalui persiapan yang memadai. Pentingnya memahami audiens dan menghindari monoton. Struktur pidato dasar (menyatakan fakta, berargumen, seruan untuk bertindak). Prinsip "short speeches".
+
+• **Metode:** Ceramah, latihan singkat presentasi individu, diskusi mengatasi kecemasan berbicara.
+
+• **Tugas:** Persiapan outline pidato persuasif.
+
+**Minggu 13: Seni Presentasi dan Bercerita (Storytelling)**
+
+• **Bahan Kajian:** Presentasi untuk khalayak umum atau luas.
+
+• **Penjelasan:** Membangun pidato yang menarik, memanfaatkan elemen storytelling dalam presentasi untuk menyampaikan ide kompleks dan membangun koneksi. Keterampilan presentasi yang efektif, termasuk penggunaan vokal dan isyarat nonverbal dalam menyampaikan pesan di depan publik.
+
+• **Metode:** Ceramah, analisis video presentasi yang efektif, latihan presentasi dengan fokus storytelling.
+
+• **Tugas:** Menyampaikan pidato singkat di depan kelas dengan elemen storytelling.
+
+**Minggu 14: Teknologi Komunikasi dan Dampaknya**
+
+• **Bahan Kajian:** Teknologi komunikasi.
+
+• **Penjelasan:** Peran teknologi dalam komunikasi interpersonal dan publik. **Komunikasi bermediasi komputer (CMC)** dan implikasinya (online education, jejaring sosial, texting, email, IMing). Dampak media sosial terhadap kualitas hubungan dan manajemen kesan online. Konsep **multimodality** (kemampuan menggunakan berbagai saluran komunikasi). Tantangan seperti kecanduan texting, cyberbullying, dan phubbing.
+
+• **Metode:** Ceramah, diskusi tentang etika komunikasi digital, analisis studi kasus.
+
+• **Tugas:** Esai reflektif tentang dampak teknologi pada komunikasi personal.
+
+**Minggu 15: Review dan Aplikasi Keterampilan**
+
+• **Bahan Kajian:** Integrasi seluruh bahan kajian.
+
+• **Penjelasan:** Sesi ini didedikasikan untuk meninjau kembali semua konsep dan keterampilan yang telah dipelajari. Mahasiswa akan mendapatkan kesempatan untuk mempraktikkan keterampilan komunikasi interpersonal dan publik secara terintegrasi melalui simulasi atau presentasi akhir.
+
+• **Metode:** Diskusi terbuka, latihan simulasi, presentasi akhir (jika dialokasikan).
+
+• **Tugas:** Persiapan UAS, menyelesaikan tugas akhir (jika ada).
+
+**Minggu 16: UJIAN AKHIR SEMESTER (UAS)**
+
+• **Cakupan Materi:** Minggu 1-14, dengan penekanan pada materi setelah UTS.
