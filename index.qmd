@@ -1,32 +1,24 @@
 # Selamat Datang {.unnumbered}
+
 ## **SILABUS MATA KULIAH**
 
-**Nama Mata Kuliah:** Komunikasi Interpersonal dan Publik 
-**Kode Mata Kuliah:** II2100 
-**SKS:** 2 
-**Penyelenggara:** Sistem dan Teknologi Informasi / STEI 
-**Semester:** Ganjil 2025/2026 **Dosen Pengampu:** Armein Z. R. Langi
+**Nama Mata Kuliah:** Komunikasi Interpersonal dan Publik  **Kode Mata Kuliah:** II2100  **SKS:** 2  **Penyelenggara:** Sistem dan Teknologi Informasi / STEI  **Semester:** Ganjil 2025/2026 **Dosen Pengampu:** Armein Z. R. Langi
 
-Kuliah ONLINE Gabungan K01 dan K03 Selasa,  15:00-17:00
-https://meet.google.com/afj-qgdo-wxr
+Kuliah ONLINE Gabungan K01 dan K03 Selasa, 15:00-17:00 https://meet.google.com/afj-qgdo-wxr
 
-II-2100 Komunikasi Interpersonal dan Publik
-Tuesday,  3:00 – 5:00pm
-Time zone: Asia/Jakarta
-Google Meet joining info
-Video call link: https://meet.google.com/afj-qgdo-wxr 
+II-2100 Komunikasi Interpersonal dan Publik Tuesday, 3:00 – 5:00pm Time zone: Asia/Jakarta Google Meet joining info Video call link: https://meet.google.com/afj-qgdo-wxr
 
 **Deskripsi Singkat Mata Kuliah:** Mata kuliah ini memperkenalkan mahasiswa pada konsep-konsep dasar komunikasi interpersonal dan publik, meliputi komunikasi diri, proses mendengar, penggunaan bahasa verbal dan nonverbal, serta strategi pengelolaan konflik. Selain itu, mata kuliah ini juga membekali mahasiswa dengan kemampuan untuk mendemonstrasikan keterampilan komunikasi interpersonal yang efektif, menjelaskan konsep dan mendemonstrasikan keterampilan berbicara di depan umum, serta memahami peran teknologi dalam komunikasi.
 
 **Capaian Pembelajaran Mata Kuliah (CPMK):** Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
 
-1. **Menjelaskan konsep-konsep komunikasi interpersonal**.
+1. CPMK-1 **Menjelaskan konsep-konsep komunikasi interpersonal**.
 
-2. **Mendemonstrasikan komunikasi interpersonal** secara efektif.
+2. CPMK-2 **Mendemonstrasikan komunikasi interpersonal** secara efektif.
 
-3. **Menjelaskan konsep-konsep berbicara di depan publik**.
+3. CPMK-3 **Menjelaskan konsep-konsep berbicara di depan publik**.
 
-4. **Mendemonstrasikan kemampuan berbicara di depan publik** dengan percaya diri.
+4. CPMK-4 **Mendemonstrasikan kemampuan berbicara di depan publik** dengan percaya diri.
 
 **Metode Pembelajaran:**
 
@@ -38,6 +30,8 @@ Video call link: https://meet.google.com/afj-qgdo-wxr
 
 • Presentasi
 
+Manfaatkan AI seperti NotebokLM secara maksimal untuk membantu pembelajaran.
+
 **Modalitas Pembelajaran:**
 
 • Visual sinkron (kuliah tatap muka atau daring langsung)
@@ -46,25 +40,30 @@ Video call link: https://meet.google.com/afj-qgdo-wxr
 
 **Metode Penilaian:**
 
-• Ujian Tengah Semester (UTS)
+• Ujian Tengah Semester (UTS) 30%
 
-• Ujian Akhir Semester (UAS)
+• Ujian Akhir Semester (UAS) 30%
 
-• Tugas (meliputi partisipasi diskusi, latihan, presentasi, esai)
+• Tugas (meliputi partisipasi diskusi, kuis, latihan, presentasi, esai) 40%
 
 **Referensi Utama:**
 
-1. Berko, Roy, Joan E. Aitken, and Andrew Wolvin. _ICOMM: Interpersonal Concepts and Competencies: Foundations of Interpersonal Communication_. Rowman & Littlefield Publishers, Inc., 2010.
+1. Berko, Roy, Joan E. Aitken, and Andrew Wolvin. *ICOMM: Interpersonal Concepts and Competencies: Foundations of Interpersonal Communication*. Rowman & Littlefield Publishers, Inc., 2010.
 
-2. Floyd, Kory. _Interpersonal Communication_. Second Edition. McGraw-Hill, 2011.
+2. Floyd, Kory. *Interpersonal Communication*. Second Edition. McGraw-Hill, 2011.
 
-3. Adler, Ronald B., Lawrence B. Rosenfeld, and Russell F. Proctor. _Interplay: The Process of Interpersonal Communication_. 14th Edition. Oxford University Press, 2018.
+3. Adler, Ronald B., Lawrence B. Rosenfeld, and Russell F. Proctor. *Interplay: The Process of Interpersonal Communication*. 14th Edition. Oxford University Press, 2018.
 
-4. Esenwein, J. Berg. _The Art of Public Speaking_. [Sumber tanpa tanggal, digunakan sebagai referensi pendukung untuk Public Speaking].
+4. Esenwein, J. Berg. *The Art of Public Speaking*. \[Sumber tanpa tanggal, digunakan sebagai referensi pendukung untuk Public Speaking\].
 
 ## Belajar adalah Perjalanan
+
 Ada empat tahap perjalanan
-- P1: Persiapan: Tahu sedang di mana, mau ke mana dan mengapa
-- P2: Presentasi: Penyajian pengetahuan cara mencapai tujuan: Jalan dan Kendaraan
-- P3: Praktek: latihan berkendaraan serta merencana membangun rute perjalanan (itenerary) hingga tiba di tujuan
-- P4: Perform. Setelah menetapkan rute yang hendak ditempuh beserta kendaraannya, itenerary ini dijalankan
+
+-   P1: Persiapan: Tahu sedang di mana, mau ke mana dan mengapa
+
+-   P2: Presentasi: Penyajian pengetahuan cara mencapai tujuan: Jalan dan Kendaraan
+
+-   P3: Praktek: latihan berkendaraan serta merencana membangun rute perjalanan (itenerary) hingga tiba di tujuan
+
+-   P4: Perform. Setelah menetapkan rute yang hendak ditempuh beserta kendaraannya, itenerary ini dijalankan
