@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "II-2100 Komunikasi Interpersonal dan Publik"
+  author: "Armein Z. R. Langi"
+  date: "9/2/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
