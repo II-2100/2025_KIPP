@@ -9,6 +9,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - asesmen.qmd
     - kuliah/K-1.qmd
     - kuliah/K-2.qmd
     - kuliah/K-3.qmd
