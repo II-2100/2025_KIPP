@@ -57,11 +57,11 @@ Di era Artificial Intelligence (AI), mahasiswa dianjurkan memanfaatkan teknologi
 : Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diukur serta bobot peniliaian dalam skala 100. {#tbl-asesmen}
 
 
-## Teknis Pelaksanaan, Pengumpulan, dan Penilaiain
+## Teknis Pelaksanaan, Pengumpulan, dan Penilaian
 
 ### Repositori Github
 
-Dianjurkan setiap peserta memanfaatkan Github untuk meng-host portfolio karya laporan tugas. Untuk itu setiap peserta dapat mem-fork repositori [contoh](https://github.com/II-2100/all-about-me) dan menggunakan nya sebagai template. Meskpun demikian, peserta dapat menggunakan platform lain untuk menyimpan hasil tugas nya. 
+Dianjurkan setiap peserta memanfaatkan Github untuk meng-host portfolio karya laporan tugas. Untuk itu setiap peserta dapat mem-fork repositori [contoh](https://github.com/II-2100/all-about-me) dan menggunakan nya sebagai template <https://II-2100.github.io/all-about-me>. Meskpun demikian, peserta dapat menggunakan platform lain untuk menyimpan hasil tugas nya. 
 
 Pada @tbl-asesmen di cantumkan juga soft-deadline, yaitu jadwal pengumpulan tugas. Hard deadline UTS dan UAS masing-masing ada pada UTS-5 dan UAS-10., berarti semua tugas sudah harus tersubmit sebelum hard-deadline
 
