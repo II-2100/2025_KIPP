@@ -2,6 +2,12 @@
 title: Asesmen
 ---
 
+URL Submisi: <https://forms.office.com/r/pbUdPnGN3h>
+
+Pencapaian tujuan komunikasi akan semakin berhasil bila kita memiliki daya tarik. Sebaliknya juga berlaklu bahwa komunikasi bermaksud memperkuat daya tarik.
+
+Dalam kuliah ini, daya tarik personal timbul apabila kita mengkomunikasikan sosok yang interesting, cerdas, dan berpengaruh. Cara mengkomunikasikannya adalah dengan menyampaikan pengalaman hidup kita, pemahaman kita, pendapat kita, dan karya kitga. Tugas-tugas ini dimaksudkan untuk berlatih mengekspresikan daya tarik.  
+
 # Petunjuk Asesmen{.unnumbered}
 
 :::{.callout-warning}
@@ -57,6 +63,59 @@ Di era Artificial Intelligence (AI), mahasiswa dianjurkan memanfaatkan teknologi
 : Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diukur serta bobot peniliaian dalam skala 100. {#tbl-asesmen}
 
 
+##  **Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-7)
+
+Pada materi setiap minggu, terdapat Kuiz yang perlu dikerjakan melalui Situs Microsoft Form.
+
+##  **Kuis Materi Topik Setiap Minggu (Q-8 s/d Q-14)
+
+Pada materi setiap minggu, terdapat Kuiz yang perlu dikerjakan melalui Situs Microsoft Form.
+
+##  UTS-1 All About Me 
+
+Berisikan pesan yang memperkenalkan sosok diri kita. Meskipun komunikasi bhersifat pribadi, hendaknya informasi yang sensitif atau yang bersifat rahasia bank (seperti nama ibu kandung) tidak ditayangkan
+
+## UTS-2 Song for you
+
+Berisikan pesan berbentuk puisi, lago, dan/atau viodeo clip untuk ia atau mereka yang kita anggap relasi intim. Penggunakan AI akan mempercepat proses pembuatannya, namun otensitas dan signature pribadi sangat penting untuk keberhasilan pesan ini.
+    
+## UTS-3 My Stories for You, 
+
+Berisikan kisah inspiratif dan menarik yang Anda ingin bagikan dengan pribadi lain. Gunakan rubrik [terlampir](asesmen/UTS-3-My-Stories-for-You/Dok.4.a.Rubrik_Kisah.pdf)
+
+## UTS-4 My Shape, 
+
+Berisikan laporan siapa Anda berdasar hasil sebuah lembar kerja 
+
+## UTS-5 My Personal Review, 
+
+Berisikan telahan pesan personal berdasarkan rubrik
+
+## UAS-1 My Concepts, 
+
+Berisikan suatu penjelasan atas suatu fenomena yang penting, dengan tujuan untuk mengkomunikasikan keistimewaan pengetahuan yang kita miliki. Penjelasan singkat apa itu konsep dapat di lihat di sini:
+{{< video https://youtu.be/DxK-_0AzHiw?si=5lpAur3wWtiOyUDV>}}
+
+
+
+## UAS-2 My Opinions,
+
+Berisikan suatu pandangan mengenai bagaimana sikap, keputusan, atau tindakan terbaik yang harus diambil dalam menghadapiu suatu kondisi atau perkembangan
+
+## UAS-3 My Innovations
+
+Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas berkomunikasi KIPP 
+
+## UAS-4 My Knowledge, 
+
+Berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini
+
+## UAS-5 My Professional Reviews
+
+Berisikan telaahan pesan publikl berdasarkan rubrik. 
+
+
+
 ## Teknis Pelaksanaan, Pengumpulan, dan Penilaian
 
 ### Repositori Github
@@ -64,6 +123,8 @@ Di era Artificial Intelligence (AI), mahasiswa dianjurkan memanfaatkan teknologi
 Dianjurkan setiap peserta memanfaatkan Github untuk meng-host portfolio karya laporan tugas. Untuk itu setiap peserta dapat mem-fork repositori [contoh](https://github.com/II-2100/all-about-me) dan menggunakan nya sebagai template <https://II-2100.github.io/all-about-me>. Meskpun demikian, peserta dapat menggunakan platform lain untuk menyimpan hasil tugas nya. 
 
 Pada @tbl-asesmen di cantumkan juga soft-deadline, yaitu jadwal pengumpulan tugas. Hard deadline UTS dan UAS masing-masing ada pada UTS-5 dan UAS-10., berarti semua tugas sudah harus tersubmit sebelum hard-deadline
+
+Link ke halaman utama dari tugas Anda hendaknya dilaporkan di <https://forms.office.com/r/pbUdPnGN3h>. Sebelum dilaporkan, pastikan 
 
 ------------------------------------------------------------------------
 
