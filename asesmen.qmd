@@ -1,29 +1,34 @@
----
-title: Asesmen
----
+#  Asesmen Pencapaian CPMK {.unnumbered}
 
-URL Submisi: <https://forms.office.com/r/pbUdPnGN3h>
+::: callout-warning
+Petunjuk asesmen ini masih dalam pengerjaan, sehingga perlu dikunjungi secara berkala untuk mendapatkan petunjuk terkini.
+:::
 
 Pencapaian tujuan komunikasi akan semakin berhasil bila kita memiliki daya tarik. Sebaliknya juga berlaklu bahwa komunikasi bermaksud memperkuat daya tarik.
 
-Dalam kuliah ini, daya tarik personal timbul apabila kita mengkomunikasikan sosok yang interesting, cerdas, dan berpengaruh. Cara mengkomunikasikannya adalah dengan menyampaikan pengalaman hidup kita, pemahaman kita, pendapat kita, dan karya kitga. Tugas-tugas ini dimaksudkan untuk berlatih mengekspresikan daya tarik.  
+Dalam kuliah ini, daya tarik personal timbul apabila kita mengkomunikasikan sosok yang interesting, cerdas, dan berpengaruh. Cara mengkomunikasikannya adalah dengan menyampaikan pengalaman hidup kita, pemahaman kita, pendapat kita, dan karya kitga. Tugas-tugas ini dimaksudkan untuk berlatih mengekspresikan daya tarik.
 
 # Petunjuk Asesmen {.unnumbered}
 
-:::{.callout-warning}
-Petunjuk asesmen ini masih dalam pengerjaan, sehingga perlu dikunjungi secara berkala untuk mendapatkan petunjuk terkini.
+::: callout-important
+Petunjuk:
+
+1.  Baca petunjuk ini
+
+2.  Fork repositori [All About Me](https://github.com/II-2100/all-about-me.git) atau <https://github.com/II-2100/all-about-me.git>
+
+3.  simpan hasil laporan tugas anda pada repositori tersebut
+
+4.  publish bagian yang hendak di asses melalui portal page
+
+5.  submit URL portal page ke URL Submisi: <https://forms.office.com/r/pbUdPnGN3h>
 :::
 
 ## Konsep Penguasaan Kompetensi
 
 Berikut adalah konsep asesmen untuk mata kuliah II 2100 Komunikasi Interpersonal dan Publik, yang dirancang untuk mengukur pencapaian Capaian Pembelajaran Mata Kuliah (CPMK) secara komprehensif, dilengkapi dengan rubrik lima level pencapaian.
 
-Mata kuliah II 2100 "Komunikasi Interpersonal dan Publik" bertujuan untuk membekali mahasiswa dengan kemampuan 
-- **menjelaskan konsep-konsep komunikasi interpersonal (CPMK-1)**, 
-- **mendemonstrasikan komunikasi interpersonal secara efektif (CPMK-2)**, 
-- **menjelaskan konsep-konsep berbicara di depan publik (CPMK-3)**, dan
-- **mendemonstrasikan kemampuan berbicara di depan publik dengan percaya diri (CPMK-4)**.
-Filosofi dasar perkuliahan ini adalah bahwa komunikasi pribadi berperan penting dalam **membentuk konsep diri yang otentik, mengekspresikan diri untuk daya tarik pribadi, serta membangun dan mengembangkan relasi yang berhasil dengan *significant other***. Relasi pribadi ini kemudian menjadi **dasar untuk berkomunikasi secara publik**, yang menuntut **otentisitas, kepercayaan, ketulusan, kejujuran, kompetensi, dan logika gagasan** (yang dikenal sebagai *pathos, ethos*, dan *logos*) pada pendengar.
+Mata kuliah II 2100 "Komunikasi Interpersonal dan Publik" bertujuan untuk membekali mahasiswa dengan kemampuan - **menjelaskan konsep-konsep komunikasi interpersonal (CPMK-1)**, - **mendemonstrasikan komunikasi interpersonal secara efektif (CPMK-2)**, - **menjelaskan konsep-konsep berbicara di depan publik (CPMK-3)**, dan - **mendemonstrasikan kemampuan berbicara di depan publik dengan percaya diri (CPMK-4)**. Filosofi dasar perkuliahan ini adalah bahwa komunikasi pribadi berperan penting dalam **membentuk konsep diri yang otentik, mengekspresikan diri untuk daya tarik pribadi, serta membangun dan mengembangkan relasi yang berhasil dengan *significant other***. Relasi pribadi ini kemudian menjadi **dasar untuk berkomunikasi secara publik**, yang menuntut **otentisitas, kepercayaan, ketulusan, kejujuran, kompetensi, dan logika gagasan** (yang dikenal sebagai *pathos, ethos*, dan *logos*) pada pendengar.
 
 Di era Artificial Intelligence (AI), mahasiswa dianjurkan memanfaatkan teknologi secara maksimal.
 
@@ -32,71 +37,68 @@ Di era Artificial Intelligence (AI), mahasiswa dianjurkan memanfaatkan teknologi
 **Bentuk-bentuk Asesmen:** Untuk mengukur CPMK tersebut, asesmen akan menggunakan beberapa bentuk penilaian, yaitu:
 
 1.  **Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-14):** Mengukur pemahaman konseptual dari 14 topik perkuliahan yang disampaikan setiap minggu.
-2.  **Ujian Tengah Semester (UTS-1 s/d UTS-5):** Fokus pada proyek demonstrasi komunikasi personal 
-    1. UTS-1 All About Me, berisikan pesan yang memperkenalkan sosok diri kita 
-    2. UTS-2 Song for you, berisikan pesan berbentuk puisi, lago, dan/atau viodeo clip[ 
-    3. UTS-3 My Stories for You, berisikan kisah inspiratif dan menarik yang Anda ingin bagikan dengan pribadi lain
-    4. UTS-4 My Shape, berisikan laporan siapa Anda berdasar hasil sebuah lembar kerja 
-    5. UTS-5 My Personal Review, berisikan telahan pesan personal berdasarkan rubrik
+2.  **Ujian Tengah Semester (UTS-1 s/d UTS-5):** Fokus pada proyek demonstrasi komunikasi personal
+    1.  UTS-1 All About Me, berisikan pesan yang memperkenalkan sosok diri kita
+    2.  UTS-2 Song for you, berisikan pesan berbentuk puisi, lago, dan/atau viodeo clip\[
+    3.  UTS-3 My Stories for You, berisikan kisah inspiratif dan menarik yang Anda ingin bagikan dengan pribadi lain
+    4.  UTS-4 My Shape, berisikan laporan siapa Anda berdasar hasil sebuah lembar kerja
+    5.  UTS-5 My Personal Review, berisikan telahan pesan personal berdasarkan rubrik
 3.  **Ujian Akhir Semester (UAS-1 s/d UAS-5):** Fokus pada proyek demonstrasi komunikasi inspiratif publik yang mengaplikasikan konsep interpersonal.
-    1. UAS-1 My Concepts, 
-    2. UAS-2 My Opinions,
-    3. UAS-3 My Innovations, berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas 
-    4. UAS-4 My Knowledge, berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini
-    5. UAS-5 My Professional Reviews, berisikan telaahan pesan publikl berdasarkan rubrik. 
+    1.  UAS-1 My Concepts,
+    2.  UAS-2 My Opinions,
+    3.  UAS-3 My Innovations, berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas
+    4.  UAS-4 My Knowledge, berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini
+    5.  UAS-5 My Professional Reviews, berisikan telaahan pesan publikl berdasarkan rubrik.
 
-| Jenis | Asesmen                | Soft Deadline Minggu ke | CPMK-1 | CPMK-2 | CPMK-3 | CPMK-4 |
-| ----- | ---------------------- | ----------------------- | ------ | ------ | ------ | ------ |
-| Kuiz  | Q1-Q7                  |                         | 14     |        |        |        |
-| Kuiz  | Q8-Q14                 |                         |        |        | 14     |        |
-| UTS-1   | All About Me           | 4                       |        | 6      |        |        |
-| UTS-2   | My Song for You        | 5                       |        | 7      |        |        |
-| UTS-3   | My Stories for You     | 6                       |        | 7      |        |        |
-| UTS-4   | My Shape               | 7                       |        | 6      |        |        |
-| UTS-5   | My Personal Review     | 8                       | 10     |        |        |        |
-| UAS-1   | My Concepts            | 12                      |        |        |        | 6      |
-| UAS-2   | My Opinions            | 13                      |        |        |        | 6      |
-| UAS-3   | My Innovations         | 14                      |        |        |        | 7      |
-| UAS-4   | My Knowledge           | 15                      |        |        |        | 7      |
-| UAS-5   | My Professional Review | 16                      |        |        | 10     |        |
-|       |                        |                         | 24     | 26     | 24     | 26     |
+| Jenis | Asesmen | Soft Deadline Minggu ke | CPMK-1 | CPMK-2 | CPMK-3 | CPMK-4 |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Kuiz | Q1-Q7 |  | 14 |  |  |  |
+| Kuiz | Q8-Q14 |  |  |  | 14 |  |
+| UTS-1 | All About Me | 4 |  | 6 |  |  |
+| UTS-2 | My Song for You | 5 |  | 7 |  |  |
+| UTS-3 | My Stories for You | 6 |  | 7 |  |  |
+| UTS-4 | My Shape | 7 |  | 6 |  |  |
+| UTS-5 | My Personal Review | 8 | 10 |  |  |  |
+| UAS-1 | My Concepts | 12 |  |  |  | 6 |
+| UAS-2 | My Opinions | 13 |  |  |  | 6 |
+| UAS-3 | My Innovations | 14 |  |  |  | 7 |
+| UAS-4 | My Knowledge | 15 |  |  |  | 7 |
+| UAS-5 | My Professional Review | 16 |  |  | 10 |  |
+|  |  |  | 24 | 26 | 24 | 26 |
+
 : Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diukur serta bobot peniliaian dalam skala 100. {#tbl-asesmen}
 
-
-##  **Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-7)
-
-Pada materi setiap minggu, terdapat Kuiz yang perlu dikerjakan melalui Situs Microsoft Form.
-
-##  **Kuis Materi Topik Setiap Minggu (Q-8 s/d Q-14)
+## \*\*Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-7)
 
 Pada materi setiap minggu, terdapat Kuiz yang perlu dikerjakan melalui Situs Microsoft Form.
 
-##  UTS-1 All About Me 
+## \*\*Kuis Materi Topik Setiap Minggu (Q-8 s/d Q-14)
+
+Pada materi setiap minggu, terdapat Kuiz yang perlu dikerjakan melalui Situs Microsoft Form.
+
+## UTS-1 All About Me
 
 Berisikan pesan yang memperkenalkan sosok diri kita. Meskipun komunikasi bhersifat pribadi, hendaknya informasi yang sensitif atau yang bersifat rahasia bank (seperti tanggal lahir dan nama ibu kandung) tidak ditayangkan
 
 ## UTS-2 Song for you
 
 Berisikan pesan berbentuk puisi, lago, dan/atau viodeo clip untuk ia atau mereka yang kita anggap relasi intim. Penggunakan AI akan mempercepat proses pembuatannya, namun otensitas dan signature pribadi sangat penting untuk keberhasilan pesan ini.
-    
-## UTS-3 My Stories for You, 
+
+## UTS-3 My Stories for You,
 
 Berisikan kisah inspiratif dan menarik yang Anda ingin bagikan dengan pribadi lain. Gunakan rubrik [terlampir](asesmen/UTS-3-My-Stories-for-You/Dok.4.a.Rubrik_Kisah.pdf)
 
-## UTS-4 My Shape, 
+## UTS-4 My Shape,
 
-Berisikan laporan siapa Anda berdasar, Piagam Diri dan Identitas Naratif, hasil sebuah lembar kerja  [My SHAPE](asesmen/UTS-4-My-SHAPE/my_shape_short_2.pdf)
+Berisikan laporan siapa Anda berdasar, Piagam Diri dan Identitas Naratif, hasil sebuah lembar kerja [My SHAPE](asesmen/UTS-4-My-SHAPE/my_shape_short_2.pdf)
 
-## UTS-5 My Personal Review, 
+## UTS-5 My Personal Review,
 
 Berisikan telahan pesan personal berdasarkan rubrik, Sebagaimana [PETUNJUK ini](asesmen/UTS-5-My-Personal-Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf). Rubrik untuk My Stories ada di [sini](asesmen/UTS-5-My-Personal-Reviews/Dok.4.a.Rubrik_Kisah.pdf)
 
-## UAS-1 My Concepts, 
+## UAS-1 My Concepts,
 
-Berisikan suatu penjelasan atas suatu fenomena yang penting, dengan tujuan untuk mengkomunikasikan keistimewaan pengetahuan yang kita miliki. Penjelasan singkat apa itu konsep dapat di lihat di sini:
-{{< video https://youtu.be/DxK-_0AzHiw?si=5lpAur3wWtiOyUDV>}}
-
-
+Berisikan suatu penjelasan atas suatu fenomena yang penting, dengan tujuan untuk mengkomunikasikan keistimewaan pengetahuan yang kita miliki. Penjelasan singkat apa itu konsep dapat di lihat di sini: {{< video https://youtu.be/DxK-_0AzHiw?si=5lpAur3wWtiOyUDV>}}
 
 ## UAS-2 My Opinions,
 
@@ -104,27 +106,25 @@ Berisikan suatu pandangan mengenai bagaimana sikap, keputusan, atau tindakan ter
 
 ## UAS-3 My Innovations
 
-Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas berkomunikasi KIPP 
+Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas berkomunikasi KIPP
 
-## UAS-4 My Knowledge, 
+## UAS-4 My Knowledge,
 
 Berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini
 
 ## UAS-5 My Professional Reviews
 
-Berisikan telaahan pesan publikl berdasarkan rubrik. 
-
-
+Berisikan telaahan pesan publikl berdasarkan rubrik.
 
 ## Teknis Pelaksanaan, Pengumpulan, dan Penilaian
 
 ### Repositori Github
 
-Dianjurkan setiap peserta memanfaatkan Github untuk meng-host portfolio karya laporan tugas. Untuk itu setiap peserta dapat mem-fork repositori [contoh](https://github.com/II-2100/all-about-me) dan menggunakan nya sebagai template <https://II-2100.github.io/all-about-me>. Meskpun demikian, peserta dapat menggunakan platform lain untuk menyimpan hasil tugas nya. 
+Dianjurkan setiap peserta memanfaatkan Github untuk meng-host portfolio karya laporan tugas. Untuk itu setiap peserta dapat mem-fork repositori [contoh](https://github.com/II-2100/all-about-me) dan menggunakan nya sebagai template <https://II-2100.github.io/all-about-me>. Meskpun demikian, peserta dapat menggunakan platform lain untuk menyimpan hasil tugas nya.
 
 Pada @tbl-asesmen di cantumkan juga soft-deadline, yaitu jadwal pengumpulan tugas. Hard deadline UTS dan UAS masing-masing ada pada UTS-5 dan UAS-10., berarti semua tugas sudah harus tersubmit sebelum hard-deadline
 
-Link ke halaman utama dari tugas Anda hendaknya dilaporkan di <https://forms.office.com/r/pbUdPnGN3h>. Sebelum dilaporkan, pastikan 
+Link ke halaman utama dari tugas Anda hendaknya dilaporkan di <https://forms.office.com/r/pbUdPnGN3h>. Sebelum dilaporkan, pastikan
 
 ------------------------------------------------------------------------
 
@@ -145,7 +145,7 @@ Link ke halaman utama dari tugas Anda hendaknya dilaporkan di <https://forms.off
 **Definisi:** Kemampuan untuk memahami, mendefinisikan, dan menguraikan teori, model, serta elemen kunci dari komunikasi interpersonal secara akurat dan mendalam, termasuk konsep diri, persepsi, bahasa verbal dan nonverbal, mendengarkan, emosi, relasi, konflik, penipuan, iklim komunikasi, dan *beautiful person*. **Asesmen Terkait:** Q-1 s/d Q-14, UAS Bagian A (pengembangan gagasan konseptual), UAS Bagian B (evaluasi konsep dalam pesan publik), UAS Bagian C (evaluasi pesan pribadi berdasarkan konsep).
 
 | Level | Deskripsi Pencapaian |
-|:-----------|:-----------------------------------------------------------|
+|:-------------------|:---------------------------------------------------|
 | **0. Tidak tercapai** | Mahasiswa **gagal** menjelaskan konsep dasar komunikasi interpersonal dalam kuis mingguan (Q-1 s/d Q-14) atau dalam pengembangan konsep untuk pesan inspiratif publik (UAS Bagian A). Penjelasan yang diberikan **tidak akurat, tidak relevan**, atau **tidak ada sama sekali**. Dalam evaluasi pesan (UAS Bagian B dan C), mahasiswa **tidak dapat mengidentifikasi atau mengkritisi** penerapan konsep-konsep komunikasi interpersonal. |
 | **1. Kurang tercapai** | Mahasiswa menunjukkan pemahaman **terbatas atau parsial** terhadap konsep-konsep komunikasi interpersonal. Penjelasan dalam kuis atau tugas (Q-1 s/d Q-14, UAS Bagian A) seringkali **kurang jelas, dangkal, atau mengandung beberapa ketidakakuratan**. Dalam evaluasi pesan (UAS Bagian B dan C), mahasiswa **kesulitan menganalisis** konsep yang digunakan dalam pesan. |
 | **2. Hampir tercapai** | Mahasiswa menunjukkan pemahaman **dasar yang cukup** terhadap konsep-konsep komunikasi interpersonal. Penjelasan dalam kuis atau tugas (Q-1 s/d Q-14, UAS Bagian A) **umumnya akurat** tetapi **kurang mendalam** atau **kurang terstruktur**. Dalam evaluasi pesan (UAS Bagian B dan C), mahasiswa **mampu mengidentifikasi** konsep, tetapi **kurang mampu menjelaskan implikasinya** secara mendalam. |
