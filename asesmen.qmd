@@ -1,4 +1,4 @@
-#  Asesmen Pencapaian CPMK {.unnumbered}
+# Asesmen Pencapaian CPMK {.unnumbered}
 
 ::: callout-warning
 Petunjuk asesmen ini masih dalam pengerjaan, sehingga perlu dikunjungi secara berkala untuk mendapatkan petunjuk terkini.
@@ -13,15 +13,15 @@ Dalam kuliah ini, daya tarik personal timbul apabila kita mengkomunikasikan soso
 ::: callout-important
 Petunjuk:
 
-1.  Baca petunjuk ini
+Baca petunjuk ini. Di dalamnya terdapat cara mendapatkan skor untuk nilai akhir. Skor ini didasarkan pada portfolio report yang disusun oleh peserta kuliah sebagai bukti tertulis adanya penguasaan topik puliah. Portfolio ini di rangkum dalam sebuah Portal yang dapat diakses untuk kepentingan asesmen. Untuk itu Anda diminta untuk mnembuat repositori, menyimpan materi laporan di situ, serta memberikan sebagian materi untuk diakses penilai melalui portal yang Anda buat.  Sebuah contoh portfolio ini ada di adalah <<https://github.com/II-2100/all-about-me.git>> yang menghost laporan yang anda buat. Selain itu yang Anda dapat membuat web-page yang melaporakan sebagian yang ada dari portfolio tersebut. Untuk itu langkah-langkah yang direkomendsikan untuk ditempuh
 
-2.  Fork repositori [All About Me](https://github.com/II-2100/all-about-me.git) atau <https://github.com/II-2100/all-about-me.git>
+1.  Fork repositori [All About Me](https://github.com/II-2100/all-about-me.git) atau <https://github.com/II-2100/all-about-me.git>
 
-3.  simpan hasil laporan tugas anda pada repositori tersebut
+2.  Simpan hasil laporan tugas anda pada repositori tersebut
 
-4.  publish bagian yang hendak di asses melalui portal page
+3.  Publish bagian yang hendak di asses melalui portal page
 
-5.  submit URL portal page ke URL Submisi: <https://forms.office.com/r/pbUdPnGN3h>
+4.  Submit URL portal page ke URL Submisi: <https://forms.office.com/r/pbUdPnGN3h>
 :::
 
 ## Konsep Penguasaan Kompetensi
@@ -145,7 +145,7 @@ Link ke halaman utama dari tugas Anda hendaknya dilaporkan di <https://forms.off
 **Definisi:** Kemampuan untuk memahami, mendefinisikan, dan menguraikan teori, model, serta elemen kunci dari komunikasi interpersonal secara akurat dan mendalam, termasuk konsep diri, persepsi, bahasa verbal dan nonverbal, mendengarkan, emosi, relasi, konflik, penipuan, iklim komunikasi, dan *beautiful person*. **Asesmen Terkait:** Q-1 s/d Q-14, UAS Bagian A (pengembangan gagasan konseptual), UAS Bagian B (evaluasi konsep dalam pesan publik), UAS Bagian C (evaluasi pesan pribadi berdasarkan konsep).
 
 | Level | Deskripsi Pencapaian |
-|:-------------------|:---------------------------------------------------|
+|:--------------------|:--------------------------------------------------|
 | **0. Tidak tercapai** | Mahasiswa **gagal** menjelaskan konsep dasar komunikasi interpersonal dalam kuis mingguan (Q-1 s/d Q-14) atau dalam pengembangan konsep untuk pesan inspiratif publik (UAS Bagian A). Penjelasan yang diberikan **tidak akurat, tidak relevan**, atau **tidak ada sama sekali**. Dalam evaluasi pesan (UAS Bagian B dan C), mahasiswa **tidak dapat mengidentifikasi atau mengkritisi** penerapan konsep-konsep komunikasi interpersonal. |
 | **1. Kurang tercapai** | Mahasiswa menunjukkan pemahaman **terbatas atau parsial** terhadap konsep-konsep komunikasi interpersonal. Penjelasan dalam kuis atau tugas (Q-1 s/d Q-14, UAS Bagian A) seringkali **kurang jelas, dangkal, atau mengandung beberapa ketidakakuratan**. Dalam evaluasi pesan (UAS Bagian B dan C), mahasiswa **kesulitan menganalisis** konsep yang digunakan dalam pesan. |
 | **2. Hampir tercapai** | Mahasiswa menunjukkan pemahaman **dasar yang cukup** terhadap konsep-konsep komunikasi interpersonal. Penjelasan dalam kuis atau tugas (Q-1 s/d Q-14, UAS Bagian A) **umumnya akurat** tetapi **kurang mendalam** atau **kurang terstruktur**. Dalam evaluasi pesan (UAS Bagian B dan C), mahasiswa **mampu mengidentifikasi** konsep, tetapi **kurang mampu menjelaskan implikasinya** secara mendalam. |
