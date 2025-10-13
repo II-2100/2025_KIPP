@@ -54,53 +54,157 @@ Di era Artificial Intelligence (AI), mahasiswa dianjurkan memanfaatkan teknologi
 
 : Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diukur serta bobot peniliaian dalam skala 100. {#tbl-asesmen}
 
-## \*\*Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-7)
+
+## Bukti Pencapaian Beserta Rubrik Terkait
+
+### \*\*Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-7)
 
 Pada materi setiap minggu, terdapat Kuiz yang perlu dikerjakan melalui Situs Microsoft Form.
 
-## \*\*Kuis Materi Topik Setiap Minggu (Q-8 s/d Q-14)
+### \*\*Kuis Materi Topik Setiap Minggu (Q-8 s/d Q-14)
 
 Pada materi setiap minggu, terdapat Kuiz yang perlu dikerjakan melalui Situs Microsoft Form.
 
-## UTS-1 All About Me
+### UTS-1 All About Me
 
 Berisikan pesan yang memperkenalkan sosok diri kita. Meskipun komunikasi bhersifat pribadi, hendaknya informasi yang sensitif atau yang bersifat rahasia bank (seperti tanggal lahir dan nama ibu kandung) tidak ditayangkan
 
-## UTS-2 Song for you
+
+** Rubrik UTS-1: Daya Tarik (Attractiveness)**
+
+| Kriteria              | 5 – Sangat Baik                                                                     | 4 – Baik                                              | 3 – Cukup                                            | 2 – Kurang                                                | 1 – Buruk                                    |
+| --------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------- |
+| **Orisinalitas**      | Narasi menghadirkan sudut pandang **sangat unik** tentang daya tarik interpersonal. | Ada gagasan **cukup orisinal**, sedikit klise.        | Beberapa unsur orisinal, namun **banyak tema umum**. | **Prediktabel**, orisinalitas rendah.                     | **Klise**, tanpa unsur baru.                 |
+| **Keterlibatan**      | **Menarik dari awal hingga akhir**, menjaga atensi audiens.                         | Umumnya **menarik**, ada beberapa momen kuat.         | **Cukup** menarik; sesekali kehilangan atensi.       | **Sulit** mempertahankan atensi; konten kurang menggugah. | Tidak **menarik** dan tidak memikat audiens. |
+| **Humor**             | Humor **tepat waktu, relevan, efektif**; sering memicu tawa.                        | Humor **baik**, beberapa momen lucu.                  | Humor **cukup**; sebagian berhasil, sebagian tidak.  | Humor terasa **dipaksakan/tidak tepat**, jarang berhasil. | Humor **tidak efektif/tidak ada**.           |
+| **Wawasan (Insight)** | Memberi **pemahaman mendalam** tentang daya tarik; ada pesan kuat.                  | Pesan/insight **jelas**, meski tidak sangat mendalam. | Ada pesan umum, **dampak terbatas**.                 | **Berusaha** memberi pesan, tetapi dangkal/tidak jelas.   | **Tanpa** insight yang bermakna.             |
+
+
+### UTS-2 Song for you
 
 Berisikan pesan berbentuk puisi, lago, dan/atau viodeo clip untuk ia atau mereka yang kita anggap relasi intim. Penggunakan AI akan mempercepat proses pembuatannya, namun otensitas dan signature pribadi sangat penting untuk keberhasilan pesan ini.
 
-## UTS-3 My Stories for You,
+| Kriteria         | 5 – Sangat Baik                                                    | 4 – Baik                                   | 3 – Cukup                                       | 2 – Kurang                                     | 1 – Buruk                      |
+| ---------------- | ------------------------------------------------------------------ | ------------------------------------------ | ----------------------------------------------- | ---------------------------------------------- | ------------------------------ |
+| **Orisinalitas** | Ikatan digambarkan dengan cara **sangat unik** dan segar.          | **Cukup orisinal**, minim klise.           | Ada unsur orisinal, namun **banyak pola umum**. | **Prediktabel**, sedikit unsur baru.           | **Klise**, tanpa kebaruan.     |
+| **Keterlibatan** | **Sangat memikat** dari awal hingga akhir.                         | **Menarik** di sebagian besar bagian.      | **Cukup** menarik; sesekali datar.              | **Kurang** memikat; banyak bagian lemah.       | **Tidak** memikat sama sekali. |
+| **Humor**        | **Konsisten efektif**, relevan, waktunya pas.                      | Umumnya **baik**, beberapa momen berhasil. | **Cukup**; sebagian berhasil.                   | **Dipaksakan/tidak relevan**; jarang berhasil. | **Tidak efektif/tidak ada**.   |
+| **Inspirasi**    | **Sangat menginspirasi**, kesan mendalam tentang kekuatan koneksi. | **Cukup menginspirasi**, ada momen kuat.   | Ada unsur inspiratif, **dampak terbatas**.      | **Berusaha** menginspirasi, namun dangkal.     | **Tidak** menginspirasi.       |
 
-Berisikan kisah inspiratif dan menarik yang Anda ingin bagikan dengan pribadi lain. Gunakan rubrik [terlampir](asesmen/UTS-3-My-Stories-for-You/Dok.4.a.Rubrik_Kisah.pdf)
 
-## UTS-4 My Shape,
+
+### UTS-3 My Stories for You,
+
+Berisikan kisah inspiratif dan menarik yang Anda ingin bagikan dengan pribadi lain.
+
+
+| Kriteria                | 5 – Sangat Baik                                                                                 | 4 – Baik                                                              | 3 – Cukup                                                                         | 2 – Kurang                                                          | 1 – Buruk                                                   |
+| ----------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **Orisinalitas**        | **Pengembangan** cerita sangat unik dan segar.                                                  | Lanjutan **cukup orisinal**, minim klise.                             | Ada unsur baru, namun **banyak pola umum**.                                       | **Prediktabel**, sedikit kebaruan.                                  | **Tidak** ada pengembangan baru.                            |
+| **Keterlibatan**        | **Sangat memikat** dan konsisten menjaga atensi.                                                | **Menarik** dengan beberapa jeda kecil.                               | **Cukup** menarik; ritme naik-turun.                                              | **Kurang** menarik; mudah kehilangan atensi.                        | **Tidak** menarik.                                          |
+| **Pengembangan Narasi** | **Sambung rapi** dengan bagian awal; menunjukkan **pertumbuhan/ resolusi** hubungan yang jelas. | **Terkait baik** dengan bagian awal; beberapa aspek kurang dieksplor. | **Melanjutkan** cerita, namun ada **ketidakselarasan** atau progres kurang jelas. | **Hubungan longgar** dengan bagian awal; pengembangan ikatan lemah. | **Terputus** dari cerita awal; tanpa perkembangan bermakna. |
+| **Inspirasi**           | **Sangat menginspirasi** tentang kekuatan ikatan.                                               | **Cukup menginspirasi**, ada momen kuat.                              | Ada unsur inspiratif, **resonansi terbatas**.                                     | **Berusaha** menginspirasi tapi dangkal.                            | **Tidak** menginspirasi.                                    |
+
+
+### UTS-4 My Shape,
 
 Berisikan laporan siapa Anda berdasar, Piagam Diri dan Identitas Naratif, hasil sebuah lembar kerja [My SHAPE](asesmen/UTS-4-My-SHAPE/my_shape_short_2.pdf)
 
-## UTS-5 My Personal Review,
 
-Berisikan telahan pesan personal berdasarkan rubrik, Sebagaimana [PETUNJUK ini](asesmen/UTS-5-My-Personal-Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf). Rubrik untuk My Stories ada di [sini](asesmen/UTS-5-My-Personal-Reviews/Dok.4.a.Rubrik_Kisah.pdf)
+| Kriteria         | 5 – Sangat Baik                                                     | 4 – Baik                                           | 3 – Cukup                                       | 2 – Kurang                                           | 1 – Buruk                                |
+| ---------------- | ------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------- | ---------------------------------------- |
+| **Orisinalitas** | Perspektif penemuan diri **sangat unik** dan segar.                 | **Cukup orisinal**, sedikit unsur umum.            | Ada unsur orisinal, namun **banyak tema umum**. | **Prediktabel**, minim orisinalitas.                 | **Klise**, tanpa kebaruan.               |
+| **Keterlibatan** | **Memikat** dari awal hingga akhir.                                 | **Menarik** dengan beberapa momen kuat.            | **Cukup** menarik; ada bagian datar.            | **Kurang** memikat; konten kurang menggugah.         | **Tidak** memikat.                       |
+| **Keautentikan** | **Sangat jujur & rentan**, mengungkap kebenaran diri yang mendalam. | **Jujur** dan tulus; ada bagian yang masih umum.   | **Cukup jujur**, masih di permukaan.            | **Cukup dangkal/tertutup**, minim refleksi personal. | **Tidak autentik**, tanpa refleksi diri. |
+| **Inspirasi**    | **Sangat menginspirasi**, dampak emosional kuat.                    | **Cukup menginspirasi**, beberapa momen menyentuh. | Ada unsur inspiratif; **dampak terbatas**.      | **Berusaha** menginspirasi; dampak lemah.            | **Tidak** menginspirasi.                 |
 
-## UAS-1 My Concepts,
+
+
+### UTS-5 My Personal Review,
+
+Berisikan telahan pesan personal berdasarkan rubrik
+
+
+```{python}
+
+import pandas as pd
+from IPython.display import Markdown
+from tabulate import tabulate
+
+# reading csv file 
+df = pd.read_csv("./asesmen/II-2100_KIPP_assessment_pack/rubrics_csv/rubric_UTS5_MyPersonalReview.csv")
+df
+
+
+
+```
+
+### UAS-1 My Concepts,
 
 Berisikan suatu penjelasan atas suatu fenomena yang penting, dengan tujuan untuk mengkomunikasikan keistimewaan pengetahuan yang kita miliki. Penjelasan singkat apa itu konsep dapat di lihat di sini: {{< video https://youtu.be/DxK-_0AzHiw?si=5lpAur3wWtiOyUDV>}}
 
-## UAS-2 My Opinions,
+
+| Kriteria                     | 5 – Sangat Baik                              | 4 – Baik                                                   | 3 – Cukup                                             | 2 – Kurang                                         | 1 – Buruk                             |
+| ---------------------------- | -------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------------- |
+| **Kejelasan**                | **Sangat jelas**, tanpa ambiguitas.          | **Jelas**, ada ambiguitas kecil yang **tidak** mengganggu. | Umumnya **jelas**, beberapa bagian **membingungkan**. | Banyak bagian **tidak jelas**, sulit dipahami.     | **Tidak jelas** dan ambigu.           |
+| **Logika**                   | Struktur **sangat koheren**, penalaran kuat. | **Logis**, ada celah kecil.                                | **Cukup logis**, koherensi kadang terganggu.          | **Banyak** cacat logika/koherensi.                 | **Tidak logis/inkohoren**.            |
+| **Validitas (Bukti/Contoh)** | Dukungan bukti/ilustrasi **sangat kuat**.    | Dukungan **cukup kuat**, ada bagian kurang.                | Ada dukungan, namun **banyak** bagian kurang bukti.   | **Minimal** dukungan; mayoritas klaim tanpa dasar. | **Tanpa** dukungan kredibel.          |
+| **Kegunaan**                 | Aplikasi praktis **jelas & signifikan**.     | Aplikasi **baik** dan bermanfaat.                          | Ada aplikasi, manfaat **terbatas**.                   | Aplikasi **sedikit** dan manfaat kecil.            | **Tidak** ada aplikasi/manfaat jelas. |
+
+
+### UAS-2 My Opinions,
 
 Berisikan suatu pandangan mengenai bagaimana sikap, keputusan, atau tindakan terbaik yang harus diambil dalam menghadapiu suatu kondisi atau perkembangan
 
-## UAS-3 My Innovations
+
+| Kriteria                 | 5 – Sangat Baik                                                       | 4 – Baik                                  | 3 – Cukup                                       | 2 – Kurang                                     | 1 – Buruk                     |
+| ------------------------ | --------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- | ----------------------------- |
+| **Menarik (Compelling)** | **Langsung memikat** dan konsisten menjaga perhatian.                 | **Menarik**, argumen solid.               | **Agak menarik**, perhatian kadang turun.       | Ada momen menarik, umumnya **kurang** memikat. | **Gagal** menarik perhatian.  |
+| **Informatif**           | **Sangat kaya** informasi & wawasan mendalam.                         | **Cukup kaya**, memberi beberapa wawasan. | **Dasar** informasi; kurang mendalam.           | Informasi **terbatas**/dangkal.                | **Minim** atau tidak relevan. |
+| **Persuasif**            | Argumen **sangat meyakinkan**, bukti & nalar kuat.                    | Argumen **jelas & meyakinkan**.           | Argumen **ada**, daya bujuk **terbatas**.       | **Berusaha** membujuk; bukti/nalar lemah.      | **Tidak** persuasif.          |
+| **Menggugah (Engaging)** | **Menggugah emosi & nalar**, mengajak mempertimbangkan sudut pandang. | **Cukup menggugah**, memantik berpikir.   | **Agak** menggugah; koneksi emosional terbatas. | **Dampak rendah**, sedikit menggugah.          | **Tidak** menggugah.          |
+
+
+### UAS-3 My Innovations
 
 Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas berkomunikasi KIPP
 
-## UAS-4 My Knowledge,
 
-Berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini
+| Kriteria                    | 5 – Sangat Baik                                                       | 4 – Baik                                               | 3 – Cukup                                                    | 2 – Kurang                                                | 1 – Buruk                                 |
+| --------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- | ----------------------------------------- |
+| **Orisinalitas**            | Gagasan **sangat orisinal**, terobosan baru.                          | **Orisinal & kreatif**, meski membangun ide yang ada.  | Ada unsur baru, **banyak** yang familiar.                    | **Minim** kebaruan; banyak daur ulang.                    | **Tidak** orisinal.                       |
+| **Kejelasan**               | Paparan **sangat jelas & terstruktur**, mudah dipahami.               | Umumnya **jelas**, ada kebingungan kecil.              | **Cukup** jelas; beberapa bagian samar.                      | **Membingungkan**, banyak titik tidak jelas.              | **Sangat tidak jelas**; sulit dipahami.   |
+| **Kelayakan (Feasibility)** | **Sangat layak**; rencana realistis, risiko & tantangan diantisipasi. | **Layak**, rencana baik; ada detail yang belum tuntas. | **Sebagian** layak; rencana kurang lengkap/kurang realistis. | **Diragukan** kelayakannya; isu praktis besar terabaikan. | **Tidak layak**; tanpa rencana realistis. |
+| **Dampak**                  | Potensi **dampak besar** bagi komunikasi interpersonal/publik.        | **Dampak baik**, manfaat jelas.                        | **Ada** dampak, namun **terbatas/tidak pasti**.              | **Manfaat kecil** bagi bidang terkait.                    | **Tanpa** manfaat jelas.                  |
 
-## UAS-5 My Professional Reviews
 
-Berisikan telaahan pesan publikl berdasarkan rubrik.
+
+
+### UAS-4 My Knowledge,
+
+Berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini.
+
+
+| Kriteria                 | 5 – Sangat Baik                                                                       | 4 – Baik                                            | 3 – Cukup                                                    | 2 – Kurang                                         | 1 – Buruk                                             |
+| ------------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------- |
+| **Konten**               | **Sangat akurat, relevan, mendalam**, didukung bukti/contoh kuat.                     | **Akurat & relevan**, ada celah kecil.              | **Dasar** dan cukup akurat; ada kekurangan.                  | **Terbatas/kurang relevan**, pemahaman dangkal.    | **Lemah/tidak relevan**, miskin pemahaman.            |
+| **Organisasi**           | Struktur **sangat jelas & koheren** (pembuka–isi–penutup).                            | **Terstruktur baik**, transisi kadang kurang mulus. | Struktur **dasar**; alur kadang membingungkan.               | **Buruk** terstruktur; alur membingungkan.         | **Tanpa** struktur; sulit diikuti.                    |
+| **Penyajian (Delivery)** | **Percaya diri**, suara jelas, tempo pas, kontak mata & bahasa tubuh **sangat baik**. | **Baik**; jelas, ada isu minor.                     | **Cukup**; ada masalah nyata (monoton, volume, kontak mata). | **Kurang** efektif; sering tidak jelas/distraktif. | **Sangat buruk**; tidak terdengar, tanpa kontak mata. |
+| **Keterlibatan Audiens** | **Aktif** melibatkan audiens sepanjang presentasi.                                    | **Baik** melibatkan audiens, ada jeda kecil.        | **Cukup** melibatkan; atensi tidak konsisten.                | **Minim** upaya melibatkan audiens.                | **Tidak** melibatkan audiens.                         |
+
+
+### UAS-5 My Professional Reviews
+
+Berisikan telaahan pesan publik berdasarkan rubrik.
+
+```{python}
+
+# reading csv file 
+df = pd.read_csv("./asesmen/II-2100_KIPP_assessment_pack/rubrics_csv/rubric_UAS5_MyProfessionalReviews.csv")
+df
+
+```
+
 
 ## Teknis Pelaksanaan, Pengumpulan, dan Penilaian
 
@@ -113,105 +217,9 @@ Pada @tbl-asesmen di cantumkan juga soft-deadline, yaitu jadwal pengumpulan tuga
 Link ke halaman utama dari tugas Anda hendaknya dilaporkan di <https://forms.office.com/r/pbUdPnGN3h>. Sebelum dilaporkan, pastikan
 
 
-------------------------------------------------------------------------
-Berikut **rubrik penilaian** untuk setiap tugas UTS (mid-term) dan UAS (final) mata kuliah **II-2100 Interpersonal & Public Communication**. Skala 1–5 (1 = Buruk, 5 = Sangat Baik).
-
----
-
-## UTS-1: **Daya Tarik (Attractiveness)**
-
-| Kriteria              | 5 – Sangat Baik                                                                     | 4 – Baik                                              | 3 – Cukup                                            | 2 – Kurang                                                | 1 – Buruk                                    |
-| --------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------- |
-| **Orisinalitas**      | Narasi menghadirkan sudut pandang **sangat unik** tentang daya tarik interpersonal. | Ada gagasan **cukup orisinal**, sedikit klise.        | Beberapa unsur orisinal, namun **banyak tema umum**. | **Prediktabel**, orisinalitas rendah.                     | **Klise**, tanpa unsur baru.                 |
-| **Keterlibatan**      | **Menarik dari awal hingga akhir**, menjaga atensi audiens.                         | Umumnya **menarik**, ada beberapa momen kuat.         | **Cukup** menarik; sesekali kehilangan atensi.       | **Sulit** mempertahankan atensi; konten kurang menggugah. | Tidak **menarik** dan tidak memikat audiens. |
-| **Humor**             | Humor **tepat waktu, relevan, efektif**; sering memicu tawa.                        | Humor **baik**, beberapa momen lucu.                  | Humor **cukup**; sebagian berhasil, sebagian tidak.  | Humor terasa **dipaksakan/tidak tepat**, jarang berhasil. | Humor **tidak efektif/tidak ada**.           |
-| **Wawasan (Insight)** | Memberi **pemahaman mendalam** tentang daya tarik; ada pesan kuat.                  | Pesan/insight **jelas**, meski tidak sangat mendalam. | Ada pesan umum, **dampak terbatas**.                 | **Berusaha** memberi pesan, tetapi dangkal/tidak jelas.   | **Tanpa** insight yang bermakna.             |
-
----
-
-## UTS-2: **Pembentukan Ikatan (Bonding)**
-
-| Kriteria         | 5 – Sangat Baik                                                    | 4 – Baik                                   | 3 – Cukup                                       | 2 – Kurang                                     | 1 – Buruk                      |
-| ---------------- | ------------------------------------------------------------------ | ------------------------------------------ | ----------------------------------------------- | ---------------------------------------------- | ------------------------------ |
-| **Orisinalitas** | Ikatan digambarkan dengan cara **sangat unik** dan segar.          | **Cukup orisinal**, minim klise.           | Ada unsur orisinal, namun **banyak pola umum**. | **Prediktabel**, sedikit unsur baru.           | **Klise**, tanpa kebaruan.     |
-| **Keterlibatan** | **Sangat memikat** dari awal hingga akhir.                         | **Menarik** di sebagian besar bagian.      | **Cukup** menarik; sesekali datar.              | **Kurang** memikat; banyak bagian lemah.       | **Tidak** memikat sama sekali. |
-| **Humor**        | **Konsisten efektif**, relevan, waktunya pas.                      | Umumnya **baik**, beberapa momen berhasil. | **Cukup**; sebagian berhasil.                   | **Dipaksakan/tidak relevan**; jarang berhasil. | **Tidak efektif/tidak ada**.   |
-| **Inspirasi**    | **Sangat menginspirasi**, kesan mendalam tentang kekuatan koneksi. | **Cukup menginspirasi**, ada momen kuat.   | Ada unsur inspiratif, **dampak terbatas**.      | **Berusaha** menginspirasi, namun dangkal.     | **Tidak** menginspirasi.       |
-
----
-
-## UTS-3: **Pembentukan Ikatan (Lanjutan/Continuation)**
-
-| Kriteria                | 5 – Sangat Baik                                                                                 | 4 – Baik                                                              | 3 – Cukup                                                                         | 2 – Kurang                                                          | 1 – Buruk                                                   |
-| ----------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
-| **Orisinalitas**        | **Pengembangan** cerita sangat unik dan segar.                                                  | Lanjutan **cukup orisinal**, minim klise.                             | Ada unsur baru, namun **banyak pola umum**.                                       | **Prediktabel**, sedikit kebaruan.                                  | **Tidak** ada pengembangan baru.                            |
-| **Keterlibatan**        | **Sangat memikat** dan konsisten menjaga atensi.                                                | **Menarik** dengan beberapa jeda kecil.                               | **Cukup** menarik; ritme naik-turun.                                              | **Kurang** menarik; mudah kehilangan atensi.                        | **Tidak** menarik.                                          |
-| **Pengembangan Narasi** | **Sambung rapi** dengan bagian awal; menunjukkan **pertumbuhan/ resolusi** hubungan yang jelas. | **Terkait baik** dengan bagian awal; beberapa aspek kurang dieksplor. | **Melanjutkan** cerita, namun ada **ketidakselarasan** atau progres kurang jelas. | **Hubungan longgar** dengan bagian awal; pengembangan ikatan lemah. | **Terputus** dari cerita awal; tanpa perkembangan bermakna. |
-| **Inspirasi**           | **Sangat menginspirasi** tentang kekuatan ikatan.                                               | **Cukup menginspirasi**, ada momen kuat.                              | Ada unsur inspiratif, **resonansi terbatas**.                                     | **Berusaha** menginspirasi tapi dangkal.                            | **Tidak** menginspirasi.                                    |
-
----
-
-## UTS-4: **Penemuan Diri yang Autentik (Authentic Self Discovery)**
-
-| Kriteria         | 5 – Sangat Baik                                                     | 4 – Baik                                           | 3 – Cukup                                       | 2 – Kurang                                           | 1 – Buruk                                |
-| ---------------- | ------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------- | ---------------------------------------- |
-| **Orisinalitas** | Perspektif penemuan diri **sangat unik** dan segar.                 | **Cukup orisinal**, sedikit unsur umum.            | Ada unsur orisinal, namun **banyak tema umum**. | **Prediktabel**, minim orisinalitas.                 | **Klise**, tanpa kebaruan.               |
-| **Keterlibatan** | **Memikat** dari awal hingga akhir.                                 | **Menarik** dengan beberapa momen kuat.            | **Cukup** menarik; ada bagian datar.            | **Kurang** memikat; konten kurang menggugah.         | **Tidak** memikat.                       |
-| **Keautentikan** | **Sangat jujur & rentan**, mengungkap kebenaran diri yang mendalam. | **Jujur** dan tulus; ada bagian yang masih umum.   | **Cukup jujur**, masih di permukaan.            | **Cukup dangkal/tertutup**, minim refleksi personal. | **Tidak autentik**, tanpa refleksi diri. |
-| **Inspirasi**    | **Sangat menginspirasi**, dampak emosional kuat.                    | **Cukup menginspirasi**, beberapa momen menyentuh. | Ada unsur inspiratif; **dampak terbatas**.      | **Berusaha** menginspirasi; dampak lemah.            | **Tidak** menginspirasi.                 |
-
-
-## UTS-5
-
-```{python}
-
-
-```
----
 
 
 
-## UAS-1: **Penjelasan Konsep (Concept Explanation)**
-
-| Kriteria                     | 5 – Sangat Baik                              | 4 – Baik                                                   | 3 – Cukup                                             | 2 – Kurang                                         | 1 – Buruk                             |
-| ---------------------------- | -------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------------- |
-| **Kejelasan**                | **Sangat jelas**, tanpa ambiguitas.          | **Jelas**, ada ambiguitas kecil yang **tidak** mengganggu. | Umumnya **jelas**, beberapa bagian **membingungkan**. | Banyak bagian **tidak jelas**, sulit dipahami.     | **Tidak jelas** dan ambigu.           |
-| **Logika**                   | Struktur **sangat koheren**, penalaran kuat. | **Logis**, ada celah kecil.                                | **Cukup logis**, koherensi kadang terganggu.          | **Banyak** cacat logika/koherensi.                 | **Tidak logis/inkohoren**.            |
-| **Validitas (Bukti/Contoh)** | Dukungan bukti/ilustrasi **sangat kuat**.    | Dukungan **cukup kuat**, ada bagian kurang.                | Ada dukungan, namun **banyak** bagian kurang bukti.   | **Minimal** dukungan; mayoritas klaim tanpa dasar. | **Tanpa** dukungan kredibel.          |
-| **Kegunaan**                 | Aplikasi praktis **jelas & signifikan**.     | Aplikasi **baik** dan bermanfaat.                          | Ada aplikasi, manfaat **terbatas**.                   | Aplikasi **sedikit** dan manfaat kecil.            | **Tidak** ada aplikasi/manfaat jelas. |
-
----
-
-## UAS-2: **Esai Opini (Opinion Essay)**
-
-| Kriteria                 | 5 – Sangat Baik                                                       | 4 – Baik                                  | 3 – Cukup                                       | 2 – Kurang                                     | 1 – Buruk                     |
-| ------------------------ | --------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- | ----------------------------- |
-| **Menarik (Compelling)** | **Langsung memikat** dan konsisten menjaga perhatian.                 | **Menarik**, argumen solid.               | **Agak menarik**, perhatian kadang turun.       | Ada momen menarik, umumnya **kurang** memikat. | **Gagal** menarik perhatian.  |
-| **Informatif**           | **Sangat kaya** informasi & wawasan mendalam.                         | **Cukup kaya**, memberi beberapa wawasan. | **Dasar** informasi; kurang mendalam.           | Informasi **terbatas**/dangkal.                | **Minim** atau tidak relevan. |
-| **Persuasif**            | Argumen **sangat meyakinkan**, bukti & nalar kuat.                    | Argumen **jelas & meyakinkan**.           | Argumen **ada**, daya bujuk **terbatas**.       | **Berusaha** membujuk; bukti/nalar lemah.      | **Tidak** persuasif.          |
-| **Menggugah (Engaging)** | **Menggugah emosi & nalar**, mengajak mempertimbangkan sudut pandang. | **Cukup menggugah**, memantik berpikir.   | **Agak** menggugah; koneksi emosional terbatas. | **Dampak rendah**, sedikit menggugah.          | **Tidak** menggugah.          |
-
----
-
-## UAS-3: **Presentasi (Individual Presentation)**
-
-| Kriteria                 | 5 – Sangat Baik                                                                       | 4 – Baik                                            | 3 – Cukup                                                    | 2 – Kurang                                         | 1 – Buruk                                             |
-| ------------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------- |
-| **Konten**               | **Sangat akurat, relevan, mendalam**, didukung bukti/contoh kuat.                     | **Akurat & relevan**, ada celah kecil.              | **Dasar** dan cukup akurat; ada kekurangan.                  | **Terbatas/kurang relevan**, pemahaman dangkal.    | **Lemah/tidak relevan**, miskin pemahaman.            |
-| **Organisasi**           | Struktur **sangat jelas & koheren** (pembuka–isi–penutup).                            | **Terstruktur baik**, transisi kadang kurang mulus. | Struktur **dasar**; alur kadang membingungkan.               | **Buruk** terstruktur; alur membingungkan.         | **Tanpa** struktur; sulit diikuti.                    |
-| **Penyajian (Delivery)** | **Percaya diri**, suara jelas, tempo pas, kontak mata & bahasa tubuh **sangat baik**. | **Baik**; jelas, ada isu minor.                     | **Cukup**; ada masalah nyata (monoton, volume, kontak mata). | **Kurang** efektif; sering tidak jelas/distraktif. | **Sangat buruk**; tidak terdengar, tanpa kontak mata. |
-| **Keterlibatan Audiens** | **Aktif** melibatkan audiens sepanjang presentasi.                                    | **Baik** melibatkan audiens, ada jeda kecil.        | **Cukup** melibatkan; atensi tidak konsisten.                | **Minim** upaya melibatkan audiens.                | **Tidak** melibatkan audiens.                         |
-
----
-
-## UAS-4: **Inovasi (Innovation Proposal)**
-
-| Kriteria                    | 5 – Sangat Baik                                                       | 4 – Baik                                               | 3 – Cukup                                                    | 2 – Kurang                                                | 1 – Buruk                                 |
-| --------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- | ----------------------------------------- |
-| **Orisinalitas**            | Gagasan **sangat orisinal**, terobosan baru.                          | **Orisinal & kreatif**, meski membangun ide yang ada.  | Ada unsur baru, **banyak** yang familiar.                    | **Minim** kebaruan; banyak daur ulang.                    | **Tidak** orisinal.                       |
-| **Kejelasan**               | Paparan **sangat jelas & terstruktur**, mudah dipahami.               | Umumnya **jelas**, ada kebingungan kecil.              | **Cukup** jelas; beberapa bagian samar.                      | **Membingungkan**, banyak titik tidak jelas.              | **Sangat tidak jelas**; sulit dipahami.   |
-| **Kelayakan (Feasibility)** | **Sangat layak**; rencana realistis, risiko & tantangan diantisipasi. | **Layak**, rencana baik; ada detail yang belum tuntas. | **Sebagian** layak; rencana kurang lengkap/kurang realistis. | **Diragukan** kelayakannya; isu praktis besar terabaikan. | **Tidak layak**; tanpa rencana realistis. |
-| **Dampak**                  | Potensi **dampak besar** bagi komunikasi interpersonal/publik.        | **Dampak baik**, manfaat jelas.                        | **Ada** dampak, namun **terbatas/tidak pasti**.              | **Manfaat kecil** bagi bidang terkait.                    | **Tanpa** manfaat jelas.                  |
 
 
 ## Hubungan dengan CPMK

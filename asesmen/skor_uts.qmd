@@ -1,0 +1,203 @@
+---
+title: Asesement UTS Berbasis Rubrik
+format:
+  typst: 
+    keep-typ: true
+
+  latex:
+    documentclass: scrreprt
+    
+
+execute:
+  echo: false
+jupyter: python3
+
+---
+
+
+Berikut adalah panduan untuk menilai TUGAS UTS Matakuliah II-2100 bagi seorang mahasiswa individu. Tugas dibuat dalam bentuk laman web dengan URL TUGAS UTS yang diberikan. Menggunakan panduan ini, penilai dapat melakukan asesmen terhadap tugas orang lain, maupun self asesmen pada laporannya sendiri
+
+# Instruksi: 
+
+1. Pelajari Panduan di 'https://ii-2100.github.io/2025_KIPP/asesmen.html' Dimana terdapat lima TUGAS: UTS-1, UTS-2, UTS-3, UTS-4, UTS-5 
+2. Pelajari Rubrik setiap TUGAS yang ada dalam dokumen ini
+3. Temukan Tugas Mahasiswa di URL TUGAS UTS yang diberikan. Halaman pertama (index.html) adalah UTS-1. Dari portal ini penilia dapat pergi ke UTS-2 dan seteursnya.
+4. Untuk Setiap TUGAS gunakan Rubrik yang sesuai untuk menilai Tugas
+5. Laporkan Hasil Pengukuran menggunakan Template di bawah, beserta saran perbaikan.
+
+
+
+# **Bentuk-bentuk Asesmen:** 
+
+Untuk mengukur CPMK tersebut, asesmen akan menggunakan beberapa bentuk penilaian, yaitu:
+
+1.  **Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-14):** Mengukur pemahaman konseptual dari 14 topik perkuliahan yang disampaikan setiap minggu.
+2.  **Ujian Tengah Semester (UTS-1 s/d UTS-5):** Fokus pada proyek demonstrasi komunikasi personal
+    1.  UTS-1 All About Me, berisikan pesan yang memperkenalkan sosok diri kita
+    2.  UTS-2 Song for you, berisikan pesan berbentuk puisi, lago, dan/atau viodeo clip\[
+    3.  UTS-3 My Stories for You, berisikan kisah inspiratif dan menarik yang Anda ingin bagikan dengan pribadi lain
+    4.  UTS-4 My Shape, berisikan laporan siapa Anda berdasar hasil sebuah lembar kerja
+    5.  UTS-5 My Personal Review, berisikan telahan pesan personal berdasarkan rubrik
+3.  **Ujian Akhir Semester (UAS-1 s/d UAS-5):** Fokus pada proyek demonstrasi komunikasi inspiratif publik yang mengaplikasikan konsep interpersonal.
+    1.  UAS-1 My Concepts,
+    2.  UAS-2 My Opinions,
+    3.  UAS-3 My Innovations, berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas
+    4.  UAS-4 My Knowledge, berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini
+    5.  UAS-5 My Professional Reviews, berisikan telaahan pesan publikl berdasarkan rubrik.
+
+| Jenis | Asesmen | Soft Deadline Minggu ke | CPMK-1 | CPMK-2 | CPMK-3 | CPMK-4 |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Kuiz | Q1-Q7 |  | 14 |  |  |  |
+| Kuiz | Q8-Q14 |  |  |  | 14 |  |
+| UTS-1 | All About Me | 4 |  | 6 |  |  |
+| UTS-2 | My Song for You | 5 |  | 7 |  |  |
+| UTS-3 | My Stories for You | 6 |  | 7 |  |  |
+| UTS-4 | My Shape | 7 |  | 6 |  |  |
+| UTS-5 | My Personal Review | 8 | 10 |  |  |  |
+| UAS-1 | My Concepts | 12 |  |  |  | 6 |
+| UAS-2 | My Opinions | 13 |  |  |  | 6 |
+| UAS-3 | My Innovations | 14 |  |  |  | 7 |
+| UAS-4 | My Knowledge | 15 |  |  |  | 7 |
+| UAS-5 | My Professional Review | 16 |  |  | 10 |  |
+|  |  |  | 24 | 26 | 24 | 26 |
+
+: Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diukur serta bobot peniliaian dalam skala 100. {#tbl-asesmen}
+
+
+
+```{python}
+
+
+import pandas as pd
+from IPython.display import Markdown
+from tabulate import tabulate
+
+
+
+```
+
+
+::: {.landscape}
+
+
+
+# Rubrik UTS-1 All About Me
+
+
+```{python}
+
+#| label: tbl-rubric_UTS-1
+#| tbl-cap: Rubrik All About Me
+
+# reading csv file 
+df = pd.read_csv("Rubrik_II-2100_CSV/UTS-1.csv")
+df
+
+
+```
+
+
+# Rubrik UTS-2 Songs for You
+
+
+```{python}
+
+#| label: tbl-rubric_UTS-2
+#| tbl-cap: Rubrik Songs For You
+
+# reading csv file 
+df = pd.read_csv("Rubrik_II-2100_CSV/UTS-2.csv")
+df
+
+
+```
+
+
+# Rubrik UTS-3 My Story For You
+
+
+```{python}
+
+#| label: tbl-rubric_UTS-3
+#| tbl-cap: Rubrik My Story for You
+
+# reading csv file 
+df = pd.read_csv("Rubrik_II-2100_CSV/UTS-3.csv")
+df
+
+
+```
+
+
+
+# Rubrik UTS-4 My SHAPEe
+
+
+```{python}
+
+#| label: tbl-rubric_UTS-4
+#| tbl-cap: Rubrik MySHAPE
+
+# reading csv file 
+df = pd.read_csv("Rubrik_II-2100_CSV/UTS-3.csv")
+df
+
+
+```
+
+
+
+# Rubrik UTS-5 My Personal Reviews
+
+
+```{python}
+
+#| label: tbl-rubric_UTS-5
+#| tbl-cap: Rubrik My Personal Reviews
+
+# reading csv file 
+df = pd.read_csv("Rubrik_II-2100_CSV/UTS-5.csv")
+df
+
+
+```
+
+
+:::
+
+
+# FORMAT LAPORAN
+
+** LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UTS**
+
+## Identifikasi
+1. Nama Mahasiswa dan NIM Penyusun TUGAS
+2. Nama Penilai: 
+
+## Tinjauan Umum
+Isi dengan tinjauan secara umum Karya yang di nilai
+
+## Tinjauan Spesifik
+Isi dengan narasi penilaian secara khusus per UTS lalu beri hasil detail. beri juga saran perbaikan. 
+
+### SKOR
+
+Hitung skor setiap TUGAS lalu hitung kontribusi nilai tersebut pada skor CPMK, menurut @tbl-asesmen.
+
+```{python}
+#| label: tbl-skor-akhir 
+#| tbl-cap: Daftar Nilai
+
+from IPython.display import Markdown
+from tabulate import tabulate
+table = [["UTS-1"," "," "," "," "," "],
+         ["UTS-2"," "," "," "," "," "],
+         ["UTS-3"," "," ", " "," "," "],
+         ["UTS-4"," "," "," "," "," "],
+         ["UTS-5"," "," "," "," "," "],
+         ["Total"," "," "," "," ", ""]]
+Markdown(tabulate(
+  table, 
+  headers=["UTS","Skor", "CPMK-1","CPMK-2","CPMK-3","CPMK-4" ]
+))
+```

@@ -1,0 +1,40 @@
+---
+format:
+    typst: 
+        keep-typ: true
+---
+
+### Rubrik UTS-1 
+
+```{python}
+
+#| label: tbl-rubric_UAS1_1
+#| tbl-cap: Astronomical object
+
+import pandas as pd
+from IPython.display import Markdown
+from tabulate import tabulate
+
+# reading csv file 
+df = pd.read_csv("rubric_UAS1_MyConcepts.csv")
+df
+
+
+```
+
+
+```{python}
+#| label: tbl-planets
+#| tbl-cap: Astronomical object
+
+from IPython.display import Markdown
+from tabulate import tabulate
+table = [["Sun","696,000",1.989e30],
+         ["Earth","6,371",5.972e24],
+         ["Moon","1,737",7.34e22],
+         ["Mars","3,390",6.39e23]]
+Markdown(tabulate(
+  table, 
+  headers=["Astronomical object","R (km)", "mass (kg)"]
+))
+```

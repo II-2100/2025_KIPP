@@ -23,7 +23,7 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js" integrity="sha384-ZvpUoO/+PpLXR1lu4jmpXWu80pZlYUAfxl5NsBMWOEPSjUn/6Z/hRTt8+pR6L4N2" crossorigin="anonymous"></script><script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -70,6 +70,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdn.jsdelivr.net/npm/requirejs@2.3.6/require.min.js" integrity="sha384-c9c+LnTbwQ3aujuU7ULEPVvgLs+Fn6fJUvIGTsuu1ZcCf11fiEubah0ttpca4ntM sha384-6V1/AdqZRWk1KAlWbKBlGhN7VG4iE/yAZcO6NZPMF8od0vukrvr0tg4qY6NSrItx" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 </head>
@@ -230,6 +233,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#konsep-penguasaan-kompetensi" id="toc-konsep-penguasaan-kompetensi" class="nav-link active" data-scroll-target="#konsep-penguasaan-kompetensi">Konsep Penguasaan Kompetensi</a></li>
   <li><a href="#bukti-kompetensi" id="toc-bukti-kompetensi" class="nav-link" data-scroll-target="#bukti-kompetensi">Bukti Kompetensi</a></li>
+  <li><a href="#bukti-pencapaian-beserta-rubrik-terkait" id="toc-bukti-pencapaian-beserta-rubrik-terkait" class="nav-link" data-scroll-target="#bukti-pencapaian-beserta-rubrik-terkait">Bukti Pencapaian Beserta Rubrik Terkait</a>
+  <ul class="collapse">
   <li><a href="#kuis-materi-topik-setiap-minggu-q-1-sd-q-7" id="toc-kuis-materi-topik-setiap-minggu-q-1-sd-q-7" class="nav-link" data-scroll-target="#kuis-materi-topik-setiap-minggu-q-1-sd-q-7">**Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-7)</a></li>
   <li><a href="#kuis-materi-topik-setiap-minggu-q-8-sd-q-14" id="toc-kuis-materi-topik-setiap-minggu-q-8-sd-q-14" class="nav-link" data-scroll-target="#kuis-materi-topik-setiap-minggu-q-8-sd-q-14">**Kuis Materi Topik Setiap Minggu (Q-8 s/d Q-14)</a></li>
   <li><a href="#uts-1-all-about-me" id="toc-uts-1-all-about-me" class="nav-link" data-scroll-target="#uts-1-all-about-me">UTS-1 All About Me</a></li>
@@ -242,19 +247,11 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#uas-3-my-innovations" id="toc-uas-3-my-innovations" class="nav-link" data-scroll-target="#uas-3-my-innovations">UAS-3 My Innovations</a></li>
   <li><a href="#uas-4-my-knowledge" id="toc-uas-4-my-knowledge" class="nav-link" data-scroll-target="#uas-4-my-knowledge">UAS-4 My Knowledge,</a></li>
   <li><a href="#uas-5-my-professional-reviews" id="toc-uas-5-my-professional-reviews" class="nav-link" data-scroll-target="#uas-5-my-professional-reviews">UAS-5 My Professional Reviews</a></li>
+  </ul></li>
   <li><a href="#teknis-pelaksanaan-pengumpulan-dan-penilaian" id="toc-teknis-pelaksanaan-pengumpulan-dan-penilaian" class="nav-link" data-scroll-target="#teknis-pelaksanaan-pengumpulan-dan-penilaian">Teknis Pelaksanaan, Pengumpulan, dan Penilaian</a>
   <ul class="collapse">
   <li><a href="#repositori-github" id="toc-repositori-github" class="nav-link" data-scroll-target="#repositori-github">Repositori Github</a></li>
   </ul></li>
-  <li><a href="#uts-1-daya-tarik-attractiveness" id="toc-uts-1-daya-tarik-attractiveness" class="nav-link" data-scroll-target="#uts-1-daya-tarik-attractiveness">UTS-1: <strong>Daya Tarik (Attractiveness)</strong></a></li>
-  <li><a href="#uts-2-pembentukan-ikatan-bonding" id="toc-uts-2-pembentukan-ikatan-bonding" class="nav-link" data-scroll-target="#uts-2-pembentukan-ikatan-bonding">UTS-2: <strong>Pembentukan Ikatan (Bonding)</strong></a></li>
-  <li><a href="#uts-3-pembentukan-ikatan-lanjutancontinuation" id="toc-uts-3-pembentukan-ikatan-lanjutancontinuation" class="nav-link" data-scroll-target="#uts-3-pembentukan-ikatan-lanjutancontinuation">UTS-3: <strong>Pembentukan Ikatan (Lanjutan/Continuation)</strong></a></li>
-  <li><a href="#uts-4-penemuan-diri-yang-autentik-authentic-self-discovery" id="toc-uts-4-penemuan-diri-yang-autentik-authentic-self-discovery" class="nav-link" data-scroll-target="#uts-4-penemuan-diri-yang-autentik-authentic-self-discovery">UTS-4: <strong>Penemuan Diri yang Autentik (Authentic Self Discovery)</strong></a></li>
-  <li><a href="#uts-5" id="toc-uts-5" class="nav-link" data-scroll-target="#uts-5">UTS-5</a></li>
-  <li><a href="#uas-1-penjelasan-konsep-concept-explanation" id="toc-uas-1-penjelasan-konsep-concept-explanation" class="nav-link" data-scroll-target="#uas-1-penjelasan-konsep-concept-explanation">UAS-1: <strong>Penjelasan Konsep (Concept Explanation)</strong></a></li>
-  <li><a href="#uas-2-esai-opini-opinion-essay" id="toc-uas-2-esai-opini-opinion-essay" class="nav-link" data-scroll-target="#uas-2-esai-opini-opinion-essay">UAS-2: <strong>Esai Opini (Opinion Essay)</strong></a></li>
-  <li><a href="#uas-3-presentasi-individual-presentation" id="toc-uas-3-presentasi-individual-presentation" class="nav-link" data-scroll-target="#uas-3-presentasi-individual-presentation">UAS-3: <strong>Presentasi (Individual Presentation)</strong></a></li>
-  <li><a href="#uas-4-inovasi-innovation-proposal" id="toc-uas-4-inovasi-innovation-proposal" class="nav-link" data-scroll-target="#uas-4-inovasi-innovation-proposal">UAS-4: <strong>Inovasi (Innovation Proposal)</strong></a></li>
   <li><a href="#hubungan-dengan-cpmk" id="toc-hubungan-dengan-cpmk" class="nav-link" data-scroll-target="#hubungan-dengan-cpmk">Hubungan dengan CPMK</a>
   <ul class="collapse">
   <li><a href="#peta-tugas-cpmk" id="toc-peta-tugas-cpmk" class="nav-link" data-scroll-target="#peta-tugas-cpmk">1) Peta Tugas → CPMK</a></li>
@@ -481,75 +478,20 @@ Table&nbsp;1: Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diuku
 </figure>
 </div>
 </section>
-<section id="kuis-materi-topik-setiap-minggu-q-1-sd-q-7" class="level2">
-<h2 class="anchored" data-anchor-id="kuis-materi-topik-setiap-minggu-q-1-sd-q-7">**Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-7)</h2>
+<section id="bukti-pencapaian-beserta-rubrik-terkait" class="level2">
+<h2 class="anchored" data-anchor-id="bukti-pencapaian-beserta-rubrik-terkait">Bukti Pencapaian Beserta Rubrik Terkait</h2>
+<section id="kuis-materi-topik-setiap-minggu-q-1-sd-q-7" class="level3">
+<h3 class="anchored" data-anchor-id="kuis-materi-topik-setiap-minggu-q-1-sd-q-7">**Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-7)</h3>
 <p>Pada materi setiap minggu, terdapat Kuiz yang perlu dikerjakan melalui Situs Microsoft Form.</p>
 </section>
-<section id="kuis-materi-topik-setiap-minggu-q-8-sd-q-14" class="level2">
-<h2 class="anchored" data-anchor-id="kuis-materi-topik-setiap-minggu-q-8-sd-q-14">**Kuis Materi Topik Setiap Minggu (Q-8 s/d Q-14)</h2>
+<section id="kuis-materi-topik-setiap-minggu-q-8-sd-q-14" class="level3">
+<h3 class="anchored" data-anchor-id="kuis-materi-topik-setiap-minggu-q-8-sd-q-14">**Kuis Materi Topik Setiap Minggu (Q-8 s/d Q-14)</h3>
 <p>Pada materi setiap minggu, terdapat Kuiz yang perlu dikerjakan melalui Situs Microsoft Form.</p>
 </section>
-<section id="uts-1-all-about-me" class="level2">
-<h2 class="anchored" data-anchor-id="uts-1-all-about-me">UTS-1 All About Me</h2>
+<section id="uts-1-all-about-me" class="level3">
+<h3 class="anchored" data-anchor-id="uts-1-all-about-me">UTS-1 All About Me</h3>
 <p>Berisikan pesan yang memperkenalkan sosok diri kita. Meskipun komunikasi bhersifat pribadi, hendaknya informasi yang sensitif atau yang bersifat rahasia bank (seperti tanggal lahir dan nama ibu kandung) tidak ditayangkan</p>
-</section>
-<section id="uts-2-song-for-you" class="level2">
-<h2 class="anchored" data-anchor-id="uts-2-song-for-you">UTS-2 Song for you</h2>
-<p>Berisikan pesan berbentuk puisi, lago, dan/atau viodeo clip untuk ia atau mereka yang kita anggap relasi intim. Penggunakan AI akan mempercepat proses pembuatannya, namun otensitas dan signature pribadi sangat penting untuk keberhasilan pesan ini.</p>
-</section>
-<section id="uts-3-my-stories-for-you" class="level2">
-<h2 class="anchored" data-anchor-id="uts-3-my-stories-for-you">UTS-3 My Stories for You,</h2>
-<p>Berisikan kisah inspiratif dan menarik yang Anda ingin bagikan dengan pribadi lain. Gunakan rubrik <a href="asesmen/UTS-3-My-Stories-for-You/Dok.4.a.Rubrik_Kisah.pdf">terlampir</a></p>
-</section>
-<section id="uts-4-my-shape" class="level2">
-<h2 class="anchored" data-anchor-id="uts-4-my-shape">UTS-4 My Shape,</h2>
-<p>Berisikan laporan siapa Anda berdasar, Piagam Diri dan Identitas Naratif, hasil sebuah lembar kerja <a href="asesmen/UTS-4-My-SHAPE/my_shape_short_2.pdf">My SHAPE</a></p>
-</section>
-<section id="uts-5-my-personal-review" class="level2">
-<h2 class="anchored" data-anchor-id="uts-5-my-personal-review">UTS-5 My Personal Review,</h2>
-<p>Berisikan telahan pesan personal berdasarkan rubrik, Sebagaimana <a href="asesmen/UTS-5-My-Personal-Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf">PETUNJUK ini</a>. Rubrik untuk My Stories ada di <a href="asesmen/UTS-5-My-Personal-Reviews/Dok.4.a.Rubrik_Kisah.pdf">sini</a></p>
-</section>
-<section id="uas-1-my-concepts" class="level2">
-<h2 class="anchored" data-anchor-id="uas-1-my-concepts">UAS-1 My Concepts,</h2>
-<p>Berisikan suatu penjelasan atas suatu fenomena yang penting, dengan tujuan untuk mengkomunikasikan keistimewaan pengetahuan yang kita miliki. Penjelasan singkat apa itu konsep dapat di lihat di sini: </p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/DxK-_0AzHiw?si=5lpAur3wWtiOyUDV" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
-</section>
-<section id="uas-2-my-opinions" class="level2">
-<h2 class="anchored" data-anchor-id="uas-2-my-opinions">UAS-2 My Opinions,</h2>
-<p>Berisikan suatu pandangan mengenai bagaimana sikap, keputusan, atau tindakan terbaik yang harus diambil dalam menghadapiu suatu kondisi atau perkembangan</p>
-</section>
-<section id="uas-3-my-innovations" class="level2">
-<h2 class="anchored" data-anchor-id="uas-3-my-innovations">UAS-3 My Innovations</h2>
-<p>Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas berkomunikasi KIPP</p>
-</section>
-<section id="uas-4-my-knowledge" class="level2">
-<h2 class="anchored" data-anchor-id="uas-4-my-knowledge">UAS-4 My Knowledge,</h2>
-<p>Berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini</p>
-</section>
-<section id="uas-5-my-professional-reviews" class="level2">
-<h2 class="anchored" data-anchor-id="uas-5-my-professional-reviews">UAS-5 My Professional Reviews</h2>
-<p>Berisikan telaahan pesan publikl berdasarkan rubrik.</p>
-</section>
-<section id="teknis-pelaksanaan-pengumpulan-dan-penilaian" class="level2">
-<h2 class="anchored" data-anchor-id="teknis-pelaksanaan-pengumpulan-dan-penilaian">Teknis Pelaksanaan, Pengumpulan, dan Penilaian</h2>
-<section id="repositori-github" class="level3">
-<h3 class="anchored" data-anchor-id="repositori-github">Repositori Github</h3>
-<p>Dianjurkan setiap peserta memanfaatkan Github untuk meng-host portfolio karya laporan tugas. Untuk itu setiap peserta dapat mem-fork repositori <a href="https://github.com/II-2100/all-about-me">contoh</a> dan menggunakan nya sebagai template <a href="https://II-2100.github.io/all-about-me" class="uri">https://II-2100.github.io/all-about-me</a>. Meskpun demikian, peserta dapat menggunakan platform lain untuk menyimpan hasil tugas nya.</p>
-<p>Pada <a href="#tbl-asesmen" class="quarto-xref">Table&nbsp;<span>1</span></a> di cantumkan juga soft-deadline, yaitu jadwal pengumpulan tugas. Hard deadline UTS dan UAS masing-masing ada pada UTS-5 dan UAS-10., berarti semua tugas sudah harus tersubmit sebelum hard-deadline</p>
-<p>Link ke halaman utama dari tugas Anda hendaknya dilaporkan di <a href="https://forms.office.com/r/pbUdPnGN3h" class="uri">https://forms.office.com/r/pbUdPnGN3h</a>. Sebelum dilaporkan, pastikan</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 100%">
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Berikut <strong>rubrik penilaian</strong> untuk setiap tugas UTS (mid-term) dan UAS (final) mata kuliah <strong>II-2100 Interpersonal &amp; Public Communication</strong>. Skala 1–5 (1 = Buruk, 5 = Sangat Baik).</td>
-</tr>
-</tbody>
-</table>
-</section>
-</section>
-<section id="uts-1-daya-tarik-attractiveness" class="level2">
-<h2 class="anchored" data-anchor-id="uts-1-daya-tarik-attractiveness">UTS-1: <strong>Daya Tarik (Attractiveness)</strong></h2>
+<p>** Rubrik UTS-1: Daya Tarik (Attractiveness)**</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 6%">
@@ -604,10 +546,10 @@ Table&nbsp;1: Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diuku
 </tr>
 </tbody>
 </table>
-<hr>
 </section>
-<section id="uts-2-pembentukan-ikatan-bonding" class="level2">
-<h2 class="anchored" data-anchor-id="uts-2-pembentukan-ikatan-bonding">UTS-2: <strong>Pembentukan Ikatan (Bonding)</strong></h2>
+<section id="uts-2-song-for-you" class="level3">
+<h3 class="anchored" data-anchor-id="uts-2-song-for-you">UTS-2 Song for you</h3>
+<p>Berisikan pesan berbentuk puisi, lago, dan/atau viodeo clip untuk ia atau mereka yang kita anggap relasi intim. Penggunakan AI akan mempercepat proses pembuatannya, namun otensitas dan signature pribadi sangat penting untuk keberhasilan pesan ini.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 6%">
@@ -662,10 +604,10 @@ Table&nbsp;1: Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diuku
 </tr>
 </tbody>
 </table>
-<hr>
 </section>
-<section id="uts-3-pembentukan-ikatan-lanjutancontinuation" class="level2">
-<h2 class="anchored" data-anchor-id="uts-3-pembentukan-ikatan-lanjutancontinuation">UTS-3: <strong>Pembentukan Ikatan (Lanjutan/Continuation)</strong></h2>
+<section id="uts-3-my-stories-for-you" class="level3">
+<h3 class="anchored" data-anchor-id="uts-3-my-stories-for-you">UTS-3 My Stories for You,</h3>
+<p>Berisikan kisah inspiratif dan menarik yang Anda ingin bagikan dengan pribadi lain.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 5%">
@@ -720,10 +662,10 @@ Table&nbsp;1: Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diuku
 </tr>
 </tbody>
 </table>
-<hr>
 </section>
-<section id="uts-4-penemuan-diri-yang-autentik-authentic-self-discovery" class="level2">
-<h2 class="anchored" data-anchor-id="uts-4-penemuan-diri-yang-autentik-authentic-self-discovery">UTS-4: <strong>Penemuan Diri yang Autentik (Authentic Self Discovery)</strong></h2>
+<section id="uts-4-my-shape" class="level3">
+<h3 class="anchored" data-anchor-id="uts-4-my-shape">UTS-4 My Shape,</h3>
+<p>Berisikan laporan siapa Anda berdasar, Piagam Diri dan Identitas Naratif, hasil sebuah lembar kerja <a href="asesmen/UTS-4-My-SHAPE/my_shape_short_2.pdf">My SHAPE</a></p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 5%">
@@ -779,12 +721,82 @@ Table&nbsp;1: Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diuku
 </tbody>
 </table>
 </section>
-<section id="uts-5" class="level2">
-<h2 class="anchored" data-anchor-id="uts-5">UTS-5</h2>
-<hr>
+<section id="uts-5-my-personal-review" class="level3">
+<h3 class="anchored" data-anchor-id="uts-5-my-personal-review">UTS-5 My Personal Review,</h3>
+<p>Berisikan telahan pesan personal berdasarkan rubrik</p>
+<div id="196109d1" class="cell" data-execution_count="1">
+<div class="cell-output cell-output-display" data-execution_count="1">
+<div>
+
+
+<table class="dataframe caption-top table table-sm table-striped small" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">Criterion</th>
+<th data-quarto-table-cell-role="th">Level1</th>
+<th data-quarto-table-cell-role="th">Level2</th>
+<th data-quarto-table-cell-role="th">Level3</th>
+<th data-quarto-table-cell-role="th">Level4</th>
+<th data-quarto-table-cell-role="th">Level5</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<th data-quarto-table-cell-role="th">0</th>
+<td>Pemahaman Konsep Interpersonal</td>
+<td>Tidak paham</td>
+<td>Kurang</td>
+<td>Cukup</td>
+<td>Paham</td>
+<td>Sangat paham &amp; komprehensif</td>
+</tr>
+<tr class="even">
+<th data-quarto-table-cell-role="th">1</th>
+<td>Analisis Kritis Pesan</td>
+<td>Tidak kritis</td>
+<td>Kurang kritis</td>
+<td>Cukup</td>
+<td>Kritis</td>
+<td>Sangat kritis &amp; tajam</td>
+</tr>
+<tr class="odd">
+<th data-quarto-table-cell-role="th">2</th>
+<td>Argumentasi (Logos)</td>
+<td>Tidak logis</td>
+<td>Kurang koheren</td>
+<td>Cukup</td>
+<td>Logis</td>
+<td>Sangat logis &amp; meyakinkan</td>
+</tr>
+<tr class="even">
+<th data-quarto-table-cell-role="th">3</th>
+<td>Etos &amp; Empati</td>
+<td>Tidak tampak</td>
+<td>Kurang</td>
+<td>Cukup</td>
+<td>Baik</td>
+<td>Sangat baik &amp; berimbang</td>
+</tr>
+<tr class="odd">
+<th data-quarto-table-cell-role="th">4</th>
+<td>Rekomendasi Perbaikan</td>
+<td>Tidak ada</td>
+<td>Umum</td>
+<td>Cukup</td>
+<td>Konkret</td>
+<td>Sangat konkret &amp; aplikatif</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
 </section>
-<section id="uas-1-penjelasan-konsep-concept-explanation" class="level2">
-<h2 class="anchored" data-anchor-id="uas-1-penjelasan-konsep-concept-explanation">UAS-1: <strong>Penjelasan Konsep (Concept Explanation)</strong></h2>
+<section id="uas-1-my-concepts" class="level3">
+<h3 class="anchored" data-anchor-id="uas-1-my-concepts">UAS-1 My Concepts,</h3>
+<p>Berisikan suatu penjelasan atas suatu fenomena yang penting, dengan tujuan untuk mengkomunikasikan keistimewaan pengetahuan yang kita miliki. Penjelasan singkat apa itu konsep dapat di lihat di sini: </p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/DxK-_0AzHiw?si=5lpAur3wWtiOyUDV" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 10%">
@@ -839,10 +851,10 @@ Table&nbsp;1: Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diuku
 </tr>
 </tbody>
 </table>
-<hr>
 </section>
-<section id="uas-2-esai-opini-opinion-essay" class="level2">
-<h2 class="anchored" data-anchor-id="uas-2-esai-opini-opinion-essay">UAS-2: <strong>Esai Opini (Opinion Essay)</strong></h2>
+<section id="uas-2-my-opinions" class="level3">
+<h3 class="anchored" data-anchor-id="uas-2-my-opinions">UAS-2 My Opinions,</h3>
+<p>Berisikan suatu pandangan mengenai bagaimana sikap, keputusan, atau tindakan terbaik yang harus diambil dalam menghadapiu suatu kondisi atau perkembangan</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 9%">
@@ -897,68 +909,10 @@ Table&nbsp;1: Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diuku
 </tr>
 </tbody>
 </table>
-<hr>
 </section>
-<section id="uas-3-presentasi-individual-presentation" class="level2">
-<h2 class="anchored" data-anchor-id="uas-3-presentasi-individual-presentation">UAS-3: <strong>Presentasi (Individual Presentation)</strong></h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 7%">
-<col style="width: 26%">
-<col style="width: 15%">
-<col style="width: 18%">
-<col style="width: 15%">
-<col style="width: 16%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Kriteria</th>
-<th>5 – Sangat Baik</th>
-<th>4 – Baik</th>
-<th>3 – Cukup</th>
-<th>2 – Kurang</th>
-<th>1 – Buruk</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Konten</strong></td>
-<td><strong>Sangat akurat, relevan, mendalam</strong>, didukung bukti/contoh kuat.</td>
-<td><strong>Akurat &amp; relevan</strong>, ada celah kecil.</td>
-<td><strong>Dasar</strong> dan cukup akurat; ada kekurangan.</td>
-<td><strong>Terbatas/kurang relevan</strong>, pemahaman dangkal.</td>
-<td><strong>Lemah/tidak relevan</strong>, miskin pemahaman.</td>
-</tr>
-<tr class="even">
-<td><strong>Organisasi</strong></td>
-<td>Struktur <strong>sangat jelas &amp; koheren</strong> (pembuka–isi–penutup).</td>
-<td><strong>Terstruktur baik</strong>, transisi kadang kurang mulus.</td>
-<td>Struktur <strong>dasar</strong>; alur kadang membingungkan.</td>
-<td><strong>Buruk</strong> terstruktur; alur membingungkan.</td>
-<td><strong>Tanpa</strong> struktur; sulit diikuti.</td>
-</tr>
-<tr class="odd">
-<td><strong>Penyajian (Delivery)</strong></td>
-<td><strong>Percaya diri</strong>, suara jelas, tempo pas, kontak mata &amp; bahasa tubuh <strong>sangat baik</strong>.</td>
-<td><strong>Baik</strong>; jelas, ada isu minor.</td>
-<td><strong>Cukup</strong>; ada masalah nyata (monoton, volume, kontak mata).</td>
-<td><strong>Kurang</strong> efektif; sering tidak jelas/distraktif.</td>
-<td><strong>Sangat buruk</strong>; tidak terdengar, tanpa kontak mata.</td>
-</tr>
-<tr class="even">
-<td><strong>Keterlibatan Audiens</strong></td>
-<td><strong>Aktif</strong> melibatkan audiens sepanjang presentasi.</td>
-<td><strong>Baik</strong> melibatkan audiens, ada jeda kecil.</td>
-<td><strong>Cukup</strong> melibatkan; atensi tidak konsisten.</td>
-<td><strong>Minim</strong> upaya melibatkan audiens.</td>
-<td><strong>Tidak</strong> melibatkan audiens.</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-<section id="uas-4-inovasi-innovation-proposal" class="level2">
-<h2 class="anchored" data-anchor-id="uas-4-inovasi-innovation-proposal">UAS-4: <strong>Inovasi (Innovation Proposal)</strong></h2>
+<section id="uas-3-my-innovations" class="level3">
+<h3 class="anchored" data-anchor-id="uas-3-my-innovations">UAS-3 My Innovations</h3>
+<p>Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas berkomunikasi KIPP</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 8%">
@@ -1013,6 +967,138 @@ Table&nbsp;1: Tabel daftar bentuk asesmen, jadwal soft deadline, CPMK yang diuku
 </tr>
 </tbody>
 </table>
+</section>
+<section id="uas-4-my-knowledge" class="level3">
+<h3 class="anchored" data-anchor-id="uas-4-my-knowledge">UAS-4 My Knowledge,</h3>
+<p>Berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 7%">
+<col style="width: 26%">
+<col style="width: 15%">
+<col style="width: 18%">
+<col style="width: 15%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Kriteria</th>
+<th>5 – Sangat Baik</th>
+<th>4 – Baik</th>
+<th>3 – Cukup</th>
+<th>2 – Kurang</th>
+<th>1 – Buruk</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Konten</strong></td>
+<td><strong>Sangat akurat, relevan, mendalam</strong>, didukung bukti/contoh kuat.</td>
+<td><strong>Akurat &amp; relevan</strong>, ada celah kecil.</td>
+<td><strong>Dasar</strong> dan cukup akurat; ada kekurangan.</td>
+<td><strong>Terbatas/kurang relevan</strong>, pemahaman dangkal.</td>
+<td><strong>Lemah/tidak relevan</strong>, miskin pemahaman.</td>
+</tr>
+<tr class="even">
+<td><strong>Organisasi</strong></td>
+<td>Struktur <strong>sangat jelas &amp; koheren</strong> (pembuka–isi–penutup).</td>
+<td><strong>Terstruktur baik</strong>, transisi kadang kurang mulus.</td>
+<td>Struktur <strong>dasar</strong>; alur kadang membingungkan.</td>
+<td><strong>Buruk</strong> terstruktur; alur membingungkan.</td>
+<td><strong>Tanpa</strong> struktur; sulit diikuti.</td>
+</tr>
+<tr class="odd">
+<td><strong>Penyajian (Delivery)</strong></td>
+<td><strong>Percaya diri</strong>, suara jelas, tempo pas, kontak mata &amp; bahasa tubuh <strong>sangat baik</strong>.</td>
+<td><strong>Baik</strong>; jelas, ada isu minor.</td>
+<td><strong>Cukup</strong>; ada masalah nyata (monoton, volume, kontak mata).</td>
+<td><strong>Kurang</strong> efektif; sering tidak jelas/distraktif.</td>
+<td><strong>Sangat buruk</strong>; tidak terdengar, tanpa kontak mata.</td>
+</tr>
+<tr class="even">
+<td><strong>Keterlibatan Audiens</strong></td>
+<td><strong>Aktif</strong> melibatkan audiens sepanjang presentasi.</td>
+<td><strong>Baik</strong> melibatkan audiens, ada jeda kecil.</td>
+<td><strong>Cukup</strong> melibatkan; atensi tidak konsisten.</td>
+<td><strong>Minim</strong> upaya melibatkan audiens.</td>
+<td><strong>Tidak</strong> melibatkan audiens.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="uas-5-my-professional-reviews" class="level3">
+<h3 class="anchored" data-anchor-id="uas-5-my-professional-reviews">UAS-5 My Professional Reviews</h3>
+<p>Berisikan telaahan pesan publik berdasarkan rubrik.</p>
+<div id="ebae6e15" class="cell" data-execution_count="2">
+<div class="cell-output cell-output-display" data-execution_count="2">
+<div>
+
+
+<table class="dataframe caption-top table table-sm table-striped small" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">Criterion</th>
+<th data-quarto-table-cell-role="th">Level1</th>
+<th data-quarto-table-cell-role="th">Level2</th>
+<th data-quarto-table-cell-role="th">Level3</th>
+<th data-quarto-table-cell-role="th">Level4</th>
+<th data-quarto-table-cell-role="th">Level5</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<th data-quarto-table-cell-role="th">0</th>
+<td>Kerangka Profesional (standar/rubrik)</td>
+<td>Tidak ada</td>
+<td>Kurang jelas</td>
+<td>Cukup</td>
+<td>Jelas</td>
+<td>Sangat jelas &amp; tepat</td>
+</tr>
+<tr class="even">
+<th data-quarto-table-cell-role="th">1</th>
+<td>Analisis Bukti</td>
+<td>Tanpa bukti</td>
+<td>Bukti lemah</td>
+<td>Cukup</td>
+<td>Kuat</td>
+<td>Sangat kuat &amp; triangulasi</td>
+</tr>
+<tr class="odd">
+<th data-quarto-table-cell-role="th">2</th>
+<td>Relevansi Konteks Publik</td>
+<td>Tidak relevan</td>
+<td>Kurang</td>
+<td>Cukup</td>
+<td>Relevan</td>
+<td>Sangat relevan &amp; strategis</td>
+</tr>
+<tr class="even">
+<th data-quarto-table-cell-role="th">3</th>
+<td>Rekomendasi</td>
+<td>Tidak ada</td>
+<td>Umum</td>
+<td>Cukup</td>
+<td>Konkret</td>
+<td>Sangat konkret &amp; prioritas aksi</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="teknis-pelaksanaan-pengumpulan-dan-penilaian" class="level2">
+<h2 class="anchored" data-anchor-id="teknis-pelaksanaan-pengumpulan-dan-penilaian">Teknis Pelaksanaan, Pengumpulan, dan Penilaian</h2>
+<section id="repositori-github" class="level3">
+<h3 class="anchored" data-anchor-id="repositori-github">Repositori Github</h3>
+<p>Dianjurkan setiap peserta memanfaatkan Github untuk meng-host portfolio karya laporan tugas. Untuk itu setiap peserta dapat mem-fork repositori <a href="https://github.com/II-2100/all-about-me">contoh</a> dan menggunakan nya sebagai template <a href="https://II-2100.github.io/all-about-me" class="uri">https://II-2100.github.io/all-about-me</a>. Meskpun demikian, peserta dapat menggunakan platform lain untuk menyimpan hasil tugas nya.</p>
+<p>Pada <a href="#tbl-asesmen" class="quarto-xref">Table&nbsp;<span>1</span></a> di cantumkan juga soft-deadline, yaitu jadwal pengumpulan tugas. Hard deadline UTS dan UAS masing-masing ada pada UTS-5 dan UAS-10., berarti semua tugas sudah harus tersubmit sebelum hard-deadline</p>
+<p>Link ke halaman utama dari tugas Anda hendaknya dilaporkan di <a href="https://forms.office.com/r/pbUdPnGN3h" class="uri">https://forms.office.com/r/pbUdPnGN3h</a>. Sebelum dilaporkan, pastikan</p>
+</section>
 </section>
 <section id="hubungan-dengan-cpmk" class="level2">
 <h2 class="anchored" data-anchor-id="hubungan-dengan-cpmk">Hubungan dengan CPMK</h2>
