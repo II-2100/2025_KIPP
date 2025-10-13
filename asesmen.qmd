@@ -13,15 +13,15 @@ Dalam kuliah ini, daya tarik personal timbul apabila kita mengkomunikasikan soso
 ::: callout-important
 Petunjuk:
 
-Baca petunjuk ini. Di dalamnya terdapat cara mendapatkan skor untuk nilai akhir. Skor ini didasarkan pada portfolio report yang disusun oleh peserta kuliah sebagai bukti tertulis adanya penguasaan topik puliah. Portfolio ini di rangkum dalam sebuah Portal yang dapat diakses untuk kepentingan asesmen. Untuk itu Anda diminta untuk mnembuat repositori, menyimpan materi laporan di situ, serta memberikan sebagian materi untuk diakses penilai melalui portal yang Anda buat.  Sebuah contoh portfolio ini ada di adalah <<https://github.com/II-2100/all-about-me.git>> yang menghost laporan yang anda buat. Selain itu yang Anda dapat membuat web-page yang melaporakan sebagian yang ada dari portfolio tersebut. Untuk itu langkah-langkah yang direkomendsikan untuk ditempuh
+1.  Baca petunjuk ini
 
-1.  Fork repositori [All About Me](https://github.com/II-2100/all-about-me.git) atau <https://github.com/II-2100/all-about-me.git>
+2.  Fork repositori [All About Me](https://github.com/II-2100/all-about-me.git) atau <https://github.com/II-2100/all-about-me.git>
 
-2.  Simpan hasil laporan tugas anda pada repositori tersebut
+3.  simpan hasil laporan tugas anda pada repositori tersebut
 
-3.  Publish bagian yang hendak di asses melalui portal page
+4.  publish bagian yang hendak di asses melalui portal page
 
-4.  Submit URL portal page ke URL Submisi: <https://forms.office.com/r/pbUdPnGN3h>
+5.  submit URL portal page ke URL Submisi: <https://forms.office.com/r/pbUdPnGN3h>
 :::
 
 ## Konsep Penguasaan Kompetensi
