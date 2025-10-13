@@ -1,0 +1,6 @@
+StudentID,Name,Pemahaman Konsep Interpersonal (1-5),Analisis Kritis Pesan (1-5),Argumentasi (Logos) (1-5),Etos & Empati (1-5),Rekomendasi Perbaikan (1-5),Rata2_Level,Skor_0_100,Catatan
+S001,Student 1,,,,,,"=IFERROR(AVERAGE(C2:G2),"""")","=IF(H2="""","""",ROUND(H2/5*100,0))",
+S002,Student 2,,,,,,"=IFERROR(AVERAGE(C3:G3),"""")","=IF(H3="""","""",ROUND(H3/5*100,0))",
+S003,Student 3,,,,,,"=IFERROR(AVERAGE(C4:G4),"""")","=IF(H4="""","""",ROUND(H4/5*100,0))",
+S004,Student 4,,,,,,"=IFERROR(AVERAGE(C5:G5),"""")","=IF(H5="""","""",ROUND(H5/5*100,0))",
+S005,Student 5,,,,,,"=IFERROR(AVERAGE(C6:G6),"""")","=IF(H6="""","""",ROUND(H6/5*100,0))",

@@ -1,0 +1,21 @@
+Section,Key,Value,Notes
+TARGETS,CPMK1,70,Target minimal (%) – edit jika perlu
+TARGETS,CPMK2,70,Target minimal (%) – edit jika perlu
+TARGETS,CPMK3,70,Target minimal (%) – edit jika perlu
+TARGETS,CPMK4,70,Target minimal (%) – edit jika perlu
+WEIGHTS,CPMK1->QZ1,0.2,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK1->UAS1_MyConcepts,0.25,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK1->UTS4_MySHAPE,0.15,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK1->UTS5_MyPersonalReview,0.15,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK1->UAS4_MyKnowledge,0.25,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK2->UTS1_AllAboutMe,0.2,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK2->UTS2_SongForYou,0.25,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK2->UTS3_MyStories,0.25,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK2->UTS4_MySHAPE,0.15,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK2->UTS5_MyPersonalReview,0.15,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK3->QZ2,0.25,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK3->UAS1_MyConcepts,0.15,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK3->UAS2_MyOpinions,0.35,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK3->UAS4_MyKnowledge,0.25,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK4->UAS3_MyInnovations,0.55,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)
+WEIGHTS,CPMK4->UAS5_MyProfessionalReviews,0.45,Bobot kontribusi task ke CPMK (jumlah per CPMK = 1.0)

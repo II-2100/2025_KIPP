@@ -1,0 +1,6 @@
+StudentID,Name,Freshness (1-5),Engagement (1-5),Humor (1-5),Inspiration (1-5),Rata2_Level,Skor_0_100,Catatan
+S001,Student 1,,,,,"=IFERROR(AVERAGE(C2:F2),"""")","=IF(G2="""","""",ROUND(G2/5*100,0))",
+S002,Student 2,,,,,"=IFERROR(AVERAGE(C3:F3),"""")","=IF(G3="""","""",ROUND(G3/5*100,0))",
+S003,Student 3,,,,,"=IFERROR(AVERAGE(C4:F4),"""")","=IF(G4="""","""",ROUND(G4/5*100,0))",
+S004,Student 4,,,,,"=IFERROR(AVERAGE(C5:F5),"""")","=IF(G5="""","""",ROUND(G5/5*100,0))",
+S005,Student 5,,,,,"=IFERROR(AVERAGE(C6:F6),"""")","=IF(G6="""","""",ROUND(G6/5*100,0))",
