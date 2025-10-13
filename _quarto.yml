@@ -37,4 +37,7 @@ format:
     documentclass: scrreprt
 
 
+execute:
+  echo: false
+jupyter: python3
 
