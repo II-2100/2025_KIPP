@@ -33,8 +33,9 @@ format:
     theme:
       - cosmo
       - brand
-  pdf:
+  latex:
     documentclass: scrreprt
+    
 
 
 execute:
