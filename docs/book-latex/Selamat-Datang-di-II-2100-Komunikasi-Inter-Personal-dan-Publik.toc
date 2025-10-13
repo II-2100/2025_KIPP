@@ -1,0 +1,196 @@
+\contentsline {chapter}{Selamat Datang}{3}{chapter*.2}%
+\contentsline {section}{\textbf {SILABUS MATA KULIAH}}{3}{section*.3}%
+\contentsline {section}{Belajar adalah Perjalanan}{4}{section*.4}%
+\contentsline {chapter}{RENCANA PEMBELAJARAN SEMESTER (RPS)}{5}{chapter*.5}%
+\contentsline {chapter}{Asesmen Pencapaian CPMK}{9}{chapter*.6}%
+\contentsline {section}{Konsep Penguasaan Kompetensi}{9}{section*.7}%
+\contentsline {section}{Bukti Kompetensi}{10}{section*.8}%
+\contentsline {section}{Bukti Pencapaian Beserta Rubrik Terkait}{11}{section*.9}%
+\contentsline {subsection}{**Kuis Materi Topik Setiap Minggu (Q-1 s/d Q-7)}{11}{section*.10}%
+\contentsline {subsection}{**Kuis Materi Topik Setiap Minggu (Q-8 s/d Q-14)}{11}{section*.11}%
+\contentsline {subsection}{UTS-1 All About Me}{11}{section*.12}%
+\contentsline {subsection}{UTS-2 Song for you}{12}{section*.13}%
+\contentsline {subsection}{UTS-3 My Stories for You,}{13}{section*.14}%
+\contentsline {subsection}{UTS-4 My Shape,}{14}{section*.15}%
+\contentsline {subsection}{UTS-5 My Personal Review,}{14}{section*.16}%
+\contentsline {subsection}{UAS-1 My Concepts,}{15}{section*.17}%
+\contentsline {subsection}{UAS-2 My Opinions,}{15}{section*.18}%
+\contentsline {subsection}{UAS-3 My Innovations}{16}{section*.19}%
+\contentsline {subsection}{UAS-4 My Knowledge,}{17}{section*.20}%
+\contentsline {subsection}{UAS-5 My Professional Reviews}{17}{section*.21}%
+\contentsline {section}{Teknis Pelaksanaan, Pengumpulan, dan Penilaian}{18}{section*.22}%
+\contentsline {subsection}{Repositori Github}{18}{section*.23}%
+\contentsline {section}{Hubungan dengan CPMK}{18}{section*.24}%
+\contentsline {subsection}{1) Peta Tugas → CPMK}{18}{section*.25}%
+\contentsline {subsection}{2) Dari Skor Rubrik → Skor CPMK (langkah perhitungan)}{19}{section*.26}%
+\contentsline {subsection}{3) Hubungan dengan \textbf {nilai mata kuliah} (UTS/UAS/Tugas)}{20}{section*.27}%
+\contentsline {subsection}{Contoh mini (ilustratif)}{20}{section*.28}%
+\contentsline {chapter}{\numberline {1}Kuliah 1: Komunikasi Interpersonal}{21}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Ringkasan Materi}{21}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Sesi 2: Karakteristik Kompetensi Komunikasi Interpersonal}{22}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Sesi 3: Bisnis Konten Komunikasi Interpersonal}{22}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Sesi 4: Teknologi Digital dan Komunikasi Interpersonal}{23}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Kuis}{23}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Pertanyaan Esai (Pekerjaan Rumah Tidak Perlu di Submit)}{24}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Glosarium Istilah Kunci}{25}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Kuliah 2: Memahami Komunikasi Diri dan Pementasan Diri}{27}{chapter.2}%
+\contentsline {section}{\numberline {2.1}\textbf {Materi}}{27}{section.2.1}%
+\contentsline {section}{\numberline {2.2}1. Pendahuluan Komunikasi Diri (Intrapersonal Communication)}{27}{section.2.2}%
+\contentsline {section}{\numberline {2.3}2. Konsep Diri (Self-Concept)}{28}{section.2.3}%
+\contentsline {section}{\numberline {2.4}3. Harga Diri (Self-Esteem)}{29}{section.2.4}%
+\contentsline {section}{\numberline {2.5}4. Presentasi Diri (Image Management / Self-Presentation)}{29}{section.2.5}%
+\contentsline {section}{\numberline {2.6}5. Peran Prediksi yang Memenuhi Diri Sendiri (Self-Fulfilling Prophecy)}{31}{section.2.6}%
+\contentsline {section}{\numberline {2.7}6. Pentingnya ``Self-Talk'' dan Mengatasi ``Vultures'' (Gangguan Psikologis)}{31}{section.2.7}%
+\contentsline {section}{\numberline {2.8}7. Diskusi dan Aplikasi}{32}{section.2.8}%
+\contentsline {section}{\numberline {2.9}\textbf {Ringkasan}}{32}{section.2.9}%
+\contentsline {section}{\numberline {2.10}I. Konsep Diri (Self-Concept)}{33}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}A. Definisi dan Pentingnya}{33}{subsection.2.10.1}%
+\contentsline {subsection}{\numberline {2.10.2}B. Pembentukan Konsep Diri}{33}{subsection.2.10.2}%
+\contentsline {subsection}{\numberline {2.10.3}C. Roh Karakter}{33}{subsection.2.10.3}%
+\contentsline {section}{\numberline {2.11}II. Pementasan Diri (Self-Presentation / Image Management)}{34}{section.2.11}%
+\contentsline {subsection}{\numberline {2.11.1}A. Definisi dan Tujuan}{34}{subsection.2.11.1}%
+\contentsline {subsection}{\numberline {2.11.2}B. Tiga Versi Diri}{34}{subsection.2.11.2}%
+\contentsline {subsection}{\numberline {2.11.3}C. Diagram Kartesius Pementasan Diri (Perspektif Diri)}{34}{subsection.2.11.3}%
+\contentsline {subsection}{\numberline {2.11.4}D. Diagram Kartesius Pementasan Diri (Perspektif Orang Lain)}{35}{subsection.2.11.4}%
+\contentsline {subsection}{\numberline {2.11.5}E. Aspek yang Perlu Disiapkan dalam Pementasan Diri}{35}{subsection.2.11.5}%
+\contentsline {subsection}{\numberline {2.11.6}F. Integritas dan Deception dalam Pementasan Diri}{35}{subsection.2.11.6}%
+\contentsline {section}{\numberline {2.12}III. Penyingkapan Diri (Self-Disclosure)}{35}{section.2.12}%
+\contentsline {subsection}{\numberline {2.12.1}A. Definisi dan Aspek}{35}{subsection.2.12.1}%
+\contentsline {subsection}{\numberline {2.12.2}B. Dimensi Keluasan dan Kedalaman Informasi}{36}{subsection.2.12.2}%
+\contentsline {subsection}{\numberline {2.12.3}C. Jendela Johari}{36}{subsection.2.12.3}%
+\contentsline {subsection}{\numberline {2.12.4}D. Manfaat dan Keuntungan Penyingkapan Diri}{36}{subsection.2.12.4}%
+\contentsline {subsection}{\numberline {2.12.5}E. Risiko dan Kerugian Penyingkapan Diri}{36}{subsection.2.12.5}%
+\contentsline {subsection}{\numberline {2.12.6}F. Pertimbangan Sebelum Penyingkapan Diri}{37}{subsection.2.12.6}%
+\contentsline {subsection}{\numberline {2.12.7}G. Deception (Kebohongan)}{37}{subsection.2.12.7}%
+\contentsline {section}{\numberline {2.13}IV. Hidup Otentik}{37}{section.2.13}%
+\contentsline {subsection}{\numberline {2.13.1}A. Definisi Integritas dan Otentisitas}{37}{subsection.2.13.1}%
+\contentsline {subsection}{\numberline {2.13.2}B. Empat Lapis Karakter untuk Hidup Otentik (Panutan)}{38}{subsection.2.13.2}%
+\contentsline {subsection}{\numberline {2.13.3}C. Pembelajaran Karakter}{38}{subsection.2.13.3}%
+\contentsline {section}{\numberline {2.14}V. Komunikasi Intrapribadi (Intrapersonal Communication)}{38}{section.2.14}%
+\contentsline {chapter}{\numberline {3}Kuis: Komunikasi Diri dan Pementasan Diri}{39}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Pertanyaan Esai (Tidak Ada Jawaban Disertakan)}{40}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Glosarium Istilah Kunci}{41}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Kuliah 3 Memahami Persepsi dan Realitas}{43}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Bagian 1: Konsep Dasar Persepsi}{43}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}A. Definisi dan Fungsi Persepsi}{43}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}B. Tahapan Pembentukan Persepsi}{43}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Bagian 2: Faktor-faktor yang Memengaruhi Persepsi}{44}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}A. Penyebab Perbedaan Persepsi}{44}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}B. Kekuatan Fundamental dalam Persepsi Interpersonal}{44}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}Bagian 3: Hubungan Persepsi dengan Realitas dan Komunikasi}{45}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}A. Persepsi dan Realitas}{45}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}B. Persepsi dan Komunikasi}{45}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}Bagian 4: Meningkatkan Kemampuan Persepsi}{45}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}A. Strategi Peningkatan}{45}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}B. Kompetensi yang Akan Dikembangkan}{46}{subsection.6.4.2}%
+\contentsline {section}{\numberline {6.5}Bagian 5: Worldviews dan Realitas Lainnya}{46}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}A. Worldviews by Plato (Manusia Gua)}{46}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}B. Lima Persepsi Realitas (Armein Z. R. Langi)}{46}{subsection.6.5.2}%
+\contentsline {section}{\numberline {6.6}Kuis: Persepsi dan Realitas}{47}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Pertanyaan Esai (Tanpa Jawaban)}{48}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Glosarium Istilah Kunci}{48}{section.6.8}%
+\contentsline {chapter}{\numberline {7}Kuliah 4: Kekuatan dan Penggunaan Bahasa dalam Komunikasi}{51}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Sesi 1: Pengantar: Kekuatan, Sifat, dan Penerapan Bahasa dalam Komunikasi Interpersonal}{51}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Ringkasan Eksekutif}{51}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}I. Kekuatan Fundamental Kata-Kata}{52}{subsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.2.1}A. Nama Sebagai Identitas dan Simbol}{52}{subsubsection.7.1.2.1}%
+\contentsline {subsubsection}{\numberline {7.1.2.2}B. Kekuatan Persuasi: Etos, Patos, dan Logos}{52}{subsubsection.7.1.2.2}%
+\contentsline {subsubsection}{\numberline {7.1.2.3}C. Ekspresi Kasih Sayang dan Keintiman}{53}{subsubsection.7.1.2.3}%
+\contentsline {subsubsection}{\numberline {7.1.2.4}D. Memberikan Kenyamanan dan Dukungan}{53}{subsubsection.7.1.2.4}%
+\contentsline {subsection}{\numberline {7.1.3}II. Sifat dan Struktur Bahasa}{54}{subsection.7.1.3}%
+\contentsline {subsubsection}{\numberline {7.1.3.1}A. Bahasa Sebagai Sistem Simbol yang Arbitrer}{54}{subsubsection.7.1.3.1}%
+\contentsline {subsubsection}{\numberline {7.1.3.2}B. Aturan-Aturan yang Mengatur Bahasa}{54}{subsubsection.7.1.3.2}%
+\contentsline {subsubsection}{\numberline {7.1.3.3}C. Lapisan Makna: Denotatif dan Konotatif}{54}{subsubsection.7.1.3.3}%
+\contentsline {subsubsection}{\numberline {7.1.3.4}D. Variasi Bahasa: Kejelasan dan Abstraksi}{55}{subsubsection.7.1.3.4}%
+\contentsline {subsubsection}{\numberline {7.1.3.5}E. Hubungan Bahasa dan Budaya: Hipotesis Sapir-Whorf}{55}{subsubsection.7.1.3.5}%
+\contentsline {subsection}{\numberline {7.1.4}III. Membangun Iklim Komunikasi yang Positif}{56}{subsection.7.1.4}%
+\contentsline {subsubsection}{\numberline {7.1.4.1}A. Pesan Mengkonfirmasi vs.\nobreakspace {}Diskonfirmasi}{56}{subsubsection.7.1.4.1}%
+\contentsline {subsubsection}{\numberline {7.1.4.2}B. Strategi Menghindari Respons Defensif}{56}{subsubsection.7.1.4.2}%
+\contentsline {subsubsection}{\numberline {7.1.4.3}C. Kepemilikan Perasaan: Pernyataan ``Saya'' vs.\nobreakspace {}``Kamu'' (\emph {I-Statements} vs.\nobreakspace {}\emph {You-Statements})}{57}{subsubsection.7.1.4.3}%
+\contentsline {subsubsection}{\numberline {7.1.4.4}D. Membedakan Fakta dan Opini}{57}{subsubsection.7.1.4.4}%
+\contentsline {subsection}{\numberline {7.1.5}IV. Penggunaan dan Penyalahgunaan Bahasa}{57}{subsection.7.1.5}%
+\contentsline {subsubsection}{\numberline {7.1.5.1}A. Humor: Pembangun Hubungan dan Potensi Kerusakan}{57}{subsubsection.7.1.5.1}%
+\contentsline {subsubsection}{\numberline {7.1.5.2}B. Eufemisme: Penghalusan Bahasa dan Desensitisasi}{58}{subsubsection.7.1.5.2}%
+\contentsline {subsubsection}{\numberline {7.1.5.3}C. Slang dan Jargon: Inklusi dan Eksklusi}{58}{subsubsection.7.1.5.3}%
+\contentsline {subsubsection}{\numberline {7.1.5.4}D. Penyalahgunaan Destruktif: Pencemaran Nama Baik, Kata Vulgar, dan Ujaran Kebencian}{58}{subsubsection.7.1.5.4}%
+\contentsline {subsection}{\numberline {7.1.6}V. Panduan Komunikasi di Era Digital}{59}{subsection.7.1.6}%
+\contentsline {section}{\numberline {7.2}SESI 2: Kekuatan Tersembunyi di Balik Kata-Kata: Panduan untuk Memahami dan Menggunakannya}{59}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}1. \textbf {Pendahuluan: Lebih dari Sekadar Ucapan}}{59}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}2. Kekuatan Membujuk: Menggerakkan Hati dan Pikiran}{60}{subsection.7.2.2}%
+\contentsline {subsubsection}{\numberline {7.2.2.1}2.1. Ethos: Kekuatan Kredibilitas}{60}{subsubsection.7.2.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2.2}2.2. Pathos: Kekuatan Emosi}{60}{subsubsection.7.2.2.2}%
+\contentsline {subsubsection}{\numberline {7.2.2.3}2.3. Logos: Kekuatan Logika}{61}{subsubsection.7.2.2.3}%
+\contentsline {subsubsection}{\numberline {7.2.2.4}2.4. Ringkasan Pilar Persuasi}{61}{subsubsection.7.2.2.4}%
+\contentsline {subsection}{\numberline {7.2.3}3. Kata-kata yang Membangun Jembatan Emosional}{61}{subsection.7.2.3}%
+\contentsline {subsubsection}{\numberline {7.2.3.1}3.1. Menyatakan Kasih Sayang dan Keintiman}{62}{subsubsection.7.2.3.1}%
+\contentsline {subsubsection}{\numberline {7.2.3.2}3.2. Memberi Penghiburan di Masa Sulit}{62}{subsubsection.7.2.3.2}%
+\contentsline {subsubsection}{\numberline {7.2.3.3}3.3. Menciptakan Iklim Komunikasi yang Positif}{62}{subsubsection.7.2.3.3}%
+\contentsline {subsection}{\numberline {7.2.4}4. Pedang Bermata Dua: Penggunaan dan Penyalahgunaan Bahasa}{63}{subsection.7.2.4}%
+\contentsline {subsubsection}{\numberline {7.2.4.1}4.1. Bahasa yang Secara Terang-terangan Merusak}{63}{subsubsection.7.2.4.1}%
+\contentsline {subsection}{\numberline {7.2.5}5. Di Balik Layar: Mengapa Kata-kata Begitu Berpengaruh?}{64}{subsection.7.2.5}%
+\contentsline {subsubsection}{\numberline {7.2.5.1}5.1. Makna Denotatif vs.\nobreakspace {}Konotatif}{64}{subsubsection.7.2.5.1}%
+\contentsline {subsubsection}{\numberline {7.2.5.2}5.2. Bahasa Bermuatan (Loaded Language)}{65}{subsubsection.7.2.5.2}%
+\contentsline {subsection}{\numberline {7.2.6}6. Kesimpulan: Gunakan Kekuatanmu dengan Bijak}{65}{subsection.7.2.6}%
+\contentsline {section}{\numberline {7.3}Sesi 3: MEMORANDUM STRATEGIS: Kerangka Komunikasi Persuasif Berbasis Prinsip Aristoteles}{65}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}\textbf {1. Pendahuluan: Memanfaatkan Kekuatan Persuasi dalam Konteks Profesional}}{66}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}\textbf {2. Fondasi Persuasi: Tiga Pilar Retorika Aristoteles}}{66}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}\textbf {3. Panduan Aksi: Membangun dan Menjaga Ethos (Kredibilitas)}}{67}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}\textbf {4. Strategi Lanjutan: Menciptakan Iklim Komunikasi yang Reseptif}}{68}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.5}\textbf {5. Kesimpulan dan Rekomendasi}}{68}{subsection.7.3.5}%
+\contentsline {section}{\numberline {7.4}SESI 4: Panduan Praktik Terbaik: Membangun Iklim Komunikasi yang Positif dan Suportif di Tempat Kerja}{69}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}1. Pendahuluan: Mengapa Iklim Komunikasi Adalah Aset Strategis Manajer}{69}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}2. Fondasi Komunikasi Suportif: Kekuatan Pesan yang Mengkonfirmasi}{70}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}3. Mencegah Defensif: Teknik Komunikasi Non-Evaluatif}{72}{subsection.7.4.3}%
+\contentsline {subsubsection}{\numberline {7.4.3.1}\textbf {Cara Memberikan Umpan Balik yang Konstruktif}}{73}{subsubsection.7.4.3.1}%
+\contentsline {subsection}{\numberline {7.4.4}4. Mengelola Konflik dengan `Pernyataan Saya' (I-Statements)}{74}{subsection.7.4.4}%
+\contentsline {subsubsection}{\numberline {7.4.4.1}\textbf {Formula `I-Statement' yang Efektif}}{74}{subsubsection.7.4.4.1}%
+\contentsline {subsection}{\numberline {7.4.5}5. Membedakan Fakta dan Opini untuk Dialog yang Konstruktif}{75}{subsection.7.4.5}%
+\contentsline {subsection}{\numberline {7.4.6}6. Kesimpulan: Komitmen Manajer terhadap Komunikasi Sadar}{76}{subsection.7.4.6}%
+\contentsline {section}{\numberline {7.5}Pekerjaan Rumah: Kuis 4}{76}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Kuis Pemahaman}{77}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Soal Esai}{77}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Glosarium Istilah Kunci}{78}{subsection.7.5.3}%
+\contentsline {chapter}{\numberline {8}Kuliah 5}{82}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Memahami Bahasa Sunyi: Panduan Komunikasi Nonverbal untuk Pemula}{83}{chapter.9}%
+\contentsline {subsection}{\numberline {9.0.1}Pendahuluan: Mengapa Gerak Tubuh Lebih Jujur dari Kata-kata?}{83}{subsection.9.0.1}%
+\contentsline {subsection}{\numberline {9.0.2}1. Lima Karakteristik Utama Komunikasi Nonverbal}{83}{subsection.9.0.2}%
+\contentsline {subsection}{\numberline {9.0.3}2. Enam Fungsi Penting dalam Interaksi Sehari-hari}{84}{subsection.9.0.3}%
+\contentsline {subsection}{\numberline {9.0.4}3. Saluran Komunikasi: Bagaimana Pesan Nonverbal Dikirim?}{85}{subsection.9.0.4}%
+\contentsline {subsection}{\numberline {9.0.5}4. Mengubah Diri dari Luar ke Dalam: Kekuatan ``Power Posing''}{86}{subsection.9.0.5}%
+\contentsline {subsection}{\numberline {9.0.6}5. Dua Langkah untuk Meningkatkan Keterampilan Nonverbal Anda}{87}{subsection.9.0.6}%
+\contentsline {section}{\numberline {9.1}10 Pertanyaan Kuiz Komunikasi Nonverbal}{87}{section.9.1}%
+\contentsline {section}{\numberline {9.2}TOPIK MINGGU KE-5: KOMUNIKASI NONVERBAL: PESAN TANPA KATA}{88}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}POKOK BAHASAN DAN PELAJARAN UTAMA}{88}{subsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.1.1}Pokok Bahasan (Bahan Kajian):}{88}{subsubsection.9.2.1.1}%
+\contentsline {subsubsection}{\numberline {9.2.1.2}Pelajaran Utama (Learning Outcomes yang Inspiratif):}{89}{subsubsection.9.2.1.2}%
+\contentsline {section}{\numberline {9.3}AGENDA KULIAH 2 JAM: KOMUNIKASI NONVERBAL YANG MEMIKAT}{89}{section.9.3}%
+\contentsline {chapter}{\numberline {10}Memahami Bahasa Sunyi: Panduan Komunikasi Nonverbal untuk Pemula}{96}{chapter.10}%
+\contentsline {subsection}{\numberline {10.0.1}Pendahuluan: Mengapa Gerak Tubuh Lebih Jujur dari Kata-kata?}{96}{subsection.10.0.1}%
+\contentsline {subsection}{\numberline {10.0.2}1. Lima Karakteristik Utama Komunikasi Nonverbal}{96}{subsection.10.0.2}%
+\contentsline {subsection}{\numberline {10.0.3}2. Enam Fungsi Penting dalam Interaksi Sehari-hari}{97}{subsection.10.0.3}%
+\contentsline {subsection}{\numberline {10.0.4}3. Saluran Komunikasi: Bagaimana Pesan Nonverbal Dikirim?}{98}{subsection.10.0.4}%
+\contentsline {subsection}{\numberline {10.0.5}4. Mengubah Diri dari Luar ke Dalam: Kekuatan ``Power Posing''}{99}{subsection.10.0.5}%
+\contentsline {subsection}{\numberline {10.0.6}5. Dua Langkah untuk Meningkatkan Keterampilan Nonverbal Anda}{99}{subsection.10.0.6}%
+\contentsline {chapter}{\numberline {11}Kuliah 6 Ketrampilan Komunikasi Pribadi}{101}{chapter.11}%
+\contentsline {section}{\numberline {11.1}I. Agenda Kuliah (120 Menit)}{101}{section.11.1}%
+\contentsline {section}{\numberline {11.2}II. Lecture Notes (Materi Kuliah)}{105}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}A. Ekspresi Diri dan Pengungkapan Diri yang Sesuai}{105}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}B. Mengenali dan Menghentikan Perilaku Mencari Persetujuan (\emph {Approval Seeking})}{105}{subsection.11.2.2}%
+\contentsline {subsection}{\numberline {11.2.3}C. Mengelola Sudut Pandang yang Berbeda}{106}{subsection.11.2.3}%
+\contentsline {subsection}{\numberline {11.2.4}D. Meningkatkan Keterampilan Percakapan}{106}{subsection.11.2.4}%
+\contentsline {subsection}{\numberline {11.2.5}E. Strategi Praktis untuk Komunikasi Berisiko Tinggi}{107}{subsection.11.2.5}%
+\contentsline {subsection}{\numberline {11.2.6}F. Membangkitkan Kreativitas Pribadi}{107}{subsection.11.2.6}%
+\contentsline {section}{\numberline {11.3}III. Poin-Poin Slides Pendukung}{108}{section.11.3}%
+\contentsline {section}{\numberline {11.4}IV. 10 Soal Kuis}{110}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Kuis 1 (Soal 1 - 5)}{110}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {11.4.2}Kuis 2 (Soal 6 - 10)}{111}{subsection.11.4.2}%
+\contentsline {chapter}{\numberline {12}Kuliah 7}{112}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Kuliah 8}{113}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Kuliah 9}{114}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Kuliah 10}{115}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Kuliah 11}{116}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Kuliah 12}{117}{chapter.17}%
+\contentsline {chapter}{\numberline {18}Kuliah 13}{118}{chapter.18}%
+\contentsline {chapter}{\numberline {19}Summary}{119}{chapter.19}%
+\contentsline {chapter}{References}{120}{chapter*.29}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
