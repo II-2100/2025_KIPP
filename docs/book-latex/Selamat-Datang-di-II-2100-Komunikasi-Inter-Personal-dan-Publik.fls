@@ -1341,6 +1341,7 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/ts1-lmtt10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/ts1-lmbx10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbo10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbo10.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT Selamat-Datang-di-II-2100-Komunikasi-Inter-Personal-dan-Publik.aux
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
@@ -1350,4 +1351,5 @@ INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt10.pfb

@@ -184,13 +184,25 @@
 \contentsline {section}{\numberline {11.4}IV. 10 Soal Kuis}{110}{section.11.4}%
 \contentsline {subsection}{\numberline {11.4.1}Kuis 1 (Soal 1 - 5)}{110}{subsection.11.4.1}%
 \contentsline {subsection}{\numberline {11.4.2}Kuis 2 (Soal 6 - 10)}{111}{subsection.11.4.2}%
-\contentsline {chapter}{\numberline {12}Kuliah 7}{112}{chapter.12}%
-\contentsline {chapter}{\numberline {13}Kuliah 8}{113}{chapter.13}%
-\contentsline {chapter}{\numberline {14}Kuliah 9}{114}{chapter.14}%
-\contentsline {chapter}{\numberline {15}Kuliah 10}{115}{chapter.15}%
-\contentsline {chapter}{\numberline {16}Kuliah 11}{116}{chapter.16}%
-\contentsline {chapter}{\numberline {17}Kuliah 12}{117}{chapter.17}%
-\contentsline {chapter}{\numberline {18}Kuliah 13}{118}{chapter.18}%
-\contentsline {chapter}{\numberline {19}Summary}{119}{chapter.19}%
-\contentsline {chapter}{References}{120}{chapter*.29}%
+\contentsline {chapter}{\numberline {12}Kuliah 7 Mendengar}{112}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Topik Minggu ke-7 Berdasarkan RPS}{112}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Pokok Bahasan dan Pelajaran (Minggu ke-7)}{112}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Agenda dan Isi Kuliah 2 Jam (Menarik, Captivating, dan Inspiring)}{113}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Catatan Kuliah (Lecture Notes)}{120}{section.12.4}%
+\contentsline {subsection}{\numberline {12.4.1}1. Mendengarkan: Sebuah Kompetensi yang Diremehkan}{120}{subsection.12.4.1}%
+\contentsline {subsection}{\numberline {12.4.2}2. Lima Komponen Mendengarkan (Model HURIER / Proses Mendengarkan Interpersonal)}{120}{subsection.12.4.2}%
+\contentsline {subsection}{\numberline {12.4.3}3. Gaya Mendengarkan Kunci}{120}{subsection.12.4.3}%
+\contentsline {subsection}{\numberline {12.4.4}4. Menghindari Kebiasaan Mendengarkan yang Buruk}{121}{subsection.12.4.4}%
+\contentsline {subsection}{\numberline {12.4.5}5. Kekuatan Paraphrasing (Parafrasa)}{121}{subsection.12.4.5}%
+\contentsline {subsection}{\numberline {12.4.6}6. Respons Emosi dan Pertanyaan}{121}{subsection.12.4.6}%
+\contentsline {section}{\numberline {12.5}Bahan Slides Pendukung (Konsep Visual)}{121}{section.12.5}%
+\contentsline {section}{\numberline {12.6}10 Pertanyaan Kuis}{123}{section.12.6}%
+\contentsline {chapter}{\numberline {13}Kuliah 8}{125}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Kuliah 9}{126}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Kuliah 10}{127}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Kuliah 11}{128}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Kuliah 12}{129}{chapter.17}%
+\contentsline {chapter}{\numberline {18}Kuliah 13}{130}{chapter.18}%
+\contentsline {chapter}{\numberline {19}Summary}{131}{chapter.19}%
+\contentsline {chapter}{References}{132}{chapter*.29}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

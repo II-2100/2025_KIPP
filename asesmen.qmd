@@ -307,3 +307,5 @@ Petunjuk:
 :::
 
 
+## Self Assessment
+Karya Anda akan dinilai menggunakan [promt ChatGPT](asesmen/skor_uts.pdf). Pastikan Anda sudah mencoba sendiris 
