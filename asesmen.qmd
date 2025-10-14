@@ -304,8 +304,11 @@ Petunjuk:
 4.  publish bagian yang hendak di asses melalui portal page
 
 5.  submit URL portal page ke URL Submisi: <https://forms.office.com/r/pbUdPnGN3h>
+
+6. Self Assessment. Karya Anda akan dinilai menggunakan [promt ChatGPT](asesmen/skor_uts.pdf). Pastikan Anda sudah mencoba sendiri . Berikut cara saya melakukan review: menggunakan chatGPT, saya mengattach [promt ChatGPT](asesmen/skor_uts.pdf), disertai perintah :"self assess uts-1 sanpai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
+
+ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
+
+
+
 :::
-
-
-## Self Assessment
-Karya Anda akan dinilai menggunakan [promt ChatGPT](asesmen/skor_uts.pdf). Pastikan Anda sudah mencoba sendiris 

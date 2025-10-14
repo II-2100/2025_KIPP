@@ -311,7 +311,7 @@ Panduan belajar ini dirancang untuk meninjau pemahaman Anda tentang konsep-konse
 - **Psychological Vultures:** Kritik diri negatif yang merusak harga diri. Penting untuk mengubahnya menjadi pikiran yang memberdayakan.
 - **Self-Fulfilling Prophecy:** Harapan atau keyakinan tentang suatu peristiwa dapat memengaruhi perilaku kita, sehingga membuat peristiwa itu lebih mungkin terjadi. Visualisasi positif adalah bentuk konstruktif dari ini.
 
-# Kuis: Komunikasi Diri dan Pementasan Diri
+## Kuis: Komunikasi Diri dan Pementasan Diri
 
 Jawablah pertanyaan-pertanyaan berikut dalam 2-3 kalimat.
 
@@ -326,7 +326,7 @@ Jawablah pertanyaan-pertanyaan berikut dalam 2-3 kalimat.
 9. Mengapa kejujuran dianggap penting dalam jangka panjang, meskipun kadang menyakitkan atau sulit?
 10. Sebutkan salah satu dari empat panutan karakter yang disarankan untuk hidup otentik dan jelaskan maknanya secara singkat.
 
-# Pertanyaan Esai (Tidak Ada Jawaban Disertakan)
+## Pertanyaan Esai (Tidak Ada Jawaban Disertakan)
 
 1. Analisis hubungan antara "self-fulfilling prophecy" dan pembentukan konsep diri. Bagaimana siklus positif dan negatif dari _self-esteem_ dapat diperkuat atau dirusak oleh fenomena ini, dan apa peran komunikasi dalam proses tersebut?
 2. Bandingkan dan kontraskan manfaat serta risiko dari penyingkapan diri. Dalam situasi apa penyingkapan diri dianggap layak diambil risikonya, dan bagaimana individu dapat menimbang keputusan untuk melakukan _self-disclosure_?
@@ -334,7 +334,7 @@ Jawablah pertanyaan-pertanyaan berikut dalam 2-3 kalimat.
 4. Diskusikan implikasi etis dari "pencitraan" atau _deception_ dalam pementasan diri. Kapan _deception_ dapat dibenarkan (jika ada), dan bagaimana membedakannya dari "akting" yang dianggap netral atau positif?
 5. Materi sumber menyajikan empat panutan karakter untuk hidup otentik: "Love like God," "Think like a King," "Speak like a Poet," dan "Serve like a Slave." Pilih dua dari panutan ini dan jelaskan secara mendalam bagaimana menginternalisasi dan menghidupinya dapat membantu seseorang mencapai integritas dan otentisitas dalam kehidupan sehari-hari.
 
-# Glosarium Istilah Kunci
+## Glosarium Istilah Kunci
 
 - **Konsep Diri (Self-Concept):** Keseluruhan persepsi, keyakinan, dan penilaian individu tentang siapa dirinya.
 - **Harga Diri (Self-Esteem):** Evaluasi subjektif individu tentang nilai dan harga dirinya sebagai pribadi.

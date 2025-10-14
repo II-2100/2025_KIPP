@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.11.22)  14 OCT 2025 08:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.11.22)  14 OCT 2025 09:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1333,136 +1333,115 @@ Class scrreprt Warning: \float@addtolists detected!
 chapter 2.
 [27
 
-] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38]
+] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
 chapter 3.
-[39
+[42
 
-]
-chapter 4.
-[40
-
-]
-chapter 5.
-[41
-
-] [42]
-chapter 6.
-[43
-
-] [44] [45] [46]
-Underfull \hbox (badness 1540) in paragraph at lines 3223--3226
+] [43] [44] [45]
+Underfull \hbox (badness 1540) in paragraph at lines 3230--3233
 []\T1/lmr/bx/n/10.95 (+20) Realitas Ke-sadaran: Pan-teisme (BIG OR-GAN-ISM, THE COM-MU-
  []
 
-[47] [48] [49] [50]
-chapter 7.
-[51
+[46] [47] [48] [49]
+chapter 4.
+[50
 
-] [52] [53]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 7.1 on input line 3638.
-
-[54] [55]
+] [51] [52]
 
 Package longtable Warning: Column widths have changed
-(longtable)                in table 7.2 on input line 3727.
+(longtable)                in table 4.1 on input line 3645.
 
-[56]
+[53] [54]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 4.2 on input line 3734.
+
+[55]
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 3756.
- [57] [58] [59] [60]
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 3763.
+ [56] [57] [58] [59]
 
 Package longtable Warning: Column widths have changed
-(longtable)                in table 7.3 on input line 4020.
+(longtable)                in table 4.3 on input line 4027.
 
-[61] [62]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 7.4 on input line 4136.
-
-[63] [64] [65] [66] [67] [68] [69]
+[60] [61]
 
 Package longtable Warning: Column widths have changed
-(longtable)                in table 7.5 on input line 4589.
+(longtable)                in table 4.4 on input line 4143.
 
-[70] [71] [72] [73] [74] [75] [76] [77]
+[62] [63] [64] [65] [66] [67] [68]
 
 Package longtable Warning: Column widths have changed
-(longtable)                in table 7.6 on input line 5079.
+(longtable)                in table 4.5 on input line 4596.
 
-[78] [79] [80] [81]
-chapter 8.
-[82
+[69] [70] [71] [72] [73] [74] [75] [76]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 4.6 on input line 5086.
+
+[77] [78] [79] [80]
+chapter 5.
+[81
+
+] [82]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 5.1 on input line 5244.
+
+[83] [84] [85]
+chapter 6.
+[86
 
 ]
-chapter 9.
-[83
+chapter 7.
+[87
 
-] [84]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 9.1 on input line 5240.
-
-[85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95]
-chapter 10.
-[96
-
-] [97]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 10.1 on input line 5701.
-
-[98] [99] [100]
-chapter 11.
-[101
-
-] [102] [103] [104]
+] [88] [89] [90]
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 5907.
- [105] [106] [107] [108] [109] [110] [111]
-chapter 12.
-[112
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 5498.
+ [91] [92] [93] [94] [95] [96] [97]
+chapter 8.
+[98
 
 ]
-Overfull \hbox (8.8074pt too wide) in paragraph at lines 6336--6337
+Overfull \hbox (8.8074pt too wide) in paragraph at lines 5927--5928
 []\T1/lmr/m/n/10.95 (-20) Kompetensi/Pelajaran  
  []
 
-[113] [114] [115] [116] [117] [118] [119] [120]
-Overfull \hbox (20.43214pt too wide) in paragraph at lines 6546--6546
+[99] [100] [101] [102] [103] [104] [105] [106]
+Overfull \hbox (20.43214pt too wide) in paragraph at lines 6137--6137
 []|\T1/lmr/bx/n/10.95 (-20) MENDENGARKAN: 
  []
 
-[121] [122{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [123] [124]
+[107] [108{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [109] [110]
+chapter 9.
+[111
+
+]
+chapter 10.
+[112
+
+]
+chapter 11.
+[113
+
+]
+chapter 12.
+[114
+
+]
 chapter 13.
-[125
+[115
 
 ]
 chapter 14.
-[126
+[116
 
 ]
 chapter 15.
-[127
+[117
 
-]
-chapter 16.
-[128
-
-]
-chapter 17.
-[129
-
-]
-chapter 18.
-[130
-
-]
-chapter 19.
-[131
-
-] [132
+] [118
 
 ]
 
@@ -1477,18 +1456,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 36482 strings out of 476025
- 732577 string characters out of 5794014
+ 36405 strings out of 476025
+ 731253 string characters out of 5794014
  1877382 words of memory out of 5000000
- 55441 multiletter control sequences out of 15000+600000
- 594396 words of font info for 257 fonts, out of 8000000 for 9000
+ 55414 multiletter control sequences out of 15000+600000
+ 593991 words of font info for 254 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,9n,106p,10713b,948s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Selamat-Datang-di-II-2100-Komunikasi-Inter-Personal-dan-Publik.pdf (132 pages, 533463 bytes).
+Output written on Selamat-Datang-di-II-2100-Komunikasi-Inter-Personal-dan-Publik.pdf (118 pages, 509786 bytes).
 PDF statistics:
- 1796 PDF objects out of 2073 (max. 8388607)
- 1621 compressed objects within 17 object streams
- 596 named destinations out of 1000 (max. 500000)
- 44429 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1668 PDF objects out of 1728 (max. 8388607)
+ 1508 compressed objects within 16 object streams
+ 552 named destinations out of 1000 (max. 500000)
+ 44341 words of extra memory for PDF output out of 51595 (max. 10000000)
 
