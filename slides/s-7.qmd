@@ -1,0 +1,131 @@
+---
+title: "Mendengarkan: Keterampilan Paling Berharga"
+subtitle: "II-2100 Komunikasi Interpersonal dan Publik"
+format: clean-typst
+author:
+  - name: Armein Z. R. Langi
+    orcid: 0000-0000-0000-0000
+    email: azr.langi@gmail.com
+    affiliations: STEI ITB
+date: today
+date-format: long   
+brand:
+  typography: 
+    fonts: 
+      - family: Roboto
+        weight: [100, 200, 300, 400, 500, 600, 700]
+        style: [normal, italic]
+        source: google
+    base: Roboto
+    headings: Roboto
+---
+
+# 1. Mendengarkan: Sebuah Kompetensi yang Diremehkan
+
+##   Listening vs Hearing
+
+:::{.callout-note}
+
+- **Mendengarkan (*Listening*)** adalah proses aktif membuat makna dari pesan lisan orang lain. 
+
+- Ini bukan sekadar fungsi fisiologis pasif seperti **Mendengar (*Hearing*)**.
+
+:::
+
+## **Mindful Listening:** 
+
+:::{.callout}
+- Memberikan perhatian yang hati-hati dan penuh pemikiran terhadap pesan, yang sangat penting ketika pesan tersebut vital bagi Anda atau orang yang Anda pedulikan.
+
+:::
+# 2. Lima Komponen Mendengarkan (Model HURIER / Proses Mendengarkan Interpersonal)
+
+## Meskipun tidak semua sumber menyebut model HURIER, komponen kuncinya dijelaskan:
+ 
+##   1.  **Mendengar (*Hearing*/Sensing):** 
+
+Proses di mana gelombang suara mencapai telinga dan otak.
+    
+##    2.  **Memperhatikan (*Attending*):** 
+
+Proses penyaringan pesan (seleksi) agar menjadi fokus.
+
+##    3.  **Memahami (*Understanding*):** 
+
+Menerapkan filter persepsi (budaya, pengalaman, nilai) untuk menafsirkan pesan.
+
+##    4.  **Mengingat (*Remembering*):** 
+
+Menyimpan informasi untuk penggunaan di masa depan. Proses *chunking* atau *ordering* dapat membantu ingatan.
+
+##    5.  **Merespons (*Responding*):** 
+
+Memberikan *feedback* verbal dan nonverbal kepada pengirim.
+
+# 3. Gaya Mendengarkan Kunci
+
+##   **Task-Oriented Listening:** 
+
+Paling peduli dengan efisiensi dan menyelesaikan pekerjaan. Pendengar ini menyukai presentasi yang ringkas, rapi, dan bebas kesalahan (*Action-oriented*).
+
+## **Relational Listening:** 
+
+Berfokus pada pembangunan hubungan dan emosi orang lain (*People-oriented*).
+
+##  **Critical Listening:** 
+
+Mengevaluasi konten pesan; cenderung berfokus pada logika, bukti, dan kesalahan.
+
+##  **Analytical Listening:** 
+
+Menganalisis pesan dari berbagai sudut pandang dan memahami secara detail sebelum membuat penilaian.
+
+# 4. Menghindari Kebiasaan Mendengarkan yang Buruk
+
+## Pseudolistening (Pura-pura Mendengarkan):
+
+Bertindak seperti mendengarkan tetapi tidak menyerap pesan.
+
+##  **Selective Attention (Perhatian Selektif):** 
+
+Hanya mendengarkan bagian pesan yang ingin didengar.
+
+##  **Rebuttal Tendency:** 
+
+Kecenderungan untuk mempersiapkan respons atau argumen balasan daripada mendengarkan secara penuh.
+
+# 5. Kekuatan Paraphrasing (Parafrasa)
+
+## **Paraphrasing** 
+
+adalah keterampilan mendengarkan yang paling penting, yaitu menyatakan kembali pesan pembicara dengan kata-kata Anda sendiri.
+
+
+::: {layout-ncol=2}
+
+:::{.callout-tujuan} 
+
+Untuk memverifikasi pemahaman pesan, baik informasi faktual maupun perasaan/pikiran yang mendasari.
+
+:::
+
+:::{.callout-Penting} 
+    
+Jika Anda tidak dapat memparafrasekan, Anda mungkin gagal memahami pesan tersebut, dan ini adalah sinyal untuk meminta klarifikasi.
+:::
+
+:::
+# 6. Respons Emosi dan Pertanyaan
+
+##  **Empathizing (Berempati):** 
+
+Menyampaikan kepedulian terhadap apa yang orang lain rasakan dan alami.
+
+##  **Sincere Questions (Pertanyaan Tulus):** 
+
+Bertujuan untuk mengklarifikasi makna dan mengumpulkan fakta. Ini membantu pendengar global/pembelajar karena memberikan contoh untuk mengkonkretkan ide abstrak.
+
+## **Counterfeit Questions (Pertanyaan Palsu):** 
+
+Disamarkan sebagai pertanyaan tetapi sebenarnya upaya untuk mengirim pesan atau mengontrol, dan harus dihindari dalam komunikasi suportif (contoh: pertanyaan yang memerangkap, pertanyaan yang membuat pernyataan, pertanyaan dengan agenda tersembunyi).
+
