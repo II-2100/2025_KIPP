@@ -103,7 +103,16 @@ Berisikan laporan siapa Anda berdasar asesmen VIA,  Piagam Diri dan Identitas Na
 
 ### UTS-5 My Personal Review,
 
-Berisikan telahan pesan personal  UTS-1 s/d UTS-4 berdasarkan rubrik masing-masing.
+Berisikan telahan pesan personal  UTS-1 s/d UTS-4 berdasarkan rubrik masing-masing. Anda diminta melakukan Self Assesment dan Peer Assessment menggunakan rubrik yang ada.
+
+Self Assessment menggunakan AI, sedangkan Peer Assessment dilakukan manual
+
+::: callout-warning
+## Penugasan Peer Assignmen Baru Ada Nanti Saat UTS
+Daftar URL untuk Peer Assessment baru akan diperoleh saat UTS. Jadi meskipun Anda bisa mencoba sebelum UTS, pastikan yang anda laporkan sesuai penugasan saat UTS.
+:::
+
+Lakukan:
 
 1. Self-Assessment menggunakan AI (Skor 2)
 2. Peer-Assessment 1 Tanpa AI (Skor 4)
