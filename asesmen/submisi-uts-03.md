@@ -19,7 +19,7 @@
 | 15 | Naufarrel Zhafif Abhista | 13523149 | Belum Submit |
 | 16 | Muhammad Kinan Arkansyaddad | 13523152 | Belum Submit |
 | 17 | Muhammad Farrel Wibowo | 13523153 | Belum Submit |
-| 18 | M. Abizzar Gamadrian | 13523155 | Belum Submit |
+| 18 | M. Abizzar Gamadrian | 13523155 | [https://abizzarg.github.io/all-about-me/All_About_me/](https://abizzarg.github.io/all-about-me/All_About_me/) |
 | 19 | Arlow Emmanuel Hergara | 13523161 | Belum Submit |
 | 20 | Fachriza Ahmad Setiyono | 13523162 | Belum Submit |
 | 21 | Filbert Engyo | 13523163 | Belum Submit |
