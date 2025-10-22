@@ -11,7 +11,7 @@
 | 7 | Ivant Samuel Silaban | 13523129 | Belum Submit |
 | 8 | Rafa Abdussalam Danadyaksa | 13523133 | Belum Submit |
 | 9 | Sebastian Enrico Nathanael | 13523134 | Belum Submit |
-| 10 | Ahmad Syafiq | 13523135 | Belum Submit |
+| 10 | Ahmad Syafiq | 13523135 | [https://iammadsfq.github.io/all-about-me/](https://iammadsfq.github.io/all-about-me/) |
 | 11 | Danendra Shafi Athallah | 13523136 | Belum Submit |
 | 12 | Jonathan Kenan Budianto | 13523139 | Belum Submit |
 | 13 | Mahesa Fadhillah Andre | 13523140 | Belum Submit |
