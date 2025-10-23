@@ -3,10 +3,9 @@
 
 {{< include /asesmen/uts.qmd >}}
 
-## Penugasaan Peer 1, Peer 2 dan Peer 3
+## Penugasan Peer 1, Peer 2 dan Peer 3
 
-{{< include /asesmen/assignment-uts-01.md >}}
-
+{{< include /asesmen/peer-assignments-01-random-L.md >}}
 
 ## Submisi Kelas 01
 

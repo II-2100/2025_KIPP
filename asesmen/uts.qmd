@@ -12,5 +12,5 @@ Self Assessment menggunakan AI, sedangkan Peer Assessment dilakukan manual
 4. Lakukan Peer-Assessment 1 Tanpa AI pada Peer 1 (Skor 4) dan catat skornya pada baris kedua Lembar Skor
 5. Lakukan Peer-Assessment 2 Tanpa AI pada Peer 2 (Skor 4)  dan catat skornya pada baris ketiga Lembar Skor
 6. Lakukan Peer-Assessment 3 Tanpa AI Pada Peer 3(Skor 4, bonus)  dan catat skornya pada baris keempat Lembar Skor
-7. Pastikan Skor Penilaian diisi ke dalam file excel [Lembar Skor](./asesmen/UTS-5_Skor.xlsx). Paastikan skor keempat asesmen ini ada dalam file yang sama, masing-masing menggunakan satu baris, dengan urutan di atas. Berarti dimulai dengan baris berisi data Anda. Lalu update portal Anda, LALU LAPORKAN LINK FILE TERSEBUT KE MS FORM UTS <https://forms.cloud.microsoft/r/tF4pm04jUT>
+7. Pastikan Skor Penilaian diisi ke dalam file excel Lembar Skor tsb. Pastikan skor keempat asesmen ini ada dalam file yang sama, masing-masing menggunakan satu baris, dengan urutan di atas. Berarti dimulai dengan baris berisi data Anda. Lalu update portal Anda, LALU LAPORKAN LINK FILE TERSEBUT KE MS FORM UTS <https://forms.cloud.microsoft/r/tF4pm04jUT>
 
