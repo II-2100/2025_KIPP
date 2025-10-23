@@ -1,0 +1,13 @@
+# Ujian Tengah Semester Kelas 03
+
+
+
+{{< include /asesmen/uts.qmd >}}
+
+## Penugasaan Peer 1, Peer 2 dan Peer 3
+
+
+
+## Submisi Kelas 03
+
+{{< include /asesmen/submisi-uts-03.md >}}
