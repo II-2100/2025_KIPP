@@ -3,7 +3,7 @@
 | No | Nama | NIM | Link URL Hasil Tugas |
 |----|------|-----|-----------------------|
 | 1 | Ulivia Embun Tresna Wardani | 10322015 | Belum Submit |
-| 2 | Daffari Adiyatma | 18222003 | [https://daffari.github.io/all-about-me](https://daffari.github.io/all-about-me) |
+| 2 | Daffari Adiyatma | 18222003 | [https://jakund25.github.io/all-about-me](https://jakund25.github.io/all-about-me) |
 | 3 | Daffa Ramadhan Elengi | 18222009 | Belum Submit |
 | 4 | Jonathan Wiguna | 18222019 | [https://jonathanw33.github.io/all-about-me/](https://jonathanw33.github.io/all-about-me/) |
 | 5 | Kezia Caren Cahyadi | 18222041 | Belum Submit |
