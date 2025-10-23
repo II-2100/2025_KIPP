@@ -24,7 +24,7 @@
 | 20 | Nisrina Zakiyah | 18224001 | [https://bellechillguy.github.io/kominter-18224001/](https://bellechillguy.github.io/kominter-18224001/) |
 | 21 | Keira Amelie Hanayesha | 18224003 | Belum Submit |
 | 22 | Mishael Gilland | 18224005 | [https://soyuzn.github.io/all-about-me/](https://soyuzn.github.io/all-about-me/) |
-| 23 | Faizal Ali | 18224007 | [https://github.com/zal1zal/all-about-me & https://github.io/zal1zal/all-about-me](https://github.com/zal1zal/all-about-me & https://github.io/zal1zal/all-about-me) |
+| 23 | Faizal Ali | 18224007 | [https://zal1zal.github.io/all-about-me/](https://zal1zal.github.io/all-about-me/) |
 | 24 | Keisha Daffa Aryani | 18224009 | [https://keisharyaa.github.io/II2100_Keisha-Daffa/](https://keisharyaa.github.io/II2100_Keisha-Daffa/) |
 | 25 | Satria Guna Darma | 18224011 | [https://astebern.github.io/all-about-me/](https://astebern.github.io/all-about-me/) |
 | 26 | Salma Az Zahra | 18224015 | [https://salmaazzra.github.io/all-about-me/](https://salmaazzra.github.io/all-about-me/) |
@@ -32,7 +32,7 @@
 | 28 | Evan Nathanael Tanuri | 18224019 | [https://evantanuri.github.io/all-about-me/](https://evantanuri.github.io/all-about-me/) |
 | 29 | Muhammad Okto Huzainy | 18224021 | [https://takkko-o.github.io/all-about-me/](https://takkko-o.github.io/all-about-me/) |
 | 30 | Ahmad Aditya Ar Rasyid | 18224023 | [https://kenpa1945.github.io/18224023-AsesmenII2100/](https://kenpa1945.github.io/18224023-AsesmenII2100/) |
-| 31 | Muhammad Faris Daffa | 18224025 | Belum Submit |
+| 31 | Muhammad Faris Daffa | 18224025 | [https://owfarisz.github.io/all-about-me-mfarisd/](https://owfarisz.github.io/all-about-me-mfarisd/)  |
 | 32 | Nafhan Shafy Aulia | 18224027 | [https://nafhansa.github.io/all-about-me/](https://nafhansa.github.io/all-about-me/) |
 | 33 | Mineva Azzahra | 18224029 | [https://min646.github.io/all-about-me/](https://min646.github.io/all-about-me/) |
 | 34 | Daniel Arrigo Manurung | 18224031 | [https://1920xl080.github.io/all-about-me/](https://1920xl080.github.io/all-about-me/) |
@@ -46,7 +46,7 @@
 | 42 | Daniel Benaya Toar Supaath | 18224047 | [https://danielbnaya.github.io/all-about-me](https://danielbnaya.github.io/all-about-me) |
 | 43 | Nizham Rafa Lazuardi | 18224049 | [https://nizreal.github.io/all-about-me/](https://nizreal.github.io/all-about-me/) |
 | 44 | Belva Charissa Putri Have | 18224051 | [https://belvacharissa.github.io/UTS-Komunikasi-Interpesonal-dan-Publik-/](https://belvacharissa.github.io/UTS-Komunikasi-Interpesonal-dan-Publik-/) |
-| 45 | Nathan Pasha Athallah | 18224053 | Belum Submit |
+| 45 | Nathan Pasha Athallah | 18224053 | [https://nathskie26.github.io/18224053_Nathan-Pasha-Athallah.io/](https://nathskie26.github.io/18224053_Nathan-Pasha-Athallah.io/)|
 | 46 | Adrian Akhdan Assyauqi | 18224055 | [https://ztackholder.github.io/all-about-me/](https://ztackholder.github.io/all-about-me/) |
 | 47 | Levina Nathania Bunardi | 18224057 | [https://levinanthania.github.io/](https://levinanthania.github.io/) |
 | 48 | Tiara Kusuma Wardhani | 18224059 | [https://tiaraksmwr.github.io/](https://tiaraksmwr.github.io/) |
