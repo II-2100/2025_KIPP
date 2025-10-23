@@ -58,7 +58,7 @@
 | 54 | Ellaine Juvina | 18224071 | [https://aucloire.github.io/all-about-me/](https://aucloire.github.io/all-about-me/) |
 | 55 | Abdullah Ahmad Yusuf | 18224073 | [https://yoeztzy.github.io/all-about-me/](https://yoeztzy.github.io/all-about-me/) |
 | 56 | Sherry Eunike | 18224075 | [https://gasukabawang.github.io/all-about-me/](https://gasukabawang.github.io/all-about-me/) |
-| 57 | Naufalziyadh Alif Bintang S | 18224077 | [https://github.com/ItsOxiris/all-about-me](https://github.com/ItsOxiris/all-about-me) |
+| 57 | Naufalziyadh Alif Bintang S | 18224077 | [https://itsoxiris.github.io/all-about-me](https://itsoxiris.github.io/all-about-me/) |
 | 58 | Rafi Putra Nugraha | 18224079 | [https://duskoid.github.io/](https://duskoid.github.io/) |
 | 59 | Illona Nasywa Hannum | 18224081 | [https://buahkol.github.io/](https://buahkol.github.io/) |
 | 60 | Antania Hanjani Yustika Putri | 18224083 | [https://hantaniaa.github.io/all-about-me/](https://hantaniaa.github.io/all-about-me/) |
