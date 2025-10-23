@@ -49,7 +49,7 @@
 | 45 | Nathan Pasha Athallah | 18224053 | Belum Submit |
 | 46 | Adrian Akhdan Assyauqi | 18224055 | [https://ztackholder.github.io/all-about-me/](https://ztackholder.github.io/all-about-me/) |
 | 47 | Levina Nathania Bunardi | 18224057 | [https://levinanthania.github.io/](https://levinanthania.github.io/) |
-| 48 | Tiara Kusuma Wardhani | 18224059 | [tiaraksmwr.github.io](tiaraksmwr.github.io) |
+| 48 | Tiara Kusuma Wardhani | 18224059 | [https://tiaraksmwr.github.io/](https://tiaraksmwr.github.io/) |
 | 49 | Riantama Putra | 18224061 | [https://veinsan.github.io/all-about-me/](https://veinsan.github.io/all-about-me/) |
 | 50 | Yumna Fathonah Kautsar | 18224063 | [https://yummypop.github.io/all-about-me/](https://yummypop.github.io/all-about-me/) |
 | 51 | Benedicta Sherin Chyntia Putri | 18224065 | [https://benedictasherinn.github.io/II-2100/](https://benedictasherinn.github.io/II-2100/) |
