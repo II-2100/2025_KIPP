@@ -74,3 +74,4 @@
 | 71 | 18224105 | Kyan Saktya Diraya | 46 | 56 | 52 |
 | 72 | 18224107 | Laurensius Dani Rendragraha | 41 | 2 | 43 |
 | 73 | 18224109 | Adriel Nathanael Simatupang | 60 | 10 | 33 |
+| 74 | 18222126 | Alfaza Naufal Zakiy | 15 | 49 | 66 |

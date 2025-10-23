@@ -75,3 +75,6 @@
 | 71 | Kyan Saktya Diraya | 18224105 | [https://kyanureeves.github.io/all-about-me/](https://kyanureeves.github.io/all-about-me/) |
 | 72 | Laurensius Dani Rendragraha | 18224107 | [https://laurensiusdani.github.io/all-about-me/](https://laurensiusdani.github.io/all-about-me/) |
 | 73 | Adriel Nathanael Simatupang | 18224109 | [https://mimumscar.github.io/all-about-me/](https://mimumscar.github.io/all-about-me/) |
+| 74 | Alfaza Naufal Zakiy | 18222126 | [https://alfazanaufalzakiy.github.io/all-about-me/](https://alfazanaufalzakiy.github.io/all-about-me/) |
+
+
