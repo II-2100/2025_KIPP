@@ -60,7 +60,7 @@
 | 56 | Sherry Eunike | 18224075 | [https://gasukabawang.github.io/all-about-me/](https://gasukabawang.github.io/all-about-me/) |
 | 57 | Naufalziyadh Alif Bintang S | 18224077 | [https://github.com/ItsOxiris/all-about-me](https://github.com/ItsOxiris/all-about-me) |
 | 58 | Rafi Putra Nugraha | 18224079 | [https://duskoid.github.io/](https://duskoid.github.io/) |
-| 59 | Illona Nasywa Hannum | 18224081 | [https://buahkol.github.io/all-about-me/](https://buahkol.github.io/all-about-me/) |
+| 59 | Illona Nasywa Hannum | 18224081 | [https://buahkol.github.io/](https://buahkol.github.io/) |
 | 60 | Antania Hanjani Yustika Putri | 18224083 | [https://hantaniaa.github.io/all-about-me/](https://hantaniaa.github.io/all-about-me/) |
 | 61 | Ahmad Rizal Fahmi | 18224085 | [https://lntermezzzo.github.io/about-me/](https://lntermezzzo.github.io/about-me/) |
 | 62 | Abhinaya Rajendra Fargaz | 18224087 | [https://about-abhinaya.vercel.app](https://about-abhinaya.vercel.app) |
