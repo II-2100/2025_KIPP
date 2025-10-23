@@ -70,7 +70,7 @@
 | 66 | Sirojul Firdaus | 18224095 | [https://sirojulfirdaus.github.io/kipp-all-about-me/](https://sirojulfirdaus.github.io/kipp-all-about-me/) |
 | 67 | Lukman Hakim Syah Ardhana | 18224097 | [https://lukmanhakimsa.github.io/all-about-me/](https://lukmanhakimsa.github.io/all-about-me/) |
 | 68 | Muhammad Afif Habiburrahman | 18224099 | [https://github.com/fifiyy/all-about-me](https://github.com/fifiyy/all-about-me) |
-| 69 | Jacko Luciano | 18224101 | [jackoluciano.github.io/all-about-me](jackoluciano.github.io/all-about-me) |
+| 69 | Jacko Luciano | 18224101 | [jackoluciano.github.io/all-about-me/index.html](jackoluciano.github.io/all-about-me/index.html) |
 | 70 | Haidarrozan Pramasony | 18224103 | [https://oxanovijk.github.io/18224103-Kominter/](https://oxanovijk.github.io/18224103-Kominter/) |
 | 71 | Kyan Saktya Diraya | 18224105 | [https://kyanureeves.github.io/all-about-me/](https://kyanureeves.github.io/all-about-me/) |
 | 72 | Laurensius Dani Rendragraha | 18224107 | [https://laurensiusdani.github.io/all-about-me/](https://laurensiusdani.github.io/all-about-me/) |
