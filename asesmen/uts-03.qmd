@@ -6,6 +6,8 @@
 
 ## Penugasaan Peer 1, Peer 2 dan Peer 3
 
+{{< include /asesmen/peer-assignments-03-random-L.md >}}
+
 
 
 ## Submisi Kelas 03

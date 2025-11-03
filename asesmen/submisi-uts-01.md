@@ -1,14 +1,14 @@
-## Laporan Submisi Tugas UTS Kelas 01
+ Laporan Submisi Tugas UTS Kelas 01
 
 | No | Nama | NIM | Link URL Hasil Tugas |
 |----|------|-----|-----------------------|
 | 1 | Ulivia Embun Tresna Wardani | 10322015 | Belum Submit |
-| 2 | Daffari Adiyatma | 18222003 | [https://jakund25.github.io/all-about-me](https://jakund25.github.io/all-about-me) |
+| 2 | Daffari Adiyatma | 18222003 | [https://jackund25.github.io/all-about-me/](https://jackund25.github.io/all-about-me/) |
 | 3 | Daffa Ramadhan Elengi | 18222009 | Belum Submit |
 | 4 | Jonathan Wiguna | 18222019 | [https://jonathanw33.github.io/all-about-me/](https://jonathanw33.github.io/all-about-me/) |
 | 5 | Kezia Caren Cahyadi | 18222041 | Belum Submit |
 | 6 | Dama Dhananjaya Daliman | 18222047 | [https://runningpie.github.io/II2100_All-About-Me/](https://runningpie.github.io/II2100_All-About-Me/) |
-| 7 | Christopher Richard Chandra | 18222057 | Belum Submit |
+| 7 | Christopher Richard Chandra | 18222057 | [https://flame25.github.io/all-about-me/](https://flame25.github.io/all-about-me/) |
 | 8 | Winata Tristan | 18222061 | [https://stdfreesince03.github.io/18222061-AsesmenII2100](https://stdfreesince03.github.io/18222061-AsesmenII2100) |
 | 9 | Muhammad Faiz Atharrahman | 18222063 | [https://all-about-me.faiz.at/](https://all-about-me.faiz.at/) |
 | 10 | Muhammad Rafi Dhiyaulhaq | 18222069 | [https://rafidhiyaulh.github.io/all-about-me/](https://rafidhiyaulh.github.io/all-about-me/) |
@@ -20,9 +20,9 @@
 | 16 | Samuel Franciscus Togar H | 18222131 | [https://sfrans21.github.io/ii2100_all-about-me/](https://sfrans21.github.io/ii2100_all-about-me/) |
 | 17 | Hanan Fitra Salam | 18222133 | [https://hananfits.github.io/all-about-me/](https://hananfits.github.io/all-about-me/) |
 | 18 | Felissha Dunell Damanik | 18223099 | Belum Submit |
-| 19 | Muhammad Dhafin Faidhulhaq | 18223103 | Belum Submit |
+| 19 | Muhammad Dhafin Faidhulhaq | 18223103 | [https://dhafin1.github.io/all-about-me/](https://dhafin1.github.io/all-about-me/) |
 | 20 | Nisrina Zakiyah | 18224001 | [https://bellechillguy.github.io/kominter-18224001/](https://bellechillguy.github.io/kominter-18224001/) |
-| 21 | Keira Amelie Hanayesha | 18224003 | Belum Submit |
+| 21 | Keira Amelie Hanayesha | 18224003 | [https://keiramelie.github.io/all-about-me/](https://keiramelie.github.io/all-about-me/) |
 | 22 | Mishael Gilland | 18224005 | [https://soyuzn.github.io/all-about-me/](https://soyuzn.github.io/all-about-me/) |
 | 23 | Faizal Ali | 18224007 | [https://zal1zal.github.io/all-about-me/](https://zal1zal.github.io/all-about-me/) |
 | 24 | Keisha Daffa Aryani | 18224009 | [https://keisharyaa.github.io/II2100_Keisha-Daffa/](https://keisharyaa.github.io/II2100_Keisha-Daffa/) |
@@ -32,12 +32,12 @@
 | 28 | Evan Nathanael Tanuri | 18224019 | [https://evantanuri.github.io/all-about-me/](https://evantanuri.github.io/all-about-me/) |
 | 29 | Muhammad Okto Huzainy | 18224021 | [https://takkko-o.github.io/all-about-me/](https://takkko-o.github.io/all-about-me/) |
 | 30 | Ahmad Aditya Ar Rasyid | 18224023 | [https://kenpa1945.github.io/18224023-AsesmenII2100/](https://kenpa1945.github.io/18224023-AsesmenII2100/) |
-| 31 | Muhammad Faris Daffa | 18224025 | [https://owfarisz.github.io/all-about-me-mfarisd/](https://owfarisz.github.io/all-about-me-mfarisd/)  |
+| 31 | Muhammad Faris Daffa | 18224025 | Belum Submit |
 | 32 | Nafhan Shafy Aulia | 18224027 | [https://nafhansa.github.io/all-about-me/](https://nafhansa.github.io/all-about-me/) |
 | 33 | Mineva Azzahra | 18224029 | [https://min646.github.io/all-about-me/](https://min646.github.io/all-about-me/) |
 | 34 | Daniel Arrigo Manurung | 18224031 | [https://1920xl080.github.io/all-about-me/](https://1920xl080.github.io/all-about-me/) |
 | 35 | Rezky Muhammad Hafiz Batubara | 18224033 | [https://skyx59.github.io/18224033-AsesmenII2100/All_About_me/](https://skyx59.github.io/18224033-AsesmenII2100/All_About_me/) |
-| 36 | Stella Cometta Febriana | 18224035 | [https://github.com/18224035-dotcom/KOMUNIKASI-INTERPERSONAL-/tree/main/all-about-me-main](https://github.com/18224035-dotcom/KOMUNIKASI-INTERPERSONAL-/tree/main/all-about-me-main) |
+| 36 | Stella Cometta Febriana | 18224035 | [https://18224035-dotcom.github.io/Portofolio-UTS-18224035/](https://18224035-dotcom.github.io/Portofolio-UTS-18224035/) |
 | 37 | Indah Ramadhani | 18224037 | [https://indahr118.github.io/all-about-me/](https://indahr118.github.io/all-about-me/) |
 | 38 | Luthfi Al Pasha | 18224039 | Belum Submit |
 | 39 | Irghi Satya Priangga | 18224041 | [https://hippochld8.github.io/all-about-me-irghisp/](https://hippochld8.github.io/all-about-me-irghisp/) |
@@ -46,7 +46,7 @@
 | 42 | Daniel Benaya Toar Supaath | 18224047 | [https://danielbnaya.github.io/all-about-me](https://danielbnaya.github.io/all-about-me) |
 | 43 | Nizham Rafa Lazuardi | 18224049 | [https://nizreal.github.io/all-about-me/](https://nizreal.github.io/all-about-me/) |
 | 44 | Belva Charissa Putri Have | 18224051 | [https://belvacharissa.github.io/UTS-Komunikasi-Interpesonal-dan-Publik-/](https://belvacharissa.github.io/UTS-Komunikasi-Interpesonal-dan-Publik-/) |
-| 45 | Nathan Pasha Athallah | 18224053 | [https://nathskie26.github.io/18224053_Nathan-Pasha-Athallah.io/](https://nathskie26.github.io/18224053_Nathan-Pasha-Athallah.io/)|
+| 45 | Nathan Pasha Athallah | 18224053 | [https://nathskie26.github.io/18224053_Nathan-Pasha-Athallah.io/](https://nathskie26.github.io/18224053_Nathan-Pasha-Athallah.io/) |
 | 46 | Adrian Akhdan Assyauqi | 18224055 | [https://ztackholder.github.io/all-about-me/](https://ztackholder.github.io/all-about-me/) |
 | 47 | Levina Nathania Bunardi | 18224057 | [https://levinanthania.github.io/](https://levinanthania.github.io/) |
 | 48 | Tiara Kusuma Wardhani | 18224059 | [https://tiaraksmwr.github.io/](https://tiaraksmwr.github.io/) |
@@ -58,7 +58,7 @@
 | 54 | Ellaine Juvina | 18224071 | [https://aucloire.github.io/all-about-me/](https://aucloire.github.io/all-about-me/) |
 | 55 | Abdullah Ahmad Yusuf | 18224073 | [https://yoeztzy.github.io/all-about-me/](https://yoeztzy.github.io/all-about-me/) |
 | 56 | Sherry Eunike | 18224075 | [https://gasukabawang.github.io/all-about-me/](https://gasukabawang.github.io/all-about-me/) |
-| 57 | Naufalziyadh Alif Bintang S | 18224077 | [https://itsoxiris.github.io/all-about-me](https://itsoxiris.github.io/all-about-me/) |
+| 57 | Naufalziyadh Alif Bintang S | 18224077 | [https://github.com/ItsOxiris/all-about-me](https://github.com/ItsOxiris/all-about-me) |
 | 58 | Rafi Putra Nugraha | 18224079 | [https://duskoid.github.io/](https://duskoid.github.io/) |
 | 59 | Illona Nasywa Hannum | 18224081 | [https://buahkol.github.io/](https://buahkol.github.io/) |
 | 60 | Antania Hanjani Yustika Putri | 18224083 | [https://hantaniaa.github.io/all-about-me/](https://hantaniaa.github.io/all-about-me/) |
@@ -70,11 +70,8 @@
 | 66 | Sirojul Firdaus | 18224095 | [https://sirojulfirdaus.github.io/kipp-all-about-me/](https://sirojulfirdaus.github.io/kipp-all-about-me/) |
 | 67 | Lukman Hakim Syah Ardhana | 18224097 | [https://lukmanhakimsa.github.io/all-about-me/](https://lukmanhakimsa.github.io/all-about-me/) |
 | 68 | Muhammad Afif Habiburrahman | 18224099 | [https://github.com/fifiyy/all-about-me](https://github.com/fifiyy/all-about-me) |
-| 69 | Jacko Luciano | 18224101 | [jackoluciano.github.io/all-about-me/index.html](jackoluciano.github.io/all-about-me/index.html) |
+| 69 | Jacko Luciano | 18224101 | [jackoluciano.github.io/all-about-me](jackoluciano.github.io/all-about-me) |
 | 70 | Haidarrozan Pramasony | 18224103 | [https://oxanovijk.github.io/18224103-Kominter/](https://oxanovijk.github.io/18224103-Kominter/) |
 | 71 | Kyan Saktya Diraya | 18224105 | [https://kyanureeves.github.io/all-about-me/](https://kyanureeves.github.io/all-about-me/) |
 | 72 | Laurensius Dani Rendragraha | 18224107 | [https://laurensiusdani.github.io/all-about-me/](https://laurensiusdani.github.io/all-about-me/) |
 | 73 | Adriel Nathanael Simatupang | 18224109 | [https://mimumscar.github.io/all-about-me/](https://mimumscar.github.io/all-about-me/) |
-| 74 | Alfaza Naufal Zakiy | 18222126 | [https://alfazanaufalzakiy.github.io/all-about-me/](https://alfazanaufalzakiy.github.io/all-about-me/) |
-
-
