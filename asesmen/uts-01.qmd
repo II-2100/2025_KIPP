@@ -1,4 +1,4 @@
-# Ujian Tengah Semester Kelas 01
+# Ujian Tengah Semester Kelas 01 {.unnumbered}
 
 
 {{< include /asesmen/uts.qmd >}}
