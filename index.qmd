@@ -20,10 +20,33 @@ II-2100 Komunikasi Interpersonal dan Publik Tuesday, 3:00 – 5:00pm Time zone: 
 
 4. CPMK-4 **Mendemonstrasikan kemampuan berbicara di depan publik** dengan percaya diri.
 
+## Topik Mingguan
+
+Mata kuliah Komunikasi Interpersonal dan Publik (Kode II2100) dirancang untuk satu semester dengan 16 minggu pembelajaran, termasuk Ujian Tengah Semester (UTS) dan Ujian Akhir Semester (UAS).
+
+Berikut adalah topik setiap minggu berdasarkan Rencana Pembelajaran Semester (RPS):
+
+*   **Minggu 1:** **Fondasi Komunikasi Interpersonal**. Materi mencakup definisi komunikasi sebagai proses yang kompleks, model komunikasi (linear, interaksional, transaksional), dan pentingnya kompetensi komunikasi.
+*   **Minggu 2:** **Komunikasi Diri dan Persepsi**. Fokus pada komunikasi intrapersonal (*self-talk*) sebagai dasar perencanaan dan evaluasi, konsep diri (*self-concept*), dan peran persepsi.
+*   **Minggu 3-4:** **Bahasa Verbal: Makna dan Pengaruh**. Membahas sifat bahasa, Hipotesis Sapir-Whorf, dan pengaruh bahasa terhadap identitas, afiliasi, kekuasaan, dan tanggung jawab.
+*   **Minggu 5-6:** **Komunikasi Nonverbal: Pesan Tanpa Kata**. Meliputi definisi dan karakteristik komunikasi nonverbal, serta bentuk-bentuk nonverbal seperti *chronemics* (penggunaan waktu, termasuk budaya monokronik dan polikronik).
+*   **Minggu 7:** **Mendengarkan Aktif dan Empati**. Mempelajari mendengarkan sebagai keterampilan yang dipelajari, gaya mendengarkan, dan respons mendengarkan yang sadar (*mindful listening*), termasuk *paraphrasing* dan *empathizing*.
+*   **Minggu 8:** **UJIAN TENGAH SEMESTER (UTS)**. Cakupan materi dari Minggu 1 hingga 7.
+*   **Minggu 9:** **Dinamika Hubungan Interpersonal**. Meliputi definisi dan pembentukan hubungan, model tahap perkembangan hubungan (model Knapp), dan dialektika relasional (misalnya, otonomi vs. koneksi).
+*   **Minggu 10:** **Komunikasi dalam Hubungan Dekat (Keluarga dan Pertemanan)**. Membahas komunikasi dalam pertemanan dan keluarga (pola komunikasi keluarga seperti orientasi percakapan dan konformitas), dan ekspresi cinta melalui "love languages".
+*   **Minggu 11:** **Mengelola Konflik dalam Komunikasi**. Fokus pada konsep dan jenis resolusi konflik (win-lose, lose-lose, win-win), strategi komunikasi asertif, dan iklim komunikasi (*communication climate*) yang suportif vs. defensif.
+*   **Minggu 12:** **Fondasi Berbicara di Depan Umum**. Mengenai sejarah bidang komunikasi publik, mengembangkan keberanian dan rasa percaya diri, dan struktur pidato dasar.
+*   **Minggu 13:** **Seni Presentasi dan Bercerita (Storytelling)**. Membangun pidato yang menarik, memanfaatkan *storytelling*, dan penggunaan vokal serta isyarat nonverbal dalam menyampaikan pesan publik.
+*   **Minggu 14:** **Teknologi Komunikasi dan Dampaknya**. Mempelajari peran teknologi dalam komunikasi interpersonal dan publik, Komunikasi Bermediasi Komputer (CMC), *multimodality*, serta tantangan seperti *cyberbullying*.
+*   **Minggu 15:** **Review dan Aplikasi Keterampilan**. Sesi integrasi seluruh konsep dan keterampilan yang telah dipelajari.
+*   **Minggu 16:** **UJIAN AKHIR SEMESTER (UAS)**. UTS dan UAS merupakan metode penilaian utama selain tugas.
+
+
+
+
+
 **Metode Pembelajaran:**
-
 • Ceramah
-
 • Diskusi
 
 • Tugas individu dan kelompok
@@ -45,6 +68,8 @@ Manfaatkan AI seperti NotebokLM secara maksimal untuk membantu pembelajaran.
 • Ujian Akhir Semester (UAS) 30%
 
 • Tugas (meliputi partisipasi diskusi, kuis, latihan, presentasi, esai) 40%
+
+
 
 **Referensi Utama:**
 
