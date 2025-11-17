@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -252,7 +281,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#instruksi" id="toc-instruksi" class="nav-link active" data-scroll-target="#instruksi">Instruksi</a></li>
+  <li><a href="#asesmen-uas" id="toc-asesmen-uas" class="nav-link active" data-scroll-target="#asesmen-uas">Asesmen UAS</a></li>
+  <li><a href="#a.1.-filosofi-penilaian-mengukur-ko-kreasi-naratif" id="toc-a.1.-filosofi-penilaian-mengukur-ko-kreasi-naratif" class="nav-link" data-scroll-target="#a.1.-filosofi-penilaian-mengukur-ko-kreasi-naratif">A.1. Filosofi Penilaian: Mengukur Ko-Kreasi Naratif</a></li>
+  <li><a href="#a.2.-definisi-aspek-penilaian" id="toc-a.2.-definisi-aspek-penilaian" class="nav-link" data-scroll-target="#a.2.-definisi-aspek-penilaian">A.2. Definisi Aspek Penilaian</a></li>
+  <li><a href="#a.3.-tabel-1-rubrik-penilaian-holistik-portal-all-about-me" id="toc-a.3.-tabel-1-rubrik-penilaian-holistik-portal-all-about-me" class="nav-link" data-scroll-target="#a.3.-tabel-1-rubrik-penilaian-holistik-portal-all-about-me">A.3. Tabel 1: Rubrik Penilaian Holistik Portal “All About Me”</a></li>
+  <li><a href="#instruksi" id="toc-instruksi" class="nav-link" data-scroll-target="#instruksi">Instruksi</a></li>
   <li><a href="#penugasan-peer-1-peer-2-dan-peer-3" id="toc-penugasan-peer-1-peer-2-dan-peer-3" class="nav-link" data-scroll-target="#penugasan-peer-1-peer-2-dan-peer-3">Penugasan Peer 1, Peer 2 dan Peer 3</a></li>
   <li><a href="#submisi-kelas-01" id="toc-submisi-kelas-01" class="nav-link" data-scroll-target="#submisi-kelas-01">Submisi Kelas 01</a></li>
   </ul>
@@ -286,6 +319,97 @@ ul.task-list li input[type="checkbox"] {
 <p>Di mana Anda memilih satu dari <a href="../bahan/top10.pdf">Top-10 Masalah Kemanusiaan</a> lalu nAda mengembangkan Konsep, Opini, Inovasi, dan Pengetahuan untuk menjelaskan dan mewujudkan Masterpiece ini.</p>
 <p>Anda dapat melihat contoh repositori <a href="https://github.com/II-2100/all-about-me">contoh</a> dan menggunakan nya sebagai inspirasi <a href="https://II-2100.github.io/all-about-me">https://II-2100.github.io/all-about-me</a>.</p>
 <p>UAS-5 bagian akhir dari rangkaian UAS ini adalah melakukan review dari hasil submisi. UAS-5 Berisikan telahan pesan profesional UAS-1 s/d UAS-4 berdasarkan rubrik masing-masing. Anda diminta melakukan Self Assesment dan Peer Assessment menggunakan rubrik yang ada. Self Assessment menggunakan AI, sedangkan Peer Assessment dilakukan manual</p>
+<section id="asesmen-uas" class="level2">
+<h2 class="anchored" data-anchor-id="asesmen-uas">Asesmen UAS</h2>
+</section>
+<section id="a.1.-filosofi-penilaian-mengukur-ko-kreasi-naratif" class="level2">
+<h2 class="anchored" data-anchor-id="a.1.-filosofi-penilaian-mengukur-ko-kreasi-naratif">A.1. Filosofi Penilaian: Mengukur Ko-Kreasi Naratif</h2>
+<p>Rubrik ini tidak dirancang untuk menilai “kebenaran” objektif atau “jawaban yang benar”. Sebaliknya, rubrik ini mengukur <em>kualitas</em> konstruksi naratif mahasiswa. Sesuai dengan paradigma TISE 2.0, yang mentransformasi tujuan rekayasa dari sekadar orkestrasi tugas menjadi ekosistem ko-kreasi naratif, penilaian ini bertujuan untuk mengevaluasi sejauh mana mahasiswa telah bertindak sebagai <strong>“Protagonis-Penulis”</strong> dari kisah pembelajaran mereka sendiri.<sup>1</sup></p>
+<p>Fokus utama dari evaluasi ini adalah pada proses <strong>Penalaran Otobiografis</strong> (<em>Autobiographical Reasoning</em>).<sup>1</sup> Penilaian ini mencari bukti kemampuan mahasiswa untuk merefleksikan pengalaman, menghubungkannya dengan konsep-konsep inti perkuliahan, dan secara aktif <em>menciptakan makna</em>.<sup>2</sup> Dalam kerangka Triune Intelligence 2.0, ini adalah manifestasi dari <strong>Axiological Intelligence (AQ)</strong>—kecerdasan makna, nilai, dan tujuan.<sup>2</sup> Portal “All About Me” adalah artefak digital dari <strong>Identitas Naratif</strong> <sup>1</sup> mahasiswa yang sedang berkembang. Oleh karena itu, penilaian ini menghargai koherensi, orisinalitas pemikiran, kedalaman refleksi, dan pertumbuhan pribadi yang ditunjukkan di atas segalanya.</p>
+</section>
+<section id="a.2.-definisi-aspek-penilaian" class="level2">
+<h2 class="anchored" data-anchor-id="a.2.-definisi-aspek-penilaian">A.2. Definisi Aspek Penilaian</h2>
+<p>Empat aspek berikut akan dinilai secara holistik di seluruh empat bagian portal (‘My Concepts’, ‘My Opinions’, ‘My Innovations’, ‘My Knowledge’). Penilaian yang terintegrasi ini penting untuk mendorong pemikiran holistik, yang merupakan inti dari TISE itu sendiri.</p>
+<ol type="1">
+<li><p><strong>Koherensi Naratif:</strong></p>
+<ul>
+<li><p><strong>Deskripsi:</strong> Menilai kemampuan mahasiswa untuk mengintegrasikan keempat bagian portal menjadi satu kesatuan cerita yang logis, konsisten, dan bermakna. Ini adalah cerminan dari <strong>Identitas Naratif</strong> yang koheren.<sup>1</sup></p></li>
+<li><p><strong>Pertanyaan Kunci:</strong> Apakah ‘My Concepts’ mengalir secara logis ke ‘My Opinions’? Apakah ‘My Innovations’ merupakan penerapan praktis dari konsep dan opini tersebut? Apakah ‘My Knowledge’ memberikan dasar yang kuat untuk ketiganya? Apakah ada ‘benang merah’ filosofis yang menyatukan keempat bagian tersebut menjadi satu argumen yang utuh?</p></li>
+</ul></li>
+<li><p><strong>Agensi &amp; Kepengarangan Diri (<em>Agency &amp; Self-Authorship</em>):</strong></p>
+<ul>
+<li><p><strong>Deskripsi:</strong> Menilai tingkat kepemilikan, inisiatif, dan otonomi yang ditunjukkan dalam tulisan. Ini mencerminkan pilar <strong>Agensi</strong> dari TISE 2.0 (rasa menjadi aktor yang otonom dan efektif) <sup>1</sup> dan kompetensi AQ <strong>Self-Authorship</strong> (keterampilan sadar untuk membingkai peristiwa kehidupan seseorang ke dalam narasi yang memberdayakan).<sup>2</sup></p></li>
+<li><p><strong>Pertanyaan Kunci:</strong> Apakah mahasiswa menulis dengan suara otentik mereka sendiri? Apakah mereka memposisikan diri sebagai aktor utama yang secara sadar membuat keputusan dan mengambil inisiatif, atau sebagai penerima pasif dari instruksi dan materi kuliah? Apakah konten tersebut orisinal dan reflektif?</p></li>
+</ul></li>
+<li><p><strong>Wawasan Penebusan (<em>Redemptive Insight</em>):</strong></p>
+<ul>
+<li><p><strong>Deskripsi:</strong> Ini adalah aspek krusial dari AQ <sup>2</sup> dan TISE 2.0.<sup>1</sup> Ini menilai kemampuan mahasiswa untuk mengidentifikasi tantangan, kegagalan, kebingungan, atau “narasi kontaminasi” (sebuah keadaan baik yang berubah menjadi buruk, <span class="math inline">\(A_{pos} \rightarrow B_{neg}\)</span>) dan secara aktif membingkainya kembali menjadi “sekuens penebusan” (sebuah keadaan buruk yang menghasilkan hasil positif, <span class="math inline">\(A_{neg} \rightarrow B_{pos}\)</span>).</p></li>
+<li><p><strong>Pertanyaan Kunci:</strong> Apakah mahasiswa jujur tentang kesulitan atau kegagalan dalam proses pembelajaran? Yang lebih penting, apakah mereka mendemonstrasikan <strong>Penalaran Otobiografis</strong> untuk mengekstrak makna, pertumbuhan, dan kebijaksanaan baru dari kesulitan tersebut, alih-alih hanya menggambarkannya sebagai kerugian atau menyalahkan faktor eksternal?</p></li>
+</ul></li>
+<li><p><strong>Kedalaman Sintesis Konseptual:</strong></p>
+<ul>
+<li><p><strong>Deskripsi:</strong> Menilai kemampuan intelektual untuk mengambil konsep-konsep yang kompleks dan padat dari perkuliahan (misalnya, TISE, PUDAL, PSKVE, Triune Intelligence) dan mensintesisnya—bukan hanya meringkas—ke dalam narasi pribadi mereka. Ini mencerminkan komponen <strong>Synergistic Practical Intelligence (PI-A)</strong>, khususnya kompetensi <strong>Systematic Synthesis</strong>.<sup>2</sup></p></li>
+<li><p><strong>Pertanyaan Kunci:</strong> Apakah mahasiswa benar-benar <em>menggunakan</em> terminologi TISE untuk menjelaskan dan membingkai dunia mereka? Apakah mereka menunjukkan pemahaman mendalam tentang <em>bagaimana</em> konsep-konsep ini saling berhubungan satu sama lain, atau apakah mereka hanya menyalin definisi dari materi perkuliahan?</p></li>
+</ul></li>
+</ol>
+</section>
+<section id="a.3.-tabel-1-rubrik-penilaian-holistik-portal-all-about-me" class="level2">
+<h2 class="anchored" data-anchor-id="a.3.-tabel-1-rubrik-penilaian-holistik-portal-all-about-me">A.3. Tabel 1: Rubrik Penilaian Holistik Portal “All About Me”</h2>
+<p>Rasionalisasi: Sebuah tabel matriks tunggal digunakan alih-alih empat rubrik terpisah. Filosofi TISE 2.0 adalah tentang <em>integrasi holistik</em> dari sistem sosio-teknis.<sup>1</sup> Menilai setiap bagian (‘My Concepts’, ‘My Opinions’, dll.) secara terpisah akan mendorong pemikiran silo, yang secara fundamental bertentangan dengan tujuan ‘Koherensi Naratif’. Rubrik ini menilai keempat bagian <em>secara bersamaan</em> terhadap empat aspek naratif yang telah didefinisikan.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Kategori</strong></td>
+<td><strong>Koherensi Naratif (Integrasi)</strong></td>
+<td><strong>Agensi &amp; Kepengarangan Diri (Kepemilikan)</strong></td>
+<td><strong>Wawasan Penebusan (Pertumbuhan)</strong></td>
+<td><strong>Kedalaman Sintesis Konseptual (Pemahaman)</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Sangat Memuaskan</strong></td>
+<td>Keempat bagian terjalin secara mulus menjadi satu <em>master narrative</em> yang koheren, kuat, dan konsisten. Benang merah filosofis terlihat jelas dari awal hingga akhir.</td>
+<td>Menunjukkan <em>Self-Authorship</em> yang luar biasa. Tulisan sangat personal, reflektif, dan penuh inisiatif. Mahasiswa jelas memposisikan diri sebagai <strong>Protagonis-Penulis</strong> dari cerita mereka.<sup>1</sup></td>
+<td>Secara eksplisit mengidentifikasi tantangan/kegagalan besar dan melakukan <strong>Penalaran Otobiografis</strong> yang mendalam untuk mengubahnya menjadi wawasan penebusan (<span class="math inline">\(A_{neg} \rightarrow B_{pos}\)</span>) yang transformatif.<sup>1</sup></td>
+<td>Mensintesis konsep-konsep TISE yang paling kompleks (misalnya, ASTF, AQ, PUDAL) secara mendalam dan orisinal, menggunakannya untuk membingkai argumen pribadi. Jelas <em>berpikir dengan</em> TISE, bukan <em>tentang</em> TISE.</td>
+</tr>
+<tr class="odd">
+<td><strong>Memuaskan</strong></td>
+<td>Keempat bagian sebagian besar koheren dan terhubung dengan baik. Alur logisnya jelas, meskipun mungkin ada beberapa transisi yang lemah antar bagian.</td>
+<td>Menunjukkan agensi yang kuat. Tulisan menggunakan suara pribadi yang jelas dan menunjukkan kepemilikan atas ide-ide. Mahasiswa adalah aktor utama dalam narasi mereka.</td>
+<td>Mengidentifikasi tantangan dan mendiskusikan pelajaran yang didapat. Proses penebusan hadir dan bermakna, meskipun mungkin tidak setransformatif kategori Sangat Memuaskan.</td>
+<td>Mensintesis konsep-konsep inti TISE secara akurat dan menerapkannya dengan benar pada argumen pribadi. Menunjukkan pemahaman yang solid dan fungsional.</td>
+</tr>
+<tr class="even">
+<td><strong>Cukup Memuaskan</strong></td>
+<td>Narasi terasa terfragmentasi. Keempat bagian ada, tetapi koneksi di antaranya bersifat superfisial atau harus disimpulkan oleh pembaca. Terasa seperti empat tugas terpisah.</td>
+<td>Agensi bersifat pasif atau reaktif. Tulisan cenderung deskriptif (“Saya melakukan ini karena disuruh”) daripada reflektif (“Saya memutuskan ini karena…”). Kepengarangan diri minimal.</td>
+<td>Menyebutkan tantangan atau kesulitan, tetapi cenderung hanya menggambarkannya sebagai “narasi kontaminasi” (<span class="math inline">\(A_{pos} \rightarrow B_{neg}\)</span>) <sup>1</sup> tanpa membingkainya kembali sebagai penebusan. Pelajaran yang didapat bersifat klise atau dangkal.</td>
+<td>Menggunakan konsep-konsep TISE, tetapi pemahamannya seringkali superfisial. Lebih banyak mendefinisikan istilah daripada mensintesis atau menerapkannya secara orisinal.</td>
+</tr>
+<tr class="odd">
+<td><strong>Kurang Memuaskan</strong></td>
+<td>Keempat bagian terasa sangat terputus-putus, acak, atau kontradiktif. Tidak ada upaya yang terlihat untuk membangun narasi yang koheren.</td>
+<td>Tidak menunjukkan agensi. Suara penulis tidak ada, digantikan oleh salinan materi kuliah atau pernyataan umum. Menampilkan mentalitas korban atau pengamat pasif.</td>
+<td>Menghindari diskusi tentang tantangan, atau jika disebutkan, menyalahkan faktor eksternal. Tidak ada refleksi, tidak ada penebusan, tidak ada pertumbuhan yang ditunjukkan.</td>
+<td>Gagal menggunakan konsep TISE secara akurat. Banyak miskonsepsi atau penggunaan istilah yang salah, menunjukkan kurangnya pemahaman mendasar.</td>
+</tr>
+<tr class="even">
+<td><strong>Tidak Memuaskan</strong></td>
+<td>Satu atau lebih bagian hilang secara substansial. Konten yang dikirimkan tidak relevan, tidak koheren, atau tidak menunjukkan upaya yang sungguh-sungguh.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
 <section id="instruksi" class="level2">
 <h2 class="anchored" data-anchor-id="instruksi">Instruksi</h2>
 <ol type="1">

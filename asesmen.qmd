@@ -82,42 +82,38 @@ Berisikan pesan yang memperkenalkan sosok diri kita. Meskipun komunikasi bhersif
 
 Berisikan pesan berbentuk puisi, lagu, dan/atau video clip untuk ia atau mereka yang kita anggap relasi intim. Penggunakan AI akan mempercepat proses pembuatannya, namun otensitas dan signature pribadi sangat penting untuk keberhasilan pesan ini.
 
-
 [Rubrik UTS-2: Song For You](./asesmen/Rubrik_II-2100_CSV/UTS-2.csv)
-
 
 ### UTS-3 My Stories for You,
 
 Berisikan kisah inspiratif dan menarik yang Anda ingin bagikan dengan pribadi lain.
 
-
 [Rubrik UTS-3: My Story for You](./asesmen/Rubrik_II-2100_CSV/UTS-4.csv)
-
 
 ### UTS-4 My Shape,
 
-Berisikan laporan siapa Anda berdasar asesmen VIA,  Piagam Diri dan Identitas Naratif, hasil sebuah lembar kerja [My SHAPE](asesmen/UTS-4-My-SHAPE/my_shape_short_2.pdf)
+Berisikan laporan siapa Anda berdasar asesmen VIA, Piagam Diri dan Identitas Naratif, hasil sebuah lembar kerja [My SHAPE](asesmen/UTS-4-My-SHAPE/my_shape_short_2.pdf)
 
 [Rubrik UTS-4: My SHAPE](./asesmen/Rubrik_II-2100_CSV/UTS-4.csv)
 
-
 ### UTS-5 My Personal Review,
 
-Berisikan telahan pesan personal  UTS-1 s/d UTS-4 berdasarkan rubrik masing-masing. Anda diminta melakukan Self Assesment dan Peer Assessment menggunakan rubrik yang ada.
+Berisikan telahan pesan personal UTS-1 s/d UTS-4 berdasarkan rubrik masing-masing. Anda diminta melakukan Self Assesment dan Peer Assessment menggunakan rubrik yang ada.
 
 Self Assessment menggunakan AI, sedangkan Peer Assessment dilakukan manual
 
 ::: callout-warning
 ## Penugasan Peer Assignmen Baru Ada Nanti Saat UTS
+
 Daftar URL untuk Peer Assessment baru akan diperoleh saat UTS. Jadi meskipun Anda bisa mencoba sebelum UTS, pastikan yang anda laporkan sesuai penugasan saat UTS.
 :::
 
 Lakukan:
 
-1. Self-Assessment menggunakan AI (Skor 2)
-2. Peer-Assessment 1 Tanpa AI (Skor 4)
-3. Peer-Assessment 2 Tanpa AI (Skor 4)
-4. Peer-Assessment 3 Tanpa AI (Skor 4, bonus)
+1.  Self-Assessment menggunakan AI (Skor 2)
+2.  Peer-Assessment 1 Tanpa AI (Skor 4)
+3.  Peer-Assessment 2 Tanpa AI (Skor 4)
+4.  Peer-Assessment 3 Tanpa AI (Skor 4, bonus)
 
 Skor Penilaian diisi ke dalam file excel [Lembar Skor](./asesmen/UTS-5_Skor.xlsx). Isi skor keempat asesmen ini dalam file yang sama, masing-masing menggunakan satu baris, dengan urutan di atas. Berarti dimulai dengan baris berisi data Anda. Hasil ini disimpan di repositori anda di folder UTS-5, link kan ke portal anda pada bagian UTS-5, LALU LAPORKAN LINK FILE TERSEBU KE MS FORM UTS-1 <https://forms.cloud.microsoft/r/tF4pm04jUT>
 
@@ -125,23 +121,44 @@ Skor Penilaian diisi ke dalam file excel [Lembar Skor](./asesmen/UTS-5_Skor.xlsx
 
 Berisikan suatu penjelasan atas suatu fenomena yang penting, dengan tujuan untuk mengkomunikasikan keistimewaan pengetahuan yang kita miliki. Penjelasan singkat apa itu konsep dapat di lihat di sini: {{< video https://youtu.be/DxK-_0AzHiw?si=5lpAur3wWtiOyUDV>}}
 
+
+[Rubrik UAS-1: My Concepts](./asesmen/Rubrik_II-2100_CSV/UAS-1.csv)
+
+
+
 ### UAS-2 My Opinions,
 
 Berisikan suatu pandangan mengenai bagaimana sikap, keputusan, atau tindakan terbaik yang harus diambil dalam menghadapiu suatu kondisi atau perkembangan
+
+
+[Rubrik UAS-2: My Opiniun](./asesmen/Rubrik_II-2100_CSV/UAS-2.csv)
+
 
 
 ### UAS-3 My Innovations
 
 Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas berkomunikasi KIPP
 
+[Rubrik UAS-3: My Innovation](./asesmen/Rubrik_II-2100_CSV/UAS-2.csv)
+
+
+
 ### UAS-4 My Knowledge,
 
 Berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini.
 
+[Rubrik UAS -2: Song For You](./asesmen/Rubrik_II-2100_CSV/UAS -2.csv)
+
+
+
 ### UAS-5 My Professional Reviews
 
-Berisikan telaahan pesan publik berdasarkan rubrik.
-## Teknis Pelaksanaan, Pengumpulan, dan Penilaian
+Berisikan telaahan pesan publik berdasarkan rubrik. \## Teknis Pelaksanaan, Pengumpulan, dan Penilaian
+
+
+[Rubrik UAS -2: Song For You](./asesmen/Rubrik_II-2100_CSV/UAS -2.csv)
+
+
 
 ### Repositori Github
 
