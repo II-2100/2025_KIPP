@@ -1,0 +1,30 @@
+UAS ini terdiri dari 
+- UAS-1 My Concepts
+- UAS-2 My Opinions
+- UAS-3 My Innovations
+- UAS-4 My Knowledge
+- UAS-5 My Professional Reviews
+
+Sebagaimana UTS dengan satu tema, UAS ini hendak ber-tema-kan"
+
+"My Masterpiece: Penerapan Sistem dan Teknologi Informasi di Era Artificial Intelligence"
+
+Di mana Anda memilih satu dari [Top-10 Masalah Kemanusiaan](../bahan/top10.pdf) lalu nAda mengembangkan Konsep, Opini, Inovasi, dan Pengetahuan untuk menjelaskan dan mewujudkan Masterpiece ini.
+
+Anda dapat melihat contoh repositori [contoh](https://github.com/II-2100/all-about-me) dan menggunakan nya sebagai inspirasi [https://II-2100.github.io/all-about-me](https://II-2100.github.io/all-about-me).
+
+UAS-5 bagian akhir dari rangkaian UAS ini adalah melakukan review dari hasil submisi. UAS-5 Berisikan telahan pesan profesional  UAS-1 s/d UAS-4 berdasarkan rubrik masing-masing. Anda diminta melakukan Self Assesment dan Peer Assessment menggunakan rubrik yang ada. 
+Self Assessment menggunakan AI, sedangkan Peer Assessment dilakukan manual
+
+
+## Instruksi
+
+1. Bila belum punya, download file excel [Lembar Skor](./asesmen/UAS-5_Skor.xlsx). File ini disimpan di repositori anda dengan di sarankan di folder UAS-5, lalu link kan ke portal anda pada bagian UTS-5
+2. Bila belum, lakukan Self-Assessment menggunakan AI (Skor 2) dan catat skor nya pada baris teratas Lembar Skor 
+3. Lihat daftar penugasan Peer 1, Peer 2, Peer 3. Bila Anda menemukan submisi Peer tidak bisa dinilai (baik karena belum submit, link bermasalah, atau tidak ada isi yang bisa di nilai), beri skor 0.
+4. Lakukan Peer-Assessment 1 Tanpa AI pada Peer 1 (Skor 4) dan catat skornya pada baris kedua Lembar Skor
+5. Lakukan Peer-Assessment 2 Tanpa AI pada Peer 2 (Skor 4)  dan catat skornya pada baris ketiga Lembar Skor
+6. Lakukan Peer-Assessment 3 Tanpa AI Pada Peer 3(Skor 4, bonus)  dan catat skornya pada baris keempat Lembar Skor
+7. Pastikan Skor Penilaian diisi ke dalam file excel Lembar Skor tsb. Pastikan skor keempat asesmen ini ada dalam file yang sama, masing-masing menggunakan satu baris, dengan urutan di atas. Berarti dimulai dengan baris berisi data Anda. Lalu update portal Anda, LALU LAPORKAN LINK FILE TERSEBUT KE MS FORM UTS <https://forms.cloud.microsoft/r/tF4pm04jUT>
+
+

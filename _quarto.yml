@@ -25,6 +25,8 @@ book:
     - kuliah/K-11a.qmd
     - kuliah/K-12.qmd
     - kuliah/K-13.qmd
+    - asesmen/uas-01.qmd
+    - asesmen/uas-03.qmd
     - summary.qmd
     - references.qmd
 
