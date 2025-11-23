@@ -6,14 +6,13 @@ Video Clip:<https://youtube.com/playlist?list=PL_m-BplfO92GYDdpY5ZKk7HVREye-Oma3
 
 Podcast : <https://youtu.be/YfNuqVdVz3I>
 
-
 ## Pendahuluan: Mengapa Gerak Tubuh Lebih Jujur dari Kata-kata?
 
 Jika kata-kata seseorang bertentangan dengan bahasa tubuhnya, mana yang akan Anda lebih percaya? Pertanyaan ini menyingkap sebuah kebenaran fundamental dalam interaksi manusia: kita berkomunikasi jauh lebih banyak daripada sekadar apa yang kita ucapkan. Ada sebuah "bahasa sunyi" (*the silent language*) yang terus-menerus kita gunakan, sering kali tanpa kita sadari. Inilah dunia komunikasi nonverbal.
 
 Menurut penelitian, komunikasi nonverbal sering kali dianggap lebih dapat dipercaya daripada komunikasi verbal, terutama ketika keduanya saling bertentangan. Kemampuan untuk memahami dan menggunakan bahasa sunyi ini adalah kunci untuk membangun kredibilitas (atau *ethos*), yang merupakan fondasi dari semua komunikasi yang efektif.
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## 1. Lima Karakteristik Utama Komunikasi Nonverbal
 
@@ -31,7 +30,7 @@ Untuk memahami kekuatannya, kita perlu mengenali lima karakteristik fundamental 
 
 Karakteristik ini menunjukkan betapa kuatnya bahasa sunyi. Selanjutnya, mari kita lihat bagaimana kita menggunakannya dalam fungsi sehari-hari.
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## 2. Enam Fungsi Penting dalam Interaksi Sehari-hari
 
@@ -51,14 +50,14 @@ Di luar karakteristik dasarnya, komunikasi nonverbal melayani enam fungsi utama 
 
 Fungsi-fungsi ini dikirim melalui berbagai saluran yang berbeda.
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## 3. Saluran Komunikasi: Bagaimana Pesan Nonverbal Dikirim?
 
 Pesan nonverbal dikirim dan diterima melalui berbagai "saluran". Memahami saluran ini membantu kita menjadi lebih peka dalam membaca isyarat orang lain.
 
 |  |  |  |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Saluran (Channel) | Contoh Sederhana | Pesan yang Disampaikan |
 | **Wajah & Mata** | Tersenyum, kontak mata, cemberut, membelalakkan mata. | Emosi (senang, marah), ketertarikan, perhatian, kejutan. |
 | **Gerak Tubuh & Postur** | Mengangguk, melambaikan tangan, postur tegap, membungkuk. | Persetujuan, sapaan, kepercayaan diri, rasa tidak nyaman. |
@@ -70,7 +69,7 @@ Meskipun ini adalah saluran utama, pesan nonverbal juga dapat dikirim melalui in
 
 Setelah memahami cara pesan ini dikirim, kita dapat melangkah lebih jauh: bagaimana isyarat kita sendiri dapat memengaruhi pikiran dan perasaan kita?
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## 4. Mengubah Diri dari Luar ke Dalam: Kekuatan "Power Posing"
 
@@ -90,7 +89,7 @@ Sebelum menghadapi situasi yang penuh tekanan (seperti wawancara, presentasi, at
 
 Tujuannya bukan untuk menunjukkan dominasi kepada orang lain, tetapi untuk mengubah kondisi internal Anda sendiri. Ini adalah aplikasi nyata dari konsep *"Fake it till you become it"* (Pura-pura sampai Anda menjadi seperti itu). Dengan mengubah postur, Anda mempersiapkan pikiran Anda untuk merasa lebih percaya diri dan tenang.
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## 5. Dua Langkah untuk Meningkatkan Keterampilan Nonverbal Anda
 
@@ -114,4 +113,3 @@ Menguasai komunikasi nonverbal tidak terjadi dalam semalam. Namun, seperti yang 
 8.  Dalam konteks ekspresi kekuasaan dan dominasi nonverbal, individu yang memiliki *high power* (kekuasaan tinggi) cenderung memiliki tingkat dua hormon kunci apa?
 9.  Perilaku nonverbal yang fokus pada mempertahankan luas daerah atau domain disebut *ruang*. Sebutkan empat tingkat domain ruang yang dijelaskan dalam sumber.
 10. Untuk meningkatkan keterampilan komunikasi nonverbal, dua saran utama yang diberikan adalah menjadi *peka* dan menjadi *ekspresif*. Jelaskan apa yang dimaksud dengan kemampuan untuk menjadi "peka" terhadap pesan nonverbal.
-
