@@ -18,53 +18,6 @@ Self Assessment menggunakan AI, sedangkan Peer Assessment dilakukan manual
 
 ## Asesmen UAS
 
-## A.1. Filosofi Penilaian: Mengukur Ko-Kreasi Naratif
-
-Rubrik ini tidak dirancang untuk menilai "kebenaran" objektif atau "jawaban yang benar". Sebaliknya, rubrik ini mengukur *kualitas* konstruksi naratif mahasiswa. Sesuai dengan paradigma TISE 2.0, yang mentransformasi tujuan rekayasa dari sekadar orkestrasi tugas menjadi ekosistem ko-kreasi naratif, penilaian ini bertujuan untuk mengevaluasi sejauh mana mahasiswa telah bertindak sebagai **"Protagonis-Penulis"** dari kisah pembelajaran mereka sendiri.^1^
-
-Fokus utama dari evaluasi ini adalah pada proses **Penalaran Otobiografis** (*Autobiographical Reasoning*).^1^ Penilaian ini mencari bukti kemampuan mahasiswa untuk merefleksikan pengalaman, menghubungkannya dengan konsep-konsep inti perkuliahan, dan secara aktif *menciptakan makna*.^2^ Dalam kerangka Triune Intelligence 2.0, ini adalah manifestasi dari **Axiological Intelligence (AQ)**—kecerdasan makna, nilai, dan tujuan.^2^ Portal "All About Me" adalah artefak digital dari **Identitas Naratif** ^1^ mahasiswa yang sedang berkembang. Oleh karena itu, penilaian ini menghargai koherensi, orisinalitas pemikiran, kedalaman refleksi, dan pertumbuhan pribadi yang ditunjukkan di atas segalanya.
-
-## A.2. Definisi Aspek Penilaian
-
-Empat aspek berikut akan dinilai secara holistik di seluruh empat bagian portal ('My Concepts', 'My Opinions', 'My Innovations', 'My Knowledge'). Penilaian yang terintegrasi ini penting untuk mendorong pemikiran holistik, yang merupakan inti dari TISE itu sendiri.
-
-1.  **Koherensi Naratif:**
-
-    -   **Deskripsi:** Menilai kemampuan mahasiswa untuk mengintegrasikan keempat bagian portal menjadi satu kesatuan cerita yang logis, konsisten, dan bermakna. Ini adalah cerminan dari **Identitas Naratif** yang koheren.^1^
-
-    -   **Pertanyaan Kunci:** Apakah 'My Concepts' mengalir secara logis ke 'My Opinions'? Apakah 'My Innovations' merupakan penerapan praktis dari konsep dan opini tersebut? Apakah 'My Knowledge' memberikan dasar yang kuat untuk ketiganya? Apakah ada 'benang merah' filosofis yang menyatukan keempat bagian tersebut menjadi satu argumen yang utuh?
-
-2.  **Agensi & Kepengarangan Diri (*Agency & Self-Authorship*):**
-
-    -   **Deskripsi:** Menilai tingkat kepemilikan, inisiatif, dan otonomi yang ditunjukkan dalam tulisan. Ini mencerminkan pilar **Agensi** dari TISE 2.0 (rasa menjadi aktor yang otonom dan efektif) ^1^ dan kompetensi AQ **Self-Authorship** (keterampilan sadar untuk membingkai peristiwa kehidupan seseorang ke dalam narasi yang memberdayakan).^2^
-
-    -   **Pertanyaan Kunci:** Apakah mahasiswa menulis dengan suara otentik mereka sendiri? Apakah mereka memposisikan diri sebagai aktor utama yang secara sadar membuat keputusan dan mengambil inisiatif, atau sebagai penerima pasif dari instruksi dan materi kuliah? Apakah konten tersebut orisinal dan reflektif?
-
-3.  **Wawasan Penebusan (*Redemptive Insight*):**
-
-    -   **Deskripsi:** Ini adalah aspek krusial dari AQ ^2^ dan TISE 2.0.^1^ Ini menilai kemampuan mahasiswa untuk mengidentifikasi tantangan, kegagalan, kebingungan, atau "narasi kontaminasi" (sebuah keadaan baik yang berubah menjadi buruk, $A_{pos} \rightarrow B_{neg}$) dan secara aktif membingkainya kembali menjadi "sekuens penebusan" (sebuah keadaan buruk yang menghasilkan hasil positif, $A_{neg} \rightarrow B_{pos}$).
-
-    -   **Pertanyaan Kunci:** Apakah mahasiswa jujur tentang kesulitan atau kegagalan dalam proses pembelajaran? Yang lebih penting, apakah mereka mendemonstrasikan **Penalaran Otobiografis** untuk mengekstrak makna, pertumbuhan, dan kebijaksanaan baru dari kesulitan tersebut, alih-alih hanya menggambarkannya sebagai kerugian atau menyalahkan faktor eksternal?
-
-4.  **Kedalaman Sintesis Konseptual:**
-
-    -   **Deskripsi:** Menilai kemampuan intelektual untuk mengambil konsep-konsep yang kompleks dan padat dari perkuliahan (misalnya, TISE, PUDAL, PSKVE, Triune Intelligence) dan mensintesisnya—bukan hanya meringkas—ke dalam narasi pribadi mereka. Ini mencerminkan komponen **Synergistic Practical Intelligence (PI-A)**, khususnya kompetensi **Systematic Synthesis**.^2^
-
-    -   **Pertanyaan Kunci:** Apakah mahasiswa benar-benar *menggunakan* terminologi TISE untuk menjelaskan dan membingkai dunia mereka? Apakah mereka menunjukkan pemahaman mendalam tentang *bagaimana* konsep-konsep ini saling berhubungan satu sama lain, atau apakah mereka hanya menyalin definisi dari materi perkuliahan?
-
-## A.3. Tabel 1: Rubrik Penilaian Holistik Portal "All About Me"
-
-Rasionalisasi: Sebuah tabel matriks tunggal digunakan alih-alih empat rubrik terpisah. Filosofi TISE 2.0 adalah tentang *integrasi holistik* dari sistem sosio-teknis.^1^ Menilai setiap bagian ('My Concepts', 'My Opinions', dll.) secara terpisah akan mendorong pemikiran silo, yang secara fundamental bertentangan dengan tujuan 'Koherensi Naratif'. Rubrik ini menilai keempat bagian *secara bersamaan* terhadap empat aspek naratif yang telah didefinisikan.
-
-|  |  |  |  |  |
-|----|----|----|----|----|
-| **Kategori** | **Koherensi Naratif (Integrasi)** | **Agensi & Kepengarangan Diri (Kepemilikan)** | **Wawasan Penebusan (Pertumbuhan)** | **Kedalaman Sintesis Konseptual (Pemahaman)** |
-| **Sangat Memuaskan** | Keempat bagian terjalin secara mulus menjadi satu *master narrative* yang koheren, kuat, dan konsisten. Benang merah filosofis terlihat jelas dari awal hingga akhir. | Menunjukkan *Self-Authorship* yang luar biasa. Tulisan sangat personal, reflektif, dan penuh inisiatif. Mahasiswa jelas memposisikan diri sebagai **Protagonis-Penulis** dari cerita mereka.^1^ | Secara eksplisit mengidentifikasi tantangan/kegagalan besar dan melakukan **Penalaran Otobiografis** yang mendalam untuk mengubahnya menjadi wawasan penebusan ($A_{neg} \rightarrow B_{pos}$) yang transformatif.^1^ | Mensintesis konsep-konsep TISE yang paling kompleks (misalnya, ASTF, AQ, PUDAL) secara mendalam dan orisinal, menggunakannya untuk membingkai argumen pribadi. Jelas *berpikir dengan* TISE, bukan *tentang* TISE. |
-| **Memuaskan** | Keempat bagian sebagian besar koheren dan terhubung dengan baik. Alur logisnya jelas, meskipun mungkin ada beberapa transisi yang lemah antar bagian. | Menunjukkan agensi yang kuat. Tulisan menggunakan suara pribadi yang jelas dan menunjukkan kepemilikan atas ide-ide. Mahasiswa adalah aktor utama dalam narasi mereka. | Mengidentifikasi tantangan dan mendiskusikan pelajaran yang didapat. Proses penebusan hadir dan bermakna, meskipun mungkin tidak setransformatif kategori Sangat Memuaskan. | Mensintesis konsep-konsep inti TISE secara akurat dan menerapkannya dengan benar pada argumen pribadi. Menunjukkan pemahaman yang solid dan fungsional. |
-| **Cukup Memuaskan** | Narasi terasa terfragmentasi. Keempat bagian ada, tetapi koneksi di antaranya bersifat superfisial atau harus disimpulkan oleh pembaca. Terasa seperti empat tugas terpisah. | Agensi bersifat pasif atau reaktif. Tulisan cenderung deskriptif ("Saya melakukan ini karena disuruh") daripada reflektif ("Saya memutuskan ini karena..."). Kepengarangan diri minimal. | Menyebutkan tantangan atau kesulitan, tetapi cenderung hanya menggambarkannya sebagai "narasi kontaminasi" ($A_{pos} \rightarrow B_{neg}$) ^1^ tanpa membingkainya kembali sebagai penebusan. Pelajaran yang didapat bersifat klise atau dangkal. | Menggunakan konsep-konsep TISE, tetapi pemahamannya seringkali superfisial. Lebih banyak mendefinisikan istilah daripada mensintesis atau menerapkannya secara orisinal. |
-| **Kurang Memuaskan** | Keempat bagian terasa sangat terputus-putus, acak, atau kontradiktif. Tidak ada upaya yang terlihat untuk membangun narasi yang koheren. | Tidak menunjukkan agensi. Suara penulis tidak ada, digantikan oleh salinan materi kuliah atau pernyataan umum. Menampilkan mentalitas korban atau pengamat pasif. | Menghindari diskusi tentang tantangan, atau jika disebutkan, menyalahkan faktor eksternal. Tidak ada refleksi, tidak ada penebusan, tidak ada pertumbuhan yang ditunjukkan. | Gagal menggunakan konsep TISE secara akurat. Banyak miskonsepsi atau penggunaan istilah yang salah, menunjukkan kurangnya pemahaman mendasar. |
-| **Tidak Memuaskan** | Satu atau lebih bagian hilang secara substansial. Konten yang dikirimkan tidak relevan, tidak koheren, atau tidak menunjukkan upaya yang sungguh-sungguh. |  |  |  |
-
 
 ## Instruksi
 

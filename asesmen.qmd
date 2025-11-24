@@ -139,7 +139,7 @@ Berisikan suatu pandangan mengenai bagaimana sikap, keputusan, atau tindakan ter
 
 Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas berkomunikasi KIPP
 
-[Rubrik UAS-3: My Innovation](./asesmen/Rubrik_II-2100_CSV/UAS-2.csv)
+[Rubrik UAS-3: My Innovation](./asesmen/Rubrik_II-2100_CSV/UAS-3.csv)
 
 
 
@@ -147,7 +147,7 @@ Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivi
 
 Berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini.
 
-[Rubrik UAS -2: Song For You](./asesmen/Rubrik_II-2100_CSV/UAS -2.csv)
+[Rubrik UAS-4: My Knowledge](./asesmen/Rubrik_II-2100_CSV/UAS-4.csv)
 
 
 
