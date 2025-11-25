@@ -174,7 +174,7 @@ Lakukan:
 3.  Peer-Assessment 2 Tanpa AI (Skor 4)
 4.  Peer-Assessment 3 Tanpa AI (Skor 4, bonus)
 
-Skor Penilaian diisi ke dalam file excel [Lembar Skor](./asesmen/UAS-5_Skor.xlsx). Isi skor keempat asesmen ini dalam file yang sama, masing-masing menggunakan satu baris, dengan urutan di atas. Berarti dimulai dengan baris berisi data Anda. Hasil ini disimpan di repositori anda di folder UAS-5, link kan ke portal anda pada bagian UAS-5, LALU LAPORKAN LINK FILE TERSEBUT KE MS FORM UAS-1 (TBD)
+Skor Penilaian diisi ke dalam file excel [Lembar Skor](./asesmen/UTS-5_Skor.xlsx). Isi skor keempat asesmen ini dalam file yang sama, masing-masing menggunakan satu baris, dengan urutan di atas. Berarti dimulai dengan baris berisi data Anda. Hasil ini disimpan di repositori anda di folder UAS-5, link kan ke portal anda pada bagian UAS-5, LALU LAPORKAN LINK FILE TERSEBUT KE MS FORM UAS-1 (TBD)
 
 
 
