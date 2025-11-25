@@ -1,5 +1,14 @@
 # Selamat Datang {.unnumbered}
 
+:::{.callout-note}
+Kuesioner VALORIZE
+Dalam rangka riset pengembangan pembelajaran di era AI maka dimohon kesediaan rekan-rekan mahasiswa untuk memeberikan pendapatnya di kuestioner ini.
+
+<https://s.id/kuesionervalorize-igb>
+
+Terimakasih atas kesediaannya
+:::
+
 ## **SILABUS MATA KULIAH**
 
 **Nama Mata Kuliah:** Komunikasi Interpersonal dan Publik  **Kode Mata Kuliah:** II2100  **SKS:** 2  **Penyelenggara:** Sistem dan Teknologi Informasi / STEI  **Semester:** Ganjil 2025/2026 **Dosen Pengampu:** Armein Z. R. Langi

@@ -122,7 +122,7 @@ Skor Penilaian diisi ke dalam file excel [Lembar Skor](./asesmen/UTS-5_Skor.xlsx
 Berisikan suatu penjelasan atas suatu fenomena yang penting, dengan tujuan untuk mengkomunikasikan keistimewaan pengetahuan yang kita miliki. Penjelasan singkat apa itu konsep dapat di lihat di sini: {{< video https://youtu.be/DxK-_0AzHiw?si=5lpAur3wWtiOyUDV>}}
 
 
-[Rubrik UAS-1: My Concepts](./asesmen/Rubrik_II-2100_CSV/UAS-1.csv)
+[Rubrik UAS-1: My Concepts](./asesmen/Rubrik_II-2100_CSV/rubric_UAS1_MyConcepts.csv)
 
 
 
@@ -131,7 +131,7 @@ Berisikan suatu penjelasan atas suatu fenomena yang penting, dengan tujuan untuk
 Berisikan suatu pandangan mengenai bagaimana sikap, keputusan, atau tindakan terbaik yang harus diambil dalam menghadapiu suatu kondisi atau perkembangan
 
 
-[Rubrik UAS-2: My Opiniun](./asesmen/Rubrik_II-2100_CSV/UAS-2.csv)
+[Rubrik UAS-2: My Opinions](./asesmen/Rubrik_II-2100_CSV/rubric_UAS2_MyOpinions.csv)
 
 
 
@@ -139,7 +139,7 @@ Berisikan suatu pandangan mengenai bagaimana sikap, keputusan, atau tindakan ter
 
 Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivitas berkomunikasi KIPP
 
-[Rubrik UAS-3: My Innovation](./asesmen/Rubrik_II-2100_CSV/UAS-3.csv)
+[Rubrik UAS-3: My Innovation](./asesmen/Rubrik_II-2100_CSV/rubric_UAS3_MyInnovations.csv)
 
 
 
@@ -147,16 +147,16 @@ Berisikan desain suatu produk atau layanan yang membangun kapasitas dan efektivi
 
 Berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam kuliah ini.
 
-[Rubrik UAS-4: My Knowledge](./asesmen/Rubrik_II-2100_CSV/UAS-4.csv)
+[Rubrik UAS-4: My Knowledge](./asesmen/Rubrik_II-2100_CSV/rubric_UAS4_MyKnowledge.csv)
 
 
 
 ### UAS-5 My Professional Reviews
 
-Berisikan telaahan pesan publik berdasarkan rubrik. \## Teknis Pelaksanaan, Pengumpulan, dan Penilaian
+Berisikan telaahan pesan publik berdasarkan rubrik.
 
 
-[Rubrik UAS -2: Song For You](./asesmen/Rubrik_II-2100_CSV/UAS -2.csv)
+[Rubrik UAS -2: Song For You](./asesmen/Rubrik_II-2100_CSV/UAS-5.csv)
 
 
 
