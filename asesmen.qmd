@@ -98,7 +98,9 @@ Berisikan laporan siapa Anda berdasar asesmen VIA, Piagam Diri dan Identitas Nar
 
 ### UTS-5 My Personal Review,
 
-Berisikan telahan pesan personal UTS-1 s/d UTS-4 berdasarkan rubrik masing-masing. Anda diminta melakukan Self Assesment dan Peer Assessment menggunakan rubrik yang ada.
+Berisikan telahan pesan personal UTS-1 s/d UTS-4 berdasarkan rubrik masing-masing. 
+
+Anda diminta melakukan Self Assesment dan Peer Assessment menggunakan rubrik yang ada.
 
 Self Assessment menggunakan AI, sedangkan Peer Assessment dilakukan manual
 
@@ -155,8 +157,24 @@ Berisikan pengetahuan dan pembelajaran bagi masyarakat atas suatu topik dalam ku
 
 Berisikan telaahan pesan publik berdasarkan rubrik.
 
+Anda diminta melakukan Self Assesment dan Peer Assessment menggunakan rubrik yang ada.
 
-[Rubrik UAS -2: Song For You](./asesmen/Rubrik_II-2100_CSV/UAS-5.csv)
+Self Assessment menggunakan AI, sedangkan Peer Assessment dilakukan manual
+
+::: callout-warning
+## Bahan Peer Assignmen Baru VALID Nanti Saat UAS
+
+Daftar URL untuk Peer Assessment sama dengan  saat UTS. Jadi meskipun Anda bisa mencoba sebelum UAS, pastikan yang anda laporkan materi yang tersedia saat UAS.
+:::
+
+Lakukan:
+
+1.  Self-Assessment menggunakan AI (Skor 2)
+2.  Peer-Assessment 1 Tanpa AI (Skor 4)
+3.  Peer-Assessment 2 Tanpa AI (Skor 4)
+4.  Peer-Assessment 3 Tanpa AI (Skor 4, bonus)
+
+Skor Penilaian diisi ke dalam file excel [Lembar Skor](./asesmen/UAS-5_Skor.xlsx). Isi skor keempat asesmen ini dalam file yang sama, masing-masing menggunakan satu baris, dengan urutan di atas. Berarti dimulai dengan baris berisi data Anda. Hasil ini disimpan di repositori anda di folder UAS-5, link kan ke portal anda pada bagian UAS-5, LALU LAPORKAN LINK FILE TERSEBUT KE MS FORM UAS-1 (TBD)
 
 
 
