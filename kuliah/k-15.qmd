@@ -12,9 +12,11 @@ Kuiz: <https://forms.office.com/r/5JN6rKaHHA>
 
 [Slides Pendukung](../bahan/K15-Keindahan_Komunikasi_Diri.pdf)
 
+[Slides Interesting](../bahan/K-13-Seni_Berpikir_Konstruktif.pdf)
 
+[Opini](../bahan/K-15-Pikiran_Yang_Indah_Seni_Meracik_Opini.pdf)
 
-### Pendahuluan: Memahami Keindahan yang Sesungguhnya
+## Pendahuluan: Memahami Keindahan yang Sesungguhnya
 
 ![Beautiful Person](../bahan/k-15_beauty.png)
 
@@ -28,9 +30,9 @@ Layaknya seorang aktor di atas panggung, cara kita menampilkan diri, berbicara, 
 
 --------------------------------------------------------------------------------
 
-### 1. Dimensi Pertama: Keindahan Tubuh (Visual) - Panggung Anda
+## 1. Dimensi Pertama: Keindahan Tubuh (Visual) - Panggung Anda
 
-#### Penampilan Panggung
+### Penampilan Panggung
 
 Dimensi pertama dari keindahan adalah apa yang terlihat oleh mata. Ini adalah panggung kita, tempat kita menampilkan diri melalui komunikasi non-verbal. Setiap elemen visual yang kita tampilkan mengirimkan pesan kepada orang lain sebelum kita sempat mengucapkan sepatah kata pun.
 
@@ -48,13 +50,13 @@ Namun, penampilan visual hanyalah babak pembuka; dialog yang kita bawakanlah yan
 
 --------------------------------------------------------------------------------
 
-### 2. Dimensi Kedua: Keindahan Pikiran (Ucapan) - Dialog Anda
+## 2. Dimensi Kedua: Keindahan Pikiran (Ucapan) - Dialog Anda
 
 ![Seni dialog](../bahan/K-15_interesting.png)
 
 Keindahan pikiran tidak terlihat, tetapi terdengar dan terasa melalui "Dialog"—cara kita berpikir, berbicara, dan merespons. Inilah naskah yang menentukan kedalaman karakter yang kita perankan.
 
-#### 2.1. Seni Berdialog
+### 2.1. Seni Berdialog
 
 Berkomunikasi dengan indah adalah sebuah seni yang berpusat pada satu filosofi: menciptakan ruang percakapan yang nyaman bagi orang lain. Berikut adalah fondasi untuk membangun dialog yang memikat:
 
@@ -66,7 +68,7 @@ Berkomunikasi dengan indah adalah sebuah seni yang berpusat pada satu filosofi: 
 
 -   **Cara Menjawab** Memberikan jawaban yang bernas, penuh pertimbangan, dan tidak terburu-buru adalah cerminan dari pikiran yang jernih dan terstruktur.
 
-#### 2.2. Kerangka Berpikir yang Indah: Enam Topi Bono
+### 2.2. Kerangka Berpikir yang Indah: Enam Topi Bono
 
 Di balik dialog yang indah, terdapat kerangka berpikir yang terstruktur. Kerangka ini memungkinkan kita untuk mendekati percakapan dengan fleksibilitas dan kedalaman, memastikan kita tidak terjebak dalam satu cara berpikir saja, tetapi mampu menavigasi sebuah diskusi secara holistik. Metode "Enam Topi Berpikir" dari Edward de Bono menawarkan kerangka kerja yang kuat untuk tujuan ini.
 
@@ -83,9 +85,10 @@ Di balik dialog yang indah, terdapat kerangka berpikir yang terstruktur. Kerangk
 Ketika pikiran yang terstruktur bertemu dengan niat yang tulus, kita mulai menyentuh dimensi keindahan yang paling dalam: keindahan hati.
 
 ![Berkonsep](../bahan/k-15_konsep.png)
+
 --------------------------------------------------------------------------------
 
-### 3. Dimensi Ketiga: Keindahan Hati (Perasaan) - Sutradara Batin Anda
+## 3. Dimensi Ketiga: Keindahan Hati (Perasaan) - Sutradara Batin Anda
 
 Aktris legendaris Sophia Loren menangkap esensi dari dimensi keindahan terdalam ini dengan sempurna:
 
@@ -103,7 +106,7 @@ Pada intinya, **Hati yang Indah adalah Hati yang Mencintai**. Tujuan dari sebuah
 
 --------------------------------------------------------------------------------
 
-### Kesimpulan: Harmoni Tiga Dimensi
+## Kesimpulan: Harmoni Tiga Dimensi
 
 Keindahan sejati bukanlah entitas tunggal, melainkan sebuah harmoni dari tiga dimensi yang saling melengkapi:
 
