@@ -1,12 +1,22 @@
 # Kuliah 15: Menjadi Pribadi yang Indah: Sebuah Perspektif Komunikasi
 
+![Beauty](../bahan/K-15_beauty_2.png)
+
 [Video Clip](https://youtube.com/playlist?list=PL_m-BplfO92F6IU_N9ZE3b8-vjDgDOHV2&si=GsLXtAtKPzTrOIe9)
 
 Kuiz: <https://forms.office.com/r/5JN6rKaHHA>
 
+[Slides Pembukaan](../bahan/K-15_Anatomi_Sang_Beautiful_Person.pdf)
+
+[Slide Utama](../slides/Be%20a%20Beautiful%20Person%202024.pdf)
+
+[Slides Pendukung](../bahan/K15-Keindahan_Komunikasi_Diri.pdf)
+
+
+
 ### Pendahuluan: Memahami Keindahan yang Sesungguhnya
 
-![Beautiful Person](../bahan/beauty.png)
+![Beautiful Person](../bahan/k-15_beauty.png)
 
 Filsuf Confucius pernah berkata:
 
@@ -40,7 +50,7 @@ Namun, penampilan visual hanyalah babak pembuka; dialog yang kita bawakanlah yan
 
 ### 2. Dimensi Kedua: Keindahan Pikiran (Ucapan) - Dialog Anda
 
-![Seni dialog](../bahan/interesting.png)
+![Seni dialog](../bahan/K-15_interesting.png)
 
 Keindahan pikiran tidak terlihat, tetapi terdengar dan terasa melalui "Dialog"—cara kita berpikir, berbicara, dan merespons. Inilah naskah yang menentukan kedalaman karakter yang kita perankan.
 
@@ -72,7 +82,7 @@ Di balik dialog yang indah, terdapat kerangka berpikir yang terstruktur. Kerangk
 
 Ketika pikiran yang terstruktur bertemu dengan niat yang tulus, kita mulai menyentuh dimensi keindahan yang paling dalam: keindahan hati.
 
-![Berkonsep](../bahan/konsep.png)
+![Berkonsep](../bahan/k-15_konsep.png)
 --------------------------------------------------------------------------------
 
 ### 3. Dimensi Ketiga: Keindahan Hati (Perasaan) - Sutradara Batin Anda

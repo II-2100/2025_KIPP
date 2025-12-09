@@ -1,16 +1,12 @@
 # Kuliah 13: Masterpiece: Author Yourself
 
-:::{.callout-important}
+::: callout-important
 Kuliah ONLINE Gabungan K01 dan K03 Selasa, 15:00-17:00 <https://meet.google.com/afj-qgdo-wxr>
 
 II-2100 Komunikasi Interpersonal dan Publik Tuesday, 3:00 – 5:00pm Time zone: Asia/Jakarta Google Meet joining info Video call link: <https://meet.google.com/afj-qgdo-wxr>
 :::
 
-
-
-Buatlah sebuah kisah otobiografi anda hasil workshop hari ini, simpan dalam file PDF ke cloud pilihan anda, lalu laporkan link nya ke form 
-[Submisi Tugas](https://forms.office.com/r/mZL0Fdc5Cd)
-
+Buatlah sebuah kisah otobiografi anda hasil workshop hari ini, simpan dalam file PDF ke cloud pilihan anda, lalu laporkan link nya ke form [Submisi Tugas](https://forms.office.com/r/mZL0Fdc5Cd)
 
 Untuk bisa amenyusun nya dengan baik, pelajari [Panduan](k-13a.pdf) dan [Glossary](k-13b.pdf) lalu ikuti workshop di bawah ini untuk menyusun elemen nenurut [Template](MyStoryWorkshop.docx)
 
@@ -26,7 +22,7 @@ Kepemimpinan naratif adalah kerangka kerja yang bergerak melampaui penceritaan s
 
 Dokumen ini akan memandu Anda melalui perjalanan transformatif untuk menjadi penulis yang lebih sadar atas kepemimpinan Anda. Perjalanan ini terbagi menjadi tiga bagian utama. **Bagian I: Sains di Balik Cerita Kepemimpinan**, akan membongkar fondasi psikologis dari identitas naratif. **Bagian II: Lokakarya Pemimpin**, akan menyediakan alat praktis untuk menganalisis masa lalu, merancang masa depan, dan menulis ulang kisah yang membatasi. Terakhir, **Bagian III: Kepemimpinan Naratif dalam Aksi**, akan menunjukkan bagaimana prinsip-prinsip ini dihidupkan oleh para pemimpin paling berpengaruh di dunia. Mari kita mulai dengan menjelajahi prinsip-prinsip psikologis fundamental yang membentuk siapa diri kita sebagai pemimpin.
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## Bagian I: Sains di Balik Cerita Kepemimpinan: Memahami "Mengapa"
 
@@ -86,7 +82,7 @@ Para pemimpin yang unggul tidak hanya menceritakan kembali apa yang terjadi; mer
 
 Kebenaran yang paling mendalam bagi seorang pemimpin adalah ini: kualitas karier Anda tidak ditentukan oleh ada atau tidaknya peristiwa negatif, tetapi oleh *kemampuan Anda untuk menemukan makna di dalamnya*. Keterampilan yang paling krusial bukanlah kekuatan untuk menghindari kesulitan, melainkan seni interpretasi naratif yang terlatih. Setelah memahami teori di balik cerita kepemimpinan, kini saatnya kita beralih ke lokakarya praktis untuk mulai menerapkannya.
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## Bagian II: Lokakarya Pemimpin: Mendesain Narasi Anda "Bagaimana"
 
@@ -141,7 +137,7 @@ Selama bertahun-tahun, para profesional diajarkan untuk merencanakan masa depan 
 Tabel berikut membandingkan kedua pendekatan ini:
 
 |  |  |  |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Dimensi | **Penetapan Target Tradisional** | **Misi Berbasis Narasi** |
 | **Fokus Inti** | **Hasil** (Apa yang saya dapatkan?) | **Perjalanan** (Saya menjadi siapa?) |
 | **Sumber Motivasi** | **Eksternal** (Metrik, pencapaian) | **Internal** (Makna, nilai-nilai) |
@@ -188,7 +184,7 @@ Berikut adalah perangkat untuk menulis ulang narasi yang tidak lagi melayani And
 
 Tujuan akhirnya bukanlah untuk menciptakan satu cerita yang sempurna, tetapi untuk mengembangkan **fleksibilitas naratif**—kemampuan yang tangguh untuk menghadapi setiap liku plot dan mengintegrasikannya sebagai sumber pertumbuhan, bukan kekalahan. Setelah menyelesaikan pekerjaan internal ini, mari kita lihat bagaimana prinsip-prinsip ini terwujud dalam tindakan para pemimpin yang berpengaruh.
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## Bagian III: Kepemimpinan Naratif dalam Aksi: Menerapkan "Bukti"
 
@@ -240,7 +236,7 @@ Brené Brown juga mengidentifikasi dua "musuh dekat" yang merusak praktik ini, y
 
 Menerapkan penatalayanan cerita secara aktif adalah kunci untuk membina hubungan yang otentik dan membangun fondasi kepercayaan yang kokoh di dalam tim. Praktik inilah yang menyatukan seluruh kerangka kerja ini.
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ### Kesimpulan: Pena Ada di Tangan Anda
 
