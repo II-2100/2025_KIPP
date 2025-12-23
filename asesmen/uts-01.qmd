@@ -1,12 +1,5 @@
 # Ujian Tengah Semester Kelas 01 {.unnumbered}
 
-:::{.callout-important}
-
-UAS ONLINE K01 RABU, 24 Desember 2025 12:30-15:30 <https://meet.google.com/afj-qgdo-wxr>
-
-
-:::
-
 
 {{< include /asesmen/uts.qmd >}}
 

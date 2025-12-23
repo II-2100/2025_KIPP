@@ -1,12 +1,5 @@
 # Ujian Tengah Semester Kelas 03 {.unnumbered}
 
-:::{.callout-important}
-
-UAS ONLINE K03 RABU, 24 Desember 2025 12:30-15:30 <https://meet.google.com/vop-gcfa-cav>
-
-
-:::
-
 
 {{< include /asesmen/uts.qmd >}}
 
