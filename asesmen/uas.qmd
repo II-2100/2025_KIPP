@@ -18,6 +18,9 @@ Self Assessment menggunakan AI, sedangkan Peer Assessment dilakukan manual
 
 ## Asesmen UAS
 
+::: {.callout-important}
+Penilaian berdasarkan rubrik dicatat di sebuah file spreadsheet 'UAS-5_Skor.xlsx'. File ini berisikan 4 (empat) sheets. Pastikan semua sheets ini diisi.
+:::
 
 ## Instruksi
 
