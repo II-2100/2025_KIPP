@@ -1,10 +1,10 @@
 # Laporan Submisi UAS II-2100 — Kelas 03
 
 - Total mahasiswa: **41**
-- Sudah submit: **34**
-- Belum submit: **7**
+- Sudah submit: **31**
+- Belum submit: **10**
 
-| NO | NAMA | NIM | URL Tugas |
+| NO | NAMA | NIM | URL Tugas UTS |
 |---:|---|---|---|
 | 1 | Rian Albar Insani | 11422020 | [link](https://github.com/RianInsani/all-about-me/tree/main/All_About_me) |
 | 2 | Rifki Fariz Farabi | 11422030 | [link](https://github.com/rifkifaris45-cyber/all-about-me) |
@@ -25,11 +25,11 @@
 | 17 | Muhammad Farrel Wibowo | 13523153 | Belum Submit |
 | 18 | M. Abizzar Gamadrian | 13523155 | [link](https://abizzarg.github.io/all-about-me/All_About_me/) |
 | 19 | Arlow Emmanuel Hergara | 13523161 | [link](https://arlowstei.github.io/all-about-me/) |
-| 20 | Fachriza Ahmad Setiyono | 13523162 | [link](https://l4mbads.github.io/all-about-me/) |
+| 20 | Fachriza Ahmad Setiyono | 13523162 | Belum Submit |
 | 21 | Filbert Engyo | 13523163 | [link](https://filbertengyo.github.io/all-about-me/) |
 | 22 | Muhammad Rizain Firdaus | 13523164 | [link](https://inriza.github.io/all-about-me/) |
 | 23 | Jasmine Oryza Keinina Bangun | 14324005 | [link](https://jasmineoryzaa.github.io/all-about-me/) |
-| 24 | Ayudia Nisrina Tsabitah | 14324016 | [link](https://ayudiant.github.io/UTSKOMINTERAYUDIA/) |
+| 24 | Ayudia Nisrina Tsabitah | 14324016 | Belum Submit |
 | 25 | Nashwa Kamila | 14324017 | [link](https://nashwakamila.github.io/UTSKominterNashwa/) |
 | 26 | Andreas Saputra Tambun | 18224110 | [link](https://andreas916.github.io/utsKominter-all-about-me/) |
 | 27 | Raditya Nanda Dhevara | 18224111 | [link](https://rndheva.github.io/Kominter-Depzkuy/) |
@@ -38,7 +38,7 @@
 | 30 | Daniel Wicaksana Godjali | 18224114 | Belum Submit |
 | 31 | Muhammad Arkan Dhaifullah | 18224116 | [link](https://arkandhaf.github.io/all-about-me/index.html) |
 | 32 | Stephanie Mae | 18224117 | [link](https://tepchu.github.io/Kominter2025/) |
-| 33 | Brandon Zeko Alexander | 18224118 | [link](https://wp18224118-gcluz.wordpress.com/?_gl=1*fhyz6z*_gcl_au*NDYwNjEyNzg0LjE3NjE4MTYzODYuODY3MDgzOTc2LjE3NjE5MTgzODQuMTc2MTkxODgyOA) |
+| 33 | Brandon Zeko Alexander | 18224118 | Belum Submit |
 | 34 | Firanti Naulia Fasya | 18224119 | [link](https://firafasya.github.io/all-about-me/) |
 | 35 | Ibrahim Ferizarizqi Permana | 18224120 | [link](https://ibr4him-ctrl.github.io/) |
 | 36 | Aisyah Az Zahra | 18224121 | [link](https://eskrimikan.github.io/UTS_Kominter/) |

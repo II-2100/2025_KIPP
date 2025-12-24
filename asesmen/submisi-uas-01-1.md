@@ -1,10 +1,10 @@
 # Laporan Submisi UAS II-2100 — Kelas 01
 
 - Total mahasiswa: **74**
-- Sudah submit: **70**
-- Belum submit: **4**
+- Sudah submit: **69**
+- Belum submit: **5**
 
-| NO | NAMA | NIM | URL Tugas |
+| NO | NAMA | NIM | URL Tugas UTS |
 |---:|---|---|---|
 | 1 | Ulivia Embun Tresna Wardani | 10322015 | Belum Submit |
 | 2 | Daffari Adiyatma | 18222003 | [link](https://jackund25.github.io/all-about-me/) |
@@ -44,8 +44,8 @@
 | 36 | Rezky Muhammad Hafiz Batubara | 18224033 | [link](https://skyx59.github.io/18224033-AsesmenII2100/All_About_me/) |
 | 37 | Stella Cometta Febriana | 18224035 | [link](https://18224035-dotcom.github.io/Portofolio-UTS-18224035/) |
 | 38 | Indah Ramadhani | 18224037 | [link](https://indahr118.github.io/all-about-me/) |
-| 39 | Luthfi Al Pasha | 18224039 | [link](https://pashaaaaaaaaaaa.github.io/all_about_me/) |
-| 40 | Irghi Satya Priangga | 18224041 | [link](https://docs.google.com/spreadsheets/d/14zJ6EDo_JI2tT475JpcLC1G0AMg8e81CLOIqka9szG8/edit?usp=sharing   |   https://hippochld8.github.io/all-about-me-irghisp/) |
+| 39 | Luthfi Al Pasha | 18224039 | Belum Submit |
+| 40 | Irghi Satya Priangga | 18224041 | [link](https://hippochld8.github.io/all-about-me-irghisp/) |
 | 41 | Aldyto Rafif Abhinaya | 18224043 | [link](https://aldytorafif05.github.io/18224043_Aldyto-Rafif_UTS-Kominter/) |
 | 42 | Muthia Ariesta Anggraeni | 18224045 | [link](https://muthiariesta.github.io/Kominter/) |
 | 43 | Daniel Benaya Toar Supaath | 18224047 | [link](https://danielbnaya.github.io/all-about-me) |
@@ -63,7 +63,7 @@
 | 55 | Ellaine Juvina | 18224071 | [link](https://aucloire.github.io/all-about-me/) |
 | 56 | Abdullah Ahmad Yusuf | 18224073 | [link](https://yoeztzy.github.io/all-about-me/) |
 | 57 | Sherry Eunike | 18224075 | [link](https://gasukabawang.github.io/all-about-me/) |
-| 58 | Naufalziyadh Alif Bintang S | 18224077 | [link](https://itsoxiris.github.io/all-about-me/) |
+| 58 | Naufalziyadh Alif Bintang S | 18224077 | [link](https://github.com/ItsOxiris/all-about-me) |
 | 59 | Rafi Putra Nugraha | 18224079 | [link](https://duskoid.github.io/) |
 | 60 | Illona Nasywa Hannum | 18224081 | [link](https://buahkol.github.io/) |
 | 61 | Antania Hanjani Yustika Putri | 18224083 | [link](https://hantaniaa.github.io/all-about-me/) |
@@ -75,7 +75,7 @@
 | 67 | Sirojul Firdaus | 18224095 | [link](https://sirojulfirdaus.github.io/kipp-all-about-me/) |
 | 68 | Lukman Hakim Syah Ardhana | 18224097 | [link](https://lukmanhakimsa.github.io/all-about-me/) |
 | 69 | Muhammad Afif Habiburrahman | 18224099 | [link](https://fifiyy.github.io/all-about-me/) |
-| 70 | Jacko Luciano | 18224101 | [link](https://jackoluciano.github.io/all-about-me/index.html) |
+| 70 | Jacko Luciano | 18224101 | [link](jackoluciano.github.io/all-about-me) |
 | 71 | Haidarrozan Pramasony | 18224103 | [link](https://oxanovijk.github.io/18224103-Kominter/) |
 | 72 | Kyan Saktya Diraya | 18224105 | [link](https://kyanureeves.github.io/all-about-me/) |
 | 73 | Laurensius Dani Rendragraha | 18224107 | [link](https://laurensiusdani.github.io/all-about-me/) |
