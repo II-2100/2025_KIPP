@@ -1,4 +1,4 @@
-# Laporan Submisi UTS II-2100 — Kelas 01
+# Laporan Submisi UAS II-2100 — Kelas 01
 
 - Total mahasiswa: **74**
 - Sudah submit: **69**
