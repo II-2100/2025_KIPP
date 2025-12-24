@@ -18,10 +18,13 @@ Self Assessment menggunakan AI, sedangkan Peer Assessment dilakukan manual
 
 ## Asesmen UAS
 
+::: {.callout-important}
+Penilaian berdasarkan rubrik dicatat di sebuah file spreadsheet 'UAS-5_Skor.xlsx'. File ini berisikan 4 (empat) sheets. Pastikan semua sheets ini diisi.
+:::
 
 ## Instruksi
 
-1. Bila belum punya, download file excel [Lembar Skor](./asesmen/UAS-5_Skor.xlsx). File ini disimpan di repositori anda dengan di sarankan di folder UAS-5, lalu link kan ke portal anda pada bagian UTS-5
+1. Bila belum punya, download file excel [Lembar Skor](./UAS-5_Skor.xlsx). File ini disimpan di repositori anda dengan di sarankan di folder UAS-5, lalu link kan ke portal anda pada bagian UTS-5
 2. Bila belum, lakukan Self-Assessment menggunakan AI (Skor 2) dan catat skor nya pada baris teratas Lembar Skor 
 3. Lihat daftar penugasan Peer 1, Peer 2, Peer 3. Bila Anda menemukan submisi Peer tidak bisa dinilai (baik karena belum submit, link bermasalah, atau tidak ada isi yang bisa di nilai), beri skor 0.
 4. Lakukan Peer-Assessment 1 Tanpa AI pada Peer 1 (Skor 4) dan catat skornya pada baris kedua Lembar Skor
