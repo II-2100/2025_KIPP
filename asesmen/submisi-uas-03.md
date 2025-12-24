@@ -1,14 +1,14 @@
 # Laporan Submisi UAS II-2100 — Kelas 03
 
 - Total mahasiswa: **41**
-- Sudah submit: **34**
-- Belum submit: **7**
+- Sudah submit: **35**
+- Belum submit: **6**
 
 | NO | NAMA | NIM | URL Tugas |
 |---:|---|---|---|
 | 1 | Rian Albar Insani | 11422020 | [link](https://github.com/RianInsani/all-about-me/tree/main/All_About_me) |
 | 2 | Rifki Fariz Farabi | 11422030 | [link](https://github.com/rifkifaris45-cyber/all-about-me) |
-| 3 | Rhio Bimo Prakoso Sugiyanto | 13523123 | [link](https://cola1000.github.io/all-about-me/) |
+| 3 | Rhio Bimo Prakoso Sugiyanto | 13523123 | [link](https://cola1000.github.io/all-about-me) |
 | 4 | Muhammad Raihaan Perdana | 13523124 | [link](https://fliegenhaan.github.io/all-about-me/) |
 | 5 | Dita Maheswari | 13523125 | [link](https://all-about-me-ditmahes.vercel.app/) |
 | 6 | Andi Farhan Hidayat | 13523128 | [link](https://andi-frame.github.io/all-about-me/) |
@@ -21,7 +21,7 @@
 | 13 | Mahesa Fadhillah Andre | 13523140 | [link](https://mahesa005.github.io/all-about-me/) |
 | 14 | Andrew Tedjapratama | 13523148 | Belum Submit |
 | 15 | Naufarrel Zhafif Abhista | 13523149 | [link](https://all-about-me.naufarrel.tech) |
-| 16 | Muhammad Kinan Arkansyaddad | 13523152 | Belum Submit |
+| 16 | Muhammad Kinan Arkansyaddad | 13523152 | [link](https://kin-ark.github.io/all-about-me/) |
 | 17 | Muhammad Farrel Wibowo | 13523153 | Belum Submit |
 | 18 | M. Abizzar Gamadrian | 13523155 | [link](https://abizzarg.github.io/all-about-me/All_About_me/) |
 | 19 | Arlow Emmanuel Hergara | 13523161 | [link](https://arlowstei.github.io/all-about-me/) |
@@ -44,6 +44,6 @@
 | 36 | Aisyah Az Zahra | 18224121 | [link](https://eskrimikan.github.io/UTS_Kominter/) |
 | 37 | Tyara Penelope Lumban Gaol | 18224122 | [link](https://tyawaa.github.io/all-about-me/) |
 | 38 | Muchammad Rafif Azis Syahlevi | 18224123 | Belum Submit |
-| 39 | Geodipa Afatha Ryu M.F.Z. | 18224124 | [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh3KCA90zkKt28pmpYoKmoSeKTLO-R8Xd2lYw-fFbBmnVtBDEI1DmaTLIyyVzRwd_cid1vrCxQIBDk/pubhtml) |
+| 39 | Geodipa Afatha Ryu M.F.Z. | 18224124 | [link](https://geodiparyuyt.github.io/all-about-geo/index.html) |
 | 40 | Rachel Elnora Mannuelle S. | 18224125 | [link](https://elnoraam.github.io/all-about-me/) |
 | 41 | Muhamad Radhitya Alamsyah | 18224126 | [link](radhitya27.github.io/all-about-me) |

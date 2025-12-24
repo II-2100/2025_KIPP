@@ -1,4 +1,5 @@
 # Laporan Submisi UAS II-2100 — Kelas 01
+
 - Total mahasiswa: **74**
 - Sudah submit: **71**
 - Belum submit: **3**
@@ -40,7 +41,7 @@
 | 33 | Nafhan Shafy Aulia | 18224027 | [link](https://nafhansa.github.io/all-about-me/) |
 | 34 | Mineva Azzahra | 18224029 | [link](https://min646.github.io/all-about-me/) |
 | 35 | Daniel Arrigo Manurung | 18224031 | [link](https://1920xl080.github.io/all-about-me/) |
-| 36 | Rezky Muhammad Hafiz Batubara | 18224033 | [link](https://skyx59.github.io/18224033-AsesmenII2100/All_About_me/) |
+| 36 | Rezky Muhammad Hafiz Batubara | 18224033 | [link](https://skyx59.github.io/18224033-AsesmenII2100/) |
 | 37 | Stella Cometta Febriana | 18224035 | [link](https://18224035-dotcom.github.io/Portofolio-UTS-18224035/) |
 | 38 | Indah Ramadhani | 18224037 | [link](https://indahr118.github.io/all-about-me/) |
 | 39 | Luthfi Al Pasha | 18224039 | [link](https://pashaaaaaaaaaaa.github.io/all_about_me/) |
