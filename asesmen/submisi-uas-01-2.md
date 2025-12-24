@@ -1,7 +1,8 @@
 # Laporan Submisi UAS II-2100 — Kelas 01
+
 - Total mahasiswa: **74**
-- Sudah submit: **71**
-- Belum submit: **3**
+- Sudah submit: **70**
+- Belum submit: **4**
 
 | NO | NAMA | NIM | URL Tugas |
 |---:|---|---|---|
@@ -36,7 +37,7 @@
 | 29 | Evan Nathanael Tanuri | 18224019 | [link](https://evantanuri.github.io/all-about-me/) |
 | 30 | Muhammad Okto Huzainy | 18224021 | [link](https://takkko-o.github.io/all-about-me/) |
 | 31 | Ahmad Aditya Ar Rasyid | 18224023 | [link](https://kenpa1945.github.io/18224023-AsesmenII2100/) |
-| 32 | Muhammad Faris Daffa | 18224025 | [link](https://owfarisz.github.io/all-about-me-mfarisd/#pro-reviews) |
+| 32 | Muhammad Faris Daffa | 18224025 | Belum Submit |
 | 33 | Nafhan Shafy Aulia | 18224027 | [link](https://nafhansa.github.io/all-about-me/) |
 | 34 | Mineva Azzahra | 18224029 | [link](https://min646.github.io/all-about-me/) |
 | 35 | Daniel Arrigo Manurung | 18224031 | [link](https://1920xl080.github.io/all-about-me/) |
@@ -58,7 +59,7 @@
 | 51 | Yumna Fathonah Kautsar | 18224063 | [link](https://yummypop.github.io/all-about-me/) |
 | 52 | Benedicta Sherin Chyntia Putri | 18224065 | [link](https://benedictasherinn.github.io/II-2100/) |
 | 53 | Bryant Azraqi Mohammad | 18224067 | [link](https://azraqii.github.io/all-about-me/index.html) |
-| 54 | Fikrifalah Muslich | 18224069 | [link](https://fikrifalah.github.io/18224069/) |
+| 54 | Fikrifalah Muslich | 18224069 | [link](https://fikrifalah.github.io/18224069/All_About_me/) |
 | 55 | Ellaine Juvina | 18224071 | [link](https://aucloire.github.io/all-about-me/) |
 | 56 | Abdullah Ahmad Yusuf | 18224073 | [link](https://yoeztzy.github.io/all-about-me/) |
 | 57 | Sherry Eunike | 18224075 | [link](https://gasukabawang.github.io/all-about-me/) |
